@@ -1,4250 +1,1421 @@
-2011
-
-Section I Use of English 
-第一节 英语的使用 
-
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-指示。阅读下面的文字。选择最好的词[为每个编号的空白处]并在答案页上标出A、B、C或D。
-
-The Internet affords anonymity to its users, a blessing (to privacy) and freedom (of speech). 
-互联网为其用户提供了匿名性，是（隐私）和（言论自由）的福音。 
-But that very anonymity is [also] behind the explosion (of cyber-crime (that has 1 [across the Web])).
-但这种匿名性[也]是（网络犯罪（有1个[跨网络]））爆炸的背后。
-
-Can privacy be preserved 2 bringing safety and security to a world (that seems [increasingly] 3)?
-能否保留隐私2给这个世界带来安全和保障（似乎[越来越多]3）？
-
-[Last month], Howard Schmidt, <the nation's cyber-czar>, offered the federal government a 4 to make the Web a safer place -- || a "voluntary trusted identity" system (that would be the high-tech 5 (of a physical key, a fingerprint and a photo ID card),) all rolled 6 one.
-[上个月]，霍华德-施密特（Howard Schmidt），<国家的网络警察>，为联邦政府提供了一个使网络更安全的地方--|"自愿可信的身份 "系统（这将是高科技的（物理钥匙、指纹和身份证照片），）都卷在一起。
-(safer 为 safe 的比较级形式)
-The system might use a smart identity card, or a digital credential 7 [to a specific computer], and would authenticate users [at a range (of online services)].
-该系统可能使用一个智能身份证，或一个数字证书7[到一个特定的计算机]，并将验证用户[在一系列（在线服务）]。
-
-The idea is to [8 a] federation (of private online identity systems). Users could 9 which system to join, and only registered users (whose identities have been authenticated) could navigate those systems. 
-这个想法是[8]一个（私人在线身份系统的）联盟。用户可以9加入哪个系统，而且只有注册用户（其身份已被验证）可以浏览这些系统。 
-The approach contrasts with one (that would require an Internet driver's license 10 [by the government]).
-该方法与一个（需要互联网驾驶执照10[由政府]）形成对比。
-
-Google and Microsoft are among companies (that already have these "single sign-on" systems (that make it possible [for users] [to 11]) [just once]) but use many different services. 
-谷歌和微软等公司（已经拥有这些 "单点登录 "系统（使其有可能[为用户][11]）[只需一次]），但使用许多不同的服务。 
-12,the approach would create a "walled garden" [in cyberspace], [with safe "neighborhoods" and bright "streetlights"] to establish a sense (of a 13 community).
-12,该方法将创建一个[网络空间]的 "围墙花园"，[有安全的 "社区 "和明亮的 "路灯"]，以建立一种（社区的）感觉。
-
-Mr. Schmidt described it as a "voluntary ecosystem" (in which "individuals and organizations can complete online transactions [with 14]), trusting the identities (of each other) and the identities (of the infrastructure 15 (which the transaction runs))."
-施密特先生将其描述为一个 "自愿的生态系统"（其中 "个人和组织可以完成在线交易[与14]），信任（对方的）身份和（基础设施15（交易运行）的身份）"。
-
-[Still], the administration's plan has 16 privacy rights activists. Some applaud the approach; others are concerned. 
-[不过，政府的计划有16位隐私权活动家。一些人对这一做法表示赞赏；其他人则表示担忧。 
-It seems clear | that such a scheme is an initiative push [toward {what would}] 17 be a compulsory Internet "driver's license" mentality.
-似乎很清楚，这样的计划是一种主动推动[走向[什么会]]17的强制性互联网 "驾照 "心态。
-(has 为 have 的第三人称单数形式。)
-
-The plan has [also] been greeted with 18 [by some computer security experts, (who worry | that the "voluntary ecosystem" envisioned [by Mr. Schmidt] would [still] leave much (of the Internet 19))]. 
-该计划[也]受到了一些计算机安全专家的欢迎，他们担心[施密特先生]设想的 "自愿生态系统"[仍然]会留下许多（互联网的19）]。 
-They argue | that all Internet users should be 20 to register and identify themselves, [in the same way (that drivers must be licensed to drive [on public roads])].
-他们认为，所有的互联网用户都应该注册并确定自己的身份，[就像（司机必须获得许可才能[在公共道路上]开车一样]。
-
-1.[ A ) swept (B) skipped (C) walked (D) ridden 
-1. [ A ) 扫过 (B) 跳过 (C) 走过 (D) 骑过 
-2. (A) for (B) within (C) while (D) though 
-2、（A）为（B）内（C）而（D）虽然 
-3 (A) careless (B) lawless (C) pointless (D) helpless 
-3 (A) 漫不经心 (B) 无法无天 (C) 毫无意义 (D) 无能为力 
-4. (A) reason (B) | reminder (C) compromise (D) proposal 
-4、（A）原因（B）|提醒（C）妥协（D）建议 
-5. (A) information (B) interference (C) entertainment (D) equivalent 
-5、（A）信息（B）干扰（C）娱乐（D）等同 
-6. (A) by (B) into (C) from (D) over 
-6.(A) 由 (B) 进入 (C) 来自 (D) 超过 
-7. (A) linked (B) directed (C) chained (D) compared 
-7.（A）联系（B）定向（C）连锁（D）比较 
-8. (A) dismiss (B) discover (C) create (D) improve
-8.(A) 驳回 (B) 发现 (C) 创造 (D) 改进
-(swept 为 sweep 的过去式。ridden 为 ride 的过去分词。)
-9. [ A ) recall (B) suggest (C) select (D) realize
-9.[A] 回顾 (B) 建议 (C) 选择 (D) 实现
-10. [ A ) released (B) issued (C) distributed (D) delivered 
-10.[A] 释放 (B) 发放 (C) 分发 (D) 交付 
-11. (A) carry on (B) linger on (C) set in (D) log in. 
-11.(A) 进行 (B) 逗留 (C) 设置 (D) 登录。 
-12. (A) In vain (B) In effect (C) In return (D) (In contrast) 
-12.(A) 徒劳 (B) 有效 (C) 回报 (D) (对比) 
-13. (A) trusted (B) modernized (C) thriving (D) competing 
-13.(A) 信任 (B) 现代化 (C) 繁荣 (D) 竞争 
-14. (A) caution (B) delight (C) confidence (D) patience 
-14.(A) 谨慎 (B) 喜悦 (C) 信心 (D) 耐心 
-15. (A) on (B) after (C) beyond (D) across 
-16. (A) divided (B) disappointed (C) protected (D) united
-16.(A) 分裂 (B) 失望 (C) 保护 (D) 团结
-17. [ A ) frequently (B) incidentally (C) occasionally (D) [eventually] 
-17.[A] 经常 (B) 偶然 (C) 偶尔 (D) [最终] 。 
-18. (A) skepticism (B) tolerance (C) indifference (D) enthusiasm 
-18.(A) 怀疑 (B) 容忍 (C) 冷漠 (D) 热情 
-19. (A) manageable (B) defendable (C) vulnerable (D) invisible 
-19.（A）可管理的（B）可防御的（C）脆弱的（D）无形的 
-20. (A) invited (B) appointed (C) allowed (D) forced
-20.(A) 邀请 (B) 指定 (C) 允许 (D) 迫使
-
-Section Ⅱ Reading Comprehension
-第二节 阅读理解
-
-Part A Directions: Read the following four texts .Answer the questions [after each text] [by choosing A, B, C or D].Mark your answers on the ANSWER | SHEET.(40 points)
-A部分 指示。阅读以下四篇文章。回答[每篇文章后的]问题[选择A、B、C或D]。请在答题纸上标出你的答案（40分）
-
-Text 1
-
-Ruth Simmons joined Goldman Sachs's board [as an outside director] [in January 2000]; [a year later] she became president (of Brown University).
-露丝-西蒙斯[作为外部董事][于2000年1月]加入高盛董事会；[一年后]她成为（布朗大学的）校长。
-[For the rest (of the decade)] she apparently managed both roles [without attracting much criticism].
-[在（这十年的）剩余时间里]她显然同时扮演了这两个角色[没有招致很多批评]。
-But [by the end (of 2009 Ms. Simmons)] was under fire [for having sat on Goldman's compensation committee]; how could she have let Those enormous bonus payouts pass unremarked?
-但[到了（2009年）年底，西蒙斯女士]因[在高盛的薪酬委员会任职]而受到抨击；她怎么可能让那些巨额奖金的发放不受关注？
-[By February] [the next year] Ms. Simmons had left the board.
-[到[第二年]2月，西蒙斯女士已经离开了董事会。
-(left 为 leave 的过去分词。)
-The position was [just]只是 taking up too much time, || she said.
-这个职位[只是]只是 ，占用了太多的时间，|她说。
-(said 为 say 的过去式。)
-
-Outside directors are supposed to serve [as helpful, yet less biased, advisers] [on a firm's board].
-外部董事应该[在公司的董事会中][作为有帮助的、但不那么有偏见的顾问]发挥作用。
-[Having made their wealth and their reputations [elsewhere]], they presumably have enough independence to disagree with the chief executive's proposals.
-[在[其他地方]赚取了财富和声誉之后，他们大概有足够的独立性来不同意首席执行官的提议。
-If the sky, and the share price, is falling, || outside directors should be able to give advice (based on having weathered their own crises).
-如果天空和股价都在下跌，外部董事应该能够提供建议（基于经历过他们自己的危机）。
-
-The researchers (from Ohio University) used a database (that covered [more than] 10,000 firms and [more than] 64,000 different directors [between 1989 and 2004]).
-研究人员（来自俄亥俄大学）使用了一个数据库（涵盖[超过]10,000家公司和[超过]64,000名不同的董事[在1989年至2004年期间]）。
-[Then] they simply checked | which directors stayed [from one proxy statement to the next].
-[然后，他们简单地检查了哪些董事[从一份代理声明到下一份]留下来。］
-The most likely reason (for departing a board) was age, || so the researchers concentrated on those "surprise" disappearances [by directors] [under the age (of 70)].
-最有可能的（离开董事会的）原因是年龄，所以研究人员集中关注那些[70岁以下的][董事]的 "意外 "失踪。
-They found | that [after a surprise departure], the probability (that the company will [subsequently] have to restate earnings) increases by nearly 20%.
-他们发现，[在意外离职后]，（公司[随后]必须重报盈利）的概率增加了近20%。
-(found 为 find 的过去式。)
-The likelihood (of being named [in a federal class-action lawsuit]) also increases, || and the stock is likely to perform [worse].
-被列入[联邦集体诉讼]的可能性也会增加，||而且股票的表现可能会[更差]。
-(worse 为 badly 的比较级形式)
-The effect tended to be larger [for larger firms].
-这种影响倾向于更大[对较大的公司]。
-(larger 为 large 的比较级形式)
-
-Although a correlation (between them leaving and subsequent bad performance (at the firm)) is suggestive, || it does not mean | that such directors are [always] jumping off a sinking ship.
-虽然（他们的离开和随后的不良表现（在公司）之间）有一定的关联性，但这并不意味着这些董事[总是]跳下沉船。
-[Often] they "trade up," leaving riskier, smaller firms for larger and more stable firms.
-[通常情况下，他们会 "向上交易"，离开风险较高、规模较小的公司，转而选择规模更大、更稳定的公司。
-(riskier 为 risky 的比较级形式, smaller 为 small 的比较级形式, larger 为 large 的比较级形式)
-
-But the researchers believe | that outside directors have an easier time (of avoiding a blow [to their reputations]) || if they leave a firm || before bad news breaks, || even if a review (of history) shows | that they were on the board [at the time (any wrongdoing occurred)].
-但研究人员认为，如果外部董事在坏消息传出之前离开公司，他们会更容易（避免[对其声誉]的打击）||即使审查（历史）显示|他们[在（任何不法行为发生时）]是董事会成员。
-Firms (who want to keep their outside directors [through tough times]) may have to create incentives.
-公司（想留住他们的外部董事[度过艰难时期]）可能必须建立激励机制。
-Otherwise outside directors will follow the example (of Ms.Simmons), once again very popular on campus.
-否则，外部董事将效仿（西蒙斯女士），再次在校园里非常受欢迎。
-
-21. [According to Paragraph 1], Ms. Simmons was criticized [for ]. 
-21.[根据第1段]，西蒙斯女士被批评[因为]。 
-(A) gaining excessive profits 
-(A) 获得超额利润 
-(B) failing to fulfill her duty 
-(B) 未能履行其职责 
-(C) refusing to make compromises 
-(C) 拒绝作出妥协 
-(D) leaving the board [in tough times]
-(D) 离开董事会[在困难时期]
-22. We learn [from Paragraph 2] | that outside directors are supposed to be
-22.我们[从第2段]得知，外部董事应该是
-(A) generous investors 
-(A) 慷慨的投资者 
-(B) unbiased executives 
-(B) 无偏见的执行者 
-(C) share price forecasters 
-(C) 股票价格预测者 
-(D) independent advisers 
-(D) 独立顾问 
-23. [According to the researchers (from Ohio University)], [after an outside director's surprise departure], the firm is likely to. 
-23.[根据研究人员（来自俄亥俄大学）的说法，[在外部董事突然离开后]，公司可能会。 
-(A)become more stable 
-(A)变得更加稳定 
-(B) report increased earnings 
-(B) 报告收益增加 
-(C) do less well (in the stock market ) 
-(C)做得不那么好(在股票市场) 
-(D) perform [worse] [in lawsuits] 
-(D) 表现[更差][打官司] 
-24. It can be inferred from the last paragraph | that [outside directors]. ‎
-24.从最后一段可以推断出，[外部董事]。
-(A)may stay [for the attractive offers] [from the firm]
-(A)可以留下[为有吸引力的报价][从公司]。
-(B)have [often] had records (of wrongdoings) [in the firm] ‎
-(B)[经常]有[在公司]的（错误行为）记录
-(C)are accustomed to stress-free work [in the firm] ‎
-(C)习惯于[在公司]无压力的工作
-(D) will decline incentives [from the firm]. ‎‎
-(D) 将拒绝[来自公司的]奖励。
-25.The author's attitude (toward the role (of outside directors)) is. 
-25.作者（对（外部董事的作用）的态度是。 
-
-(A)permissive(B)positive(C)scornful(D)critical
-(A)允许(B)积极(C)轻蔑(D)批评
-
-Text 2
-
-Whatever happened to the death (of newspapers)?
-不管（报纸）的死亡是怎么回事？
-
-[A year ago] the end seemed near.
-[一年前]末日似乎已经来临。
-
-The recession threatened to remove the advertising and readers (that had not [already] fled to the internet).
-经济衰退威胁到了广告和读者（还没有[已经]逃到互联网上的）。
-(fled 为 flee 的过去分词。) 
-
-Newspapers (like the San Francisco Chronicle) were chronicling their own doom.
-报纸（如《旧金山纪事报》）正在记录他们自己的厄运。
-
-America's Federal Trade Commission launched a round (of talks) [about {how to save newspapers}].
-美国联邦贸易委员会发起了一轮（会谈）[关于{如何拯救报纸}]。
-
-Should they become charitable corporations?
-他们是否应该成为慈善公司？
-
-Should the state subsidize them?
-国家应该对他们进行补贴吗？
-
-It will hold another meeting [soon].
-它将[很快]举行另一次会议。
-
-But the discussions now seem out of date.
-但这些讨论现在看来已经过时了。
-
-
-[In much (of the world)] there is little sign (of crisis).
-[在（世界的）大部分地区]几乎没有（危机的）迹象。
-
-German and Brazilian papers have shrugged off the recession.
-德国和巴西的报纸已经甩开了经济衰退的影响。
-
-[Even] American newspapers, (which inhabit the most troubled corner (of the global industry)), have not only survived but often returned to profit.
-[甚至]美国的报纸，（居住在（全球产业中）最混乱的角落），不仅幸存下来，而且经常恢复盈利。
-
-Not the 20% profit margins (that were routine [a few years ago]), but profit [all the same].
-不是20%的利润率（[几年前]是常规的），但利润[都一样]。
-
-
-It has not been much fun.
-这并不怎么有趣。
-
-Many papers stayed afloat [by pushing journalists [overboard]].
-许多报纸[通过把记者[推下水]]来维持生计。
-
-The American Society (of News Editors) reckons | that 13,500 newsroom jobs have gone [since 2007].
-美国新闻编辑协会估计，[自2007年以来]有13,500个新闻编辑室的工作岗位消失。
-
-Readers are paying more for slimmer products.
-读者正在为更苗条的产品支付更多费用。
-(slimmer 为 slim 的比较级形式)
-Some papers even had the nerve to refuse delivery [to distant suburbs].
-有些报纸甚至敢于拒绝[向远郊]投递。
-
-Yet these desperate measures have proved the right ones and, [sadly] [for many journalists], they can be pushed [further].
-然而，这些绝望的措施已被证明是正确的，而且，[可悲的是][对许多记者来说]，它们可以被[进一步]推到。
-
-
-Newspapers are becoming more balanced businesses, [with a [healthier mix (of revenues)] [from readers and advertisers].
-报纸正在成为更加平衡的企业，[来自读者和广告商的][收入组合更加健康]。
-
-American papers have [long] been highly unusual [in their reliance (on ads)].
-美国的报纸[长期以来]在[对广告的依赖]方面一直非常不寻常。
-
-Fully 87% (of their revenues) came from advertising [in 2008], [according to the Organization (for Economic Cooperation & Development) (OECD)].
-根据（经济合作与发展）组织（OECD）的数据，[2008年]（他们的收入）有87%来自广告。
-
-[In Japan] the proportion is 35%.
-[在日本]这一比例为35%。
-
-[Not surprisingly], Japanese newspapers are much more stable.
-[不足为奇]，日本的报纸要稳定得多。
-
-
-The whirlwind (that swept through newsrooms) harmed everybody, || but much (of the damage) has been concentrated in areas (where newspapers are least distinctive).
-这股（席卷新闻编辑部的）旋风伤害了所有人，但大部分（伤害）都集中在（报纸最没有特色的）地区。
-(swept 为 sweep 的过去式。) 
-
-Car and film reviewers have gone.
-汽车和电影评论员都走了。
-
-[So have] science and general business reporters.
-[科学和一般商业记者也有。
-
-Foreign bureaus have been [savagely] cut off.
-外国局被[野蛮地]切断了。
-(cut 为过去分词，与其动词原形拼写相同。) 
-
-Newspapers are less complete [as a result].
-报纸不太完整[的结果]。
-
-But completeness is [no longer] a virtue [in the newspaper business].
-但完整性[不再是][报业]的一种美德。
-
-
-26. By saying "| Newspapers like...their own doom"(Para.1), the author indicates that newspapers. 
-26.通过说 "报纸就像......他们自己的厄运"（第1段），作者表明报纸。 
-
-(A) neglected the sign (of crisis) 
-(A) 忽略了（危机）的迹象 
-
-(B) failed to get state subsidies 
-(B) 未能获得国家补贴 
-
-(C) were not charitable | corporations 
-(C) 不是慈善机构 
-
-(D) were in a desperate situation 
-(D) 处于绝望的境地 
-
-27.Some newspapers refused delivery [to distant suburbs] [probably] because. 
-27.一些报纸拒绝[向远郊]投递，[可能]是因为。 
-
-(A) readers threatened to pay [less] 
-(A) 读者威胁要支付[较少]的费用 
-
-(B) newspapers wanted to reduce costs 
-(B) 报纸希望减少成本 
-
-(C) journalists reported [little] [about these areas 
-(C) 记者对这些领域的报道[很少]。 
-
-(D) subscribers complained [about slimmer products]]
-(D) 用户抱怨[关于更薄的产品]]
-
-28. [Compared with their American counterparts], Japanese newspapers are much more stable || because they. 
-28.[与美国的同行相比，日本的报纸要稳定得多，因为它们。 
-
-(A) have more sources (of revenue) 
-(A) 有更多的（收入）来源 
-
-(B) have more balanced newsrooms 
-(B) 拥有更平衡的新闻室 
-
-(C) are | less dependent (on advertising ) 
-(C) 不太依赖（广告）。 
-
-(D)are less affected [by readership]
-(D)受[读者]的影响较小
-
-29. What can be inferred from the last paragraph [about the current newspaper business]? 
-29.从最后一段[关于目前的报纸业务]可以推断出什么？ 
-
-(A)Distinctiveness is an essential feature (of newspapers). 
-(A)独特性是(报纸)的一个基本特征。 
-
-(B)Completeness is to blame for the failure (of newspapers). 
-(B)完整性应归咎于（报纸）的失败。 
-
-(C)Foreign bureaus play a crucial role [in the newspaper business]. 
-(C)外国分社在[报业]中起着至关重要的作用。 
-
-(D)Readers have lost their interest (in car) and film reviews.
-(D)读者已经失去了（对汽车）和电影评论的兴趣。
-(lost 为 lose 的过去分词。)
-30. The most appropriate title (for this text) would be. 
-30.最合适的标题（对这一文本）是： 
-
-(A)American Newspapers: Struggling for Survival 
-(A)美国报纸。为生存而挣扎 
-
-(B) American Newspapers: Gone [with the Wind ]
-(B) 美国报纸。消失[与风]
-
-(C) American Newspapers : A Thriving Business 
-(C) 美国报纸：繁荣的业务 
-
-(D) American Newspapers: A Hopeless Story
-(D) 美国报纸。一个没有希望的故事
-
-
-Text 3
-
-We tend to think of the decades [immediately] following World War Ⅱ [as a time (of prosperity and growth)], [with soldiers returning [home] [by the millions], going off [to college] [on the G.I. Bill] and lining up [at the marriage bureaus]].
-我们倾向于认为第二次世界大战后的几十年[紧接着]是一个（繁荣和增长的）时期，[士兵们[数以百万计]返回[家]，[靠G.I法案]去[上大学]，并[在婚姻局]排队。
-
-
-But when it came to their houses, || it was a time (of common sense) and a belief (that less could truly be more).
-但当涉及到他们的房子时，这是一个（常识）和一个信念（少即是多）的时代。
-
-[During the Depression and the war], Americans had learned to live [with less], || and that restraint, <in combination (with the postwar confidence (in the future))>, made small, efficient housing positively stylish.
-[在大萧条和战争期间，美国人学会了[少花钱]的生活方式，而这种克制，<与战后的信心（对未来）>相结合，使小而有效的住房成为积极的时尚。
-(made 为 make 的过去式。) 
-
-
-Economic condition was [only] a stimulus [for the trend (toward efficient living)].
-经济状况[只是]刺激了[（走向高效生活）的趋势]。
-
-The phrase "[less] is more" was [actually] [first] popularized [by a German], || the architect Ludwig Mies van der Rohe, (who like other people associated with the Bauhaus, a school (of design)), emigrated to the United States [before World War Ⅱ] and took up posts [at American architecture schools].
-少即是多 "这句话[实际上]是[首先]由一个德国人推广的，|建筑师路德维希-密斯-凡-德-罗，（他和其他与包豪斯这个学校（设计）有关的人一样），在[第二次世界大战前]移民到美国，并在[美国建筑学校]任职。
-(took 为 take 的过去式。) 
-
-These designers came to exert enormous influence on the course (of American architecture), but none more so than Mies.
-这些设计师对（美国建筑）的进程产生了巨大的影响，但没有人比密斯更有影响力。
-(came 为 come 的过去式。)
-
-
-Mies's signature phrase means | that less decoration, <properly organized>, has more impact [than a lot].
-密斯的标志性短语的意思是，较少的装饰，<适当的组织>，具有更多的影响[比很多]。
-(has 为 have 的第三人称单数形式。) 
-
-Elegance, <he believed>, did not derive from abundance.
-优雅，<他认为>，并不来自于富足。
-
-
-[Like other modern architects], he employed metal, glass and laminated wood -- materials (that we take for granted [today]) but (that [in the 1940s] symbolized the future).
-[与其他现代建筑师一样]，他采用了金属、玻璃和层压木材--（我们[今天]认为理所当然的）但（在1940年代）象征着未来的材料。
-
-Mies's sophisticated presentation masked the fact (that the spaces (he designed) were small and efficient), [rather than big and often empty].
-密斯复杂的表述掩盖了（（他设计的）空间小而有效）的事实，[而不是大而空]。
-
-
-The apartments (in the elegant towers Mies built on Chicago's Lake Shore Drive, <for example>,) were smaller--two-bedroom units (under 1,000 square feet)--than those (in their older) neighbors along the city's Gold Coast.
-这些公寓（在密斯在芝加哥湖滨大道上建造的优雅的塔楼中，<例如>，）比城市黄金海岸的那些（老旧的）邻居的公寓要小--两居室单位（低于1,000平方尺）。
-(built 为 build 的过去分词。feet 为 foot 的复数形式。smaller 为 small 的比较级形式, older 为 old 的比较级形式) 
-
-But they were popular [because of their airy glass walls, the views (they afforded) and the elegance (of the buildings' details and proportions)], the architectural equivalent (of the abstract art (so popular) (at the time)).
-但它们很受欢迎[因为它们有通风的玻璃墙，（它们提供的）景色和（建筑的细节和比例）的优雅]，相当于（当时）抽象艺术（如此流行）的建筑。
-
-
-The trend (toward "less") was not entirely foreign.
-这种趋势（走向 "少"）并不完全是外来的。
-
-[In the 1930s] Frank Lloyd Wright started building more modest and efficient houses -- [usually] [around 1,200 square feet] --[than the spreading two-story ones (he had designed [in the 1890s and the early 20th century])].
-[20世纪30年代]弗兰克-劳埃德-赖特开始建造更加适度和高效的房屋--[通常][1200平方英尺左右]--[比起（他[在19世纪90年代和20世纪初]设计的）蔓延的两层楼的房屋]。
-(feet 为 foot 的复数形式。)
-
-
-The "Case Study Houses" commissioned [from talented modern architects] [by California Arts & Architecture magazine] [between 1945 and 1962] were yet another homegrown influence [on the "[less] is more" trend].
-由《加利福尼亚艺术与建筑》杂志[在1945年至1962年期间]委托[有才华的现代建筑师]建造的 "案例研究房屋 "是["少即是多 "趋势的又一本土影响。
-
-Aesthetic effect came from the landscape, new materials and forthright detailing.
-审美效果来自于景观、新材料和直截了当的细节设计。
-(came 为 come 的过去式。) 
-[In his Case Study House], Ralph Rapson may have mispredicted | just how the mechanical revolution would impact everyday life -- || few American families acquired helicopters, || though most eventually got clothes dryers -- || but his belief (that self-sufficiency was both desirable and inevitable) was [widely] shared.
-[在他的 "案例研究之家 "中，拉尔夫-拉普森可能错误地预测了机械革命对日常生活的影响--很少有美国家庭购买直升机，尽管大多数家庭最终都有了干衣机--但他的信念（自给自足是理想的，也是不可避免的）得到了广泛认同。
-(got 为 get 的过去式。) 
-
-
-31.The postwar American housing style largely reflected the Americans' 
-31.战后美国的住房风格很大程度上反映了美国人的 
-
-prosperity and growth
-繁荣与增长
-
-efficiency and practicality
-高效和实用
-
-restraint and confidence
-克制和自信
-
-pride and faithfulness
-骄傲和忠诚
-
-
-32.Which of the following can be inferred from Paragraph 3 about the Bauhaus?
-32.从第3段可以推断出关于包豪斯的以下哪项内容？
-
-It was founded [by Ludwig Mies van der Rohe].
-它是由[路德维希-密斯-凡-德-罗]创立的。
-
-Its designing concept was affected [by World War Ⅱ].
-其设计理念受到了[第二次世界大战]的影响。
-
-Most American architects used to be associated with it.
-大多数美国建筑师曾经与之相关。
-
-It had a great influence [upon American architecture].
-它对[美国建筑]产生了巨大影响。
-
-33.Mies held that elegance (of architectural design)
-33.密斯认为，（建筑设计的）优雅性
-
-was related to large space
-是与大空间有关的
-
-was identified with emptiness
-被识别为空性
-
-was not reliant on abundant decoration
-并不依赖丰富的装饰
-
-was not associated with efficiency
-与效率没有关系
-
-
-34.What is true [about the apartments (Mies built on Chicago's Lake Shore Drive)]?
-34.[关于公寓（密斯在芝加哥湖滨大道上建造的公寓）]，什么是真的？
-
-They ignored details and proportions.
-他们忽略了细节和比例。
-
-They were built [with materials (popular)] [at that time].
-它们是[在当时][用材料（流行）]建造的。
-
-They were more spacious [than neighboring buildings].
-它们[比邻近的建筑]更宽敞。
-
-They shared some characteristics (of abstract art).
-他们共享一些（抽象艺术的）特征。
-
-
-35.What can we learn [about the design (of the "Case Study Houses)]"?
-35.我们能学到什么[关于（"案例研究房屋"）的设计]"？
-
-Mechanical devices were [widely] used.
-机械装置被[广泛]使用。
-
-Natural scenes were taken [into consideration].
-自然场景被[考虑]到了。
-
-Details were sacrificed [for the overall effect].
-细节被牺牲了[为了整体效果]。
-
-Eco-friendly materials were employed.
-采用了生态友好型材料。
-
-Text 4
-
-Will the European Union make it?
-欧洲联盟会成功吗？
-
-The question would have sounded strange [not long ago].
-这个问题[在不久之前]听起来很奇怪。
-
-[Now] [even] the project's greatest cheerleaders talk of a continent facing a "Bermuda triangle" (of debt, population decline and lower growth).
-[现在][甚至]该项目最大的拉拉队都在谈论一个面临 "百慕大三角"（债务、人口下降和增长率降低）的大陆。
-(greatest 为 great 的最高级形式, lower 为 low 的比较级形式) 
-
-
-[As well as those chronic problems], the EU faces an acute crisis [in its economic core], the 16 countries (that use the single currency).
-[除了这些慢性问题，欧盟还面临着[其经济核心]，即16个国家（使用单一货币）的严重危机。）
-
-Markets have lost faith (that the euro zone's economies, <weaker or stronger>, will [one day] converge [thanks to the discipline (of sharing a single currency, (which denies uncompetitive members the quick fix (of devaluation)))]).
-市场已经失去了信心（欧元区的经济，<较弱或较强>，将[有一天]趋于一致[由于（共享单一货币的纪律，（拒绝了没有竞争力的成员的快速修复（贬值））]）。
-(lost 为 lose 的过去分词。weaker 为 weak 的比较级形式, stronger 为 strong 的比较级形式) 
-
-
-Yet the debate (about {how to save Europe's single currency from disintegration}) is stuck.
-然而，（关于{如何拯救欧洲的单一货币免于解体}的辩论却陷入困境。
-(stuck 为 stick 的过去分词。) 
-
-It is stuck || because the euro zone's dominant powers, <France and Germany>, agree [on the need (for greater harmonisation)] [within the euro zone], but disagree [about {what to harmonise}].
-它被卡住了，因为欧元区的主导力量，<法国和德国>，同意[在欧元区内][需要（更加协调）]，但不同意[协调什么]。
-(stuck 为 stick 的过去分词。greater 为 great 的比较级形式) 
-
-Germany thinks | the euro must be saved [by stricter rules] [on borrowing, spending and competitiveness], backed [by quasi-automatic sanctions] [for governments (that do not obey)].
-德国认为，必须[通过更严格的规则][对借款、支出和竞争力]来拯救欧元，并以[对（不遵守的）政府进行准自动制裁]为后盾。
-(stricter 为 strict 的比较级形式) 
-
-These might include threats to freeze EU funds [for poorer regions and EU mega-projects, and [even] the suspension (of a country's voting rights)] [in EU ministerial councils].
-这些措施可能包括威胁冻结欧盟[对贫困地区和欧盟大型项目的资金，以及[甚至]暂停（一个国家的投票权）] 。[在欧盟部长级会议上]。
-(poorer 为 poor 的比较级形式) 
-
-It insists | that economic coordination should involve all 27 members (of the EU club, (among whom there is a small majority [for free-market liberalism and economic rigour ])); [in the inner core (alone), <Germany fears>], a small majority favour French interference.
-它坚持认为，经济协调应该涉及（欧盟俱乐部的）所有27个成员，（其中有一小部分人[支持自由市场自由主义和经济严谨性]）；[在内部核心（单独），<德国担心>]，一小部分人赞成法国干预。
-
-
-A "southern" camp headed [by France] wants something (different): "European economic government" (within an inner core (of euro-zone members)).
-以[法国]为首的 "南方 "阵营想要一些东西（不同）。"欧洲经济政府"（在（欧元区成员的）内部核心中）。
-
-[Translated], that means politicians intervening in monetary policy and a system (of redistribution) [from richer to poorer members], [via cheaper borrowing] [for governments] [through common Eurobonds] or complete fiscal transfers.
-[翻译]，这意味着政治家干预货币政策和一个系统（重新分配）[从较富裕的成员到较贫穷的成员]，[通过更便宜的借款][为政府][通过共同欧洲债券]或完全的财政转移。
-(richer 为 rich 的比较级形式, poorer 为 poor 的比较级形式, cheaper 为 cheap 的比较级形式) 
-
-[Finally], figures (close to the French government) have murmured, || euro-zone members should agree to some fiscal and social harmonisation: e.g., curbing competition [in corporate-tax rates or labour costs].
-[最后，（与法国政府关系密切的）人士喃喃自语道："欧元区成员应同意进行一些财政和社会协调：例如，遏制[公司税率或劳动力成本方面的]竞争。］
-
-
-It is [too soon] to write [off the EU].
-现在注销[欧盟]是[为时过早]。
-
-It remains the world's largest trading block.
-它仍然是世界上最大的贸易区。
-(largest 为 large 的最高级形式) 
-
-[At its best], the European project is remarkably liberal: [built [around a single market (of 27 rich and poor countries)]], its internal borders are [far more] open to goods, capital and labour [than any comparable trading area].
-[在其最佳状态下，欧洲项目是非常自由的。[围绕（27个富国和穷国的）单一市场]，其内部边界对货物、资本和劳动力[比任何可比的贸易区]更加开放。
-(built 为 build 的过去分词。) 
-
-It is an ambitious attempt to blunt the sharpest edges (of globalisation), and make capitalism benign.
-这是一个雄心勃勃的尝试，旨在钝化（全球化的）最尖锐的边缘，使资本主义变得良性。
-(sharpest 为 sharp 的最高级形式) 
-
-36. The EU is faced with so many problems that
-36.欧盟面临着如此多的问题，以至于
-
-[A] it has [more or less] lost faith [in markets]
-[A]它[或多或少]对[市场]失去了信心
-
-[B] [even] its supporters begin to feel concerned
-[B] [甚至]其支持者开始感到担忧
-
-[C] some (of its member countries) plan to abandon euro
-[C] 一些（其成员国）计划放弃欧元
-
-[D] it intends to deny the possibility (of devaluation)
-[D]它打算否认（贬值的）可能性
-
-37.The debate (over the EU's single currency) is stuck || because the dominant powers
-37.（关于欧盟单一货币的）辩论被卡住了，因为占主导地位的大国
-
-[A] are competing [for the leading position]
-[A]正在竞争[领导地位]。
-
-[B] are busy handling their own crises
-[B]正忙于处理自己的危机
-
-[C] fail to reach an agreement [on harmonisation]
-[C]未能达成[关于协调的]协议
-
-[D] disagree on the steps (towards disintegration)
-[D]对（走向解体的）步骤有不同意见
-
-
-38. [To solve the euro problem], Germany proposed that
-38.[为了解决欧元问题]，德国建议
-
-[A] EU funds (for poor regions) be increased
-[A] 增加欧盟（针对贫困地区）的资金
-
-[B] stricter regulations be imposed
-[B] 实施更严格的规定
-
-[C] [only] core members be involved in economic co-ordination
-[C] [只有]核心成员参与经济协调工作
-
-[D] voting rights (of the EU members) be guaranteed
-[D]保证（欧盟成员）的投票权
-
-
-39. The French proposal (of handling the crisis) implies that
-39.法国的（处理危机的）建议意味着
-
-[A] poor countries are more likely to get funds
-[A] 穷国更容易获得资金
-
-[B] strict monetary policy will be applied to poor countries
-[B] 严格的货币政策将适用于贫困国家
-
-[C] loans will be [readily] available [to rich countries]
-[C]贷款将[随时]提供给[富国]。
-
-[D] rich countries will [basically] control Eurobonds
-[D]富国将[基本上]控制欧洲债券
-
-
-40. [Regarding the future (of the EU)], the author seems to feel
-40.[关于（欧盟）的未来]，作者似乎觉得
-
-(A)pessimistic 
-(A)悲观的 
-
-(B)desperate 
-(B)铤而走险 
-
-(C)conceited 
-(C)自负 
-
-(D)hopeful 
-(D)有希望 
-
-
-Read the following text and answer the questions [by finding information [from the right column (that corresponds) to each (of the marked details given [in the left column])]]. There are two extra choices [in the right column]. Mark your answers on ANSWER SHEET 1. (10 points)
-阅读下面的文字并回答问题[从右栏中找出与每个（左栏中标出的细节）相对应的信息]。有两个额外的选择[在右栏]。在答题纸1上标出你的答案。(10分)
-
-
-Leading doctors (today) weigh in [on the debate] [over the government's role] [in promoting public health [by demanding | that ministers impose "fat taxes" on unhealthy food and introduce cigarette-style warnings to children [about the dangers (of a poor diet)]]].
-领先的医生们（今天）在[关于政府在促进公共健康方面的作用][的辩论中]进行了权衡，[要求]部长们对不健康的食物征收 "脂肪税"，并向儿童提出香烟式的警告[关于不良饮食的危险]]。
-
-
-The demands follow comments made [last week] [by the health secretary], Andrew Lansley, (who insisted | the government could not force people to make healthy choices and promised to free businesses from public health regulations).
-这些要求是在[上周][卫生部长]安德鲁-兰斯利的评论之后提出的（他坚持认为政府不能强迫人们做出健康的选择，并承诺将企业从公共卫生条例中解放出来）。
-(made 为 make 的过去分词。)
-
-
-But senior medical figures want to stop fast-food outlets opening [near schools], restrict advertising (of products) [high in fat, salt or sugar], and limit sponsorship (of sports events) [by fastfood producers (such as McDonald's)].
-但是高级医学人士希望停止在[学校附近]开设快餐店，限制[高脂肪、高盐或高糖]的（产品）广告，并限制[快餐生产商（如麦当劳）]对（体育赛事）的赞助。
-
-
-They argue | that government action is necessary to curb Britain's addiction [to unhealthy food] and help halt spiraling rates (of obesity, diabetes and heart disease). 
-他们认为，政府有必要采取行动，以遏制英国[对不健康食品]的沉迷，并帮助阻止（肥胖症、糖尿病和心脏病）的螺旋式上升。 
-
-Professor Terence Stephenson, <president (of the Royal College (of Paediatrics) and Child Health)>, said | that the consumption (of unhealthy food) should be seen to be just as damaging [as smoking or excessive drinking].
-皇家儿科和儿童健康学院院长特伦斯-斯蒂芬森教授说，消费（不健康食品）应被视为与[吸烟或过度饮酒]同样有害。
-
-
-["Thirty years ago], it would have been inconceivable to have imagined a ban (on) smoking [in the workplace] or in pubs, || and yet that is | what we have [now]. 
-[三十年前]，想象一下禁止[在工作场所]或酒馆吸烟是不可想象的，然而这就是我们[现在]的情况。 
-
-Are we willing to be just as courageous [in respect (of obesity)]? 
-我们是否愿意同样有勇气[在尊重（肥胖）方面]？ 
-
-I would suggest | that we should be," said the leader (of the UK's children's doctors).
-我建议｜我们应该这样做，"（英国儿童医生的）领导说。
-
-
-Lansley has alarmed health campaigners [by suggesting | he wants industry [rather than government] to take the lead]. 
-兰斯利已经惊动了健康运动者，[他暗示，他希望行业[而不是政府]发挥主导作用]。 
-
-He said | that manufacturers (of crisps and candies) could play a central role [in the Change4Life campaign, the centrepiece (of government efforts to boost healthy eating) and fitness].
-他说："（薯片和糖果）制造商可以在[Change4Life运动中发挥核心作用，这是（政府促进健康饮食的努力）和健身的核心。］
-
-He has [also] criticised the celebrity chef Jamie Oliver's high-profile attempt to improve school lunches [in England] [as an example (of {how "lecturing" people was not the best way to change their behaviour})].
-他[还]批评了名厨杰米-奥利弗[在英国]改善学校午餐的高调尝试[作为一个例子（说明 "说教 "人们并不是改变他们行为的最佳方式}）]。
-
-
-Stephenson suggested | potential restrictions could include banning TV advertisements [for foods] [high in fat, salt or sugar] [before 9 pm] and limiting them [on billboards] or in cinemas. "If we were really bold, || we might even begin to think of high-calorie fast food [in the same way (as cigarettes)] -- [by setting strict limits [on advertising, product placement and sponsorship (of sports events)]]," he said.
-斯蒂芬森建议，潜在的限制措施可以包括禁止[高脂肪、高盐或高糖][在晚上9点之前]的电视广告，并限制它们[在广告牌上]或在电影院里。"他说："如果我们真的很大胆，我们甚至可以开始考虑高热量的快餐[以同样的方式（香烟）]--[通过对[广告、产品投放和（体育赛事）赞助]进行严格限制。
-
-
-Such a move could affect firms (such as McDonald's, (which sponsors the youth coaching scheme run [by the Football Association])). 
-此举可能会影响到公司（如麦当劳，（它赞助了[足球协会]实施的青年教练计划））。 
-
-Fast-food chains should also stop offering "inducements" (such as toys, cute animals and mobile phone credit) to lure young customers, || Stephenson said.
-快餐连锁店也应该停止提供 "诱惑"（如玩具、可爱的动物和手机积分）来吸引年轻顾客，史蒂芬森说。
-
-
-Professor Dinesh Bhugra, <president (of the Royal College (of Psychiatrists))>, said: 
-迪尼斯-布格拉（Dinesh Bhugra）教授，<（皇家精神病学院）院长>，说。 
-
-"If children are taught about the impact (that food has [on their growth]), and (that some things can harm), || [at least] information is available [up front]." 
-"如果让孩子们了解（食物对[他们的成长]的影响），以及（有些东西会造成伤害），|[至少]信息可以[提前]获得。" 
-
-He also urged councils to impose "fast-food-free zones" [around schools and hospitals] -- areas (within which takeaways cannot open).
-他还敦促市政府在学校和医院周围设立 "无快餐区"--即（外卖店不能在其中营业的）区域。
-
-
-A Department (of Health spokesperson) said: 
-卫生部的一位发言人说。 
-
-"We need to create a new vision [for public health (where all (of society) works [together] to get healthy and live [longer])]. 
-"我们需要创造一个[公共卫生的新愿景（所有（社会）人[共同]努力获得健康和[延长]寿命）]。 
-
-This includes creating a new 'responsibility deal' [with business], built on social responsibility, not state regulation. 
-这包括创建一个新的 "责任交易"[与企业]，建立在社会责任而不是国家监管的基础上。 
-
-[Later this year], we will publish a white paper setting out [exactly] | how we will achieve this."
-[今年晚些时候]，我们将发布一份白皮书，列出[具体]｜我们将如何实现这一目标。"
-
-
-The food industry will be alarmed | that such senior doctors back such radical moves, especially the call to use some (of the tough tactics (that have been deployed [against smoking [over the last decade]])).
-食品行业将感到震惊，因为这样的高级医生支持这样的激进举措，特别是呼吁使用一些（（在[过去十年]针对吸烟的）强硬手段）。
-
-
-41.Andrew Lansley held | that 
-41.安德鲁-兰斯利认为 
-
-42.Terence Stephenson agreed | that 
-42.Terence Stephenson同意。
-
-43.Jamie Oliver seemed to believe | that 
-43.杰米-奥利弗似乎相信 
-
-44.Dinesh Bhugra suggested | that 
-44.Dinesh Bhugra建议 
-
-45.A Department (of Health spokesperson) proposed that
-45.某部（卫生部发言人）建议
-
-【A】"fat taxes'"should be imposed on fast-food producers (such as McDonald's). 
-A】应该对快餐生产商（如麦当劳）征收 "脂肪税"。 
-
-【B】the government should ban fast-food outlets [in the neighborhood (of schools)]. 
-B】政府应该禁止[在（学校）附近的]快餐店。 
-
-【C】"lecturing'"was an effective way to improve school lunches [in England]. 
-C】"说教 "是改善学校午餐的一个有效方法[在英国]。 
-
-【D】cigarette-style warnings should be introduced to children [about the dangers (of a poor diet)]. 
-D】应该向儿童介绍香烟式的警告[关于（不良饮食）的危险性]。 
-
-【E】the producers (of crisps and candies) could contribute [significantly] to the Change4Life campaign.
-E】（薯片和糖果的）生产商可以为 "改变生活 "运动做出[重大]贡献。
-
-【F】parents should set good examples for their children [by keeping a healthy diet at home]. 
-F】父母应该为他们的孩子树立良好的榜样【在家里保持健康的饮食】。 
-
-【G】the government should strengthen the sense (of responsibility) [among businesses].
-G】政府应加强[企业]的（责任）意识。
-
-
-Section Ⅲ Translation
-第3部分 翻译
-
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-46.指示。把下面的文字翻译成中文。把你的翻译写在[答案]上。(15分)
-
-
-Who would have thought that, globally, the IT industry produces (about the same volume (of greenhouse gases) (as the world's airlines)) do -- || roughly 2 percent (of all CO2 emissions)?
-谁能想到，在全球范围内，IT行业产生的（温室气体）量与世界上的航空公司差不多）--|大约占（所有二氧化碳排放量）的2%？
-
-
-Many everyday tasks take a surprising toll [on the environment]. 
-许多日常工作[对环境]造成了惊人的损失。 
-
-A Google search can leak between 0.2 and 7.0 grams (of CO2), depending on | how many attempts are needed to get the "right" answer.
-谷歌搜索可以泄漏0.2至7.0克（二氧化碳），这取决于需要多少次尝试才能得到 "正确 "的答案。
-
-
-[To deliver results to its users [quickly]], [then], Google has to maintain vast data centres [around the world], packed with powerful computers. 
-[为了[快速]向用户提供结果，[那么]，谷歌必须维持[世界各地]庞大的数据中心，这些中心挤满了强大的计算机。 
-
-While producing large quantities (of CO2), || these computers emit a great deal of heat, || so the centres need to be well air-conditioned, (which uses even more energy).
-在产生大量（二氧化碳）的同时，这些计算机还散发大量的热量，因此中心需要有良好的空调，（这需要消耗更多的能源）。
-
-
-[However], Google and other big tech providers monitor their efficiency [closely] and make improvements. 
-[然而，谷歌和其他大型技术供应商[密切]监控他们的效率，并作出改进。 
-
-Monitoring is the first step [on the road] [to reduction], || but there is much more to be done, || and not just by big companies.
-监测是[通往减少]的第一步，但要做的事情还很多，而且不仅仅是大公司。
-
-
-Section Ⅳ Writing
-第Ⅳ部分 写作
-
-
-Part A 47. Directions Suppose | your cousin Li Ming has [just] been admitted to a university. Write him/her a letter [to 1]) congratulate him/her, || and 2) give him/her suggestions [on {how to get prepared for university life}]. 
-A部分 47.假设你的表弟李明[刚刚]被一所大学录取。给他/她写一封信，祝贺他/她，||2）给他/她建议[如何为大学生活做准备]。 
-
-You should write about 100 words (on ANSWER SHEET) 2. Do not sign your own name [at the end (of the letter)]. Use "Zhang Wei" [instead]. Do not write the address. (10 points)
-你应该写大约100个字（在答题纸上） 2.不要在[信的末尾]签署你自己的名字。用 "张伟"[代替]。不要写地址。(10分)
-
-
-Part B 48. Directions Write an essay (based on the following chart). In your writing, you should 1) interpret the chart || and 2) give your comments (You should write [at least] 150 words). Write your essay (on ANSWER SHEET) 2. (15points)
-B部分 48.指示 写一篇文章（根据以下图表）。在你的文章中，你应该：1）解释图表；2）给出你的评论（你应该至少写150字）。请写出你的文章（在答题纸上） 2、（15分）
-
-
-
-2012
-Section I Use of English 
-Millions of Americans and foreigners see G.I. Joe [as a mindless war toy], the symbol (of American military adventurism), || but that's not | how it used to be.
-数以百万计的美国人和外国人把大兵[作为无意识的战争玩具]，作为（美国军事冒险主义的）象征，||但这并不是以前的情况。
-(that's = that is)
-To the men and women (who 1 (in World War Ⅱ and the people (they liberated))), the G.I. was the 2 man grown [into hero], the poor farm kid torn away [from his home], the guy (who 3 all) the burdens (of battle, (who slept [in cold foxholes, (who went [without the 4 (of food and shelter, (who stuck it out and drove back the Nazi reign (of murder)))])])).
-对于那些1（在第二次世界大战中和（他们解放的）人民）的男人和女人来说，大兵是成长为[英雄]的2人，是被撕碎[离家]的贫穷农家孩子，是（3所有）战斗负担的人，（睡在[寒冷的散兵坑里，（没有4（食物和住所，（坚持下来并赶回纳粹统治（谋杀））））。
-(slept 为 sleep 的过去式。went 为 go 的过去式。stuck 为 stick 的过去式。drove 为 drive 的过去式。)
-This was not a volunteer soldier, not someone well paid, 5 an average guy, [up 6] the best trained, <best equipped>, fiercest, most brutal enemies seen [in centuries].
-这不是一个志愿兵，不是一个高薪的人，5个普通人，[了6]训练有素，<最好的装备>，最凶猛，最残酷的敌人[在几个世纪]看到。
-(paid 为 pay 的过去式。seen 为 see 的过去分词。best 为 well 的最高级形式, fiercest 为 fierce 的最高级形式)
-His name isn't much. G.I. is [just] a military abbreviation (7 Government Issue), || and it was on all (of the articles 8) [to soldiers]. 
-他的名字并不多。G.I.[只是]一个军事缩写（7政府问题），||而且它在所有（的文章8）[给士兵]。 
-
-And Joe? A common name (for a guy) who never 9 it to the top. Joe Blow, Joe Palooka, Joe Magrac... a working class name.
-而乔？一个普通的名字（对一个人来说），他从来没有达到顶峰。乔-布洛，乔-帕卢卡，乔-马格拉克......一个工人阶级的名字。
-The United States has 10 || had a president or vice-president or secretary of state Joe.
-美国有10位总统或副总统或国务卿乔。
-(has 为 have 的第三人称单数形式。isn't = is not)
-
-G.I. Joe had a 11 career fighting German, Japanese, and Korean troops. He appears [as a character], or a 12 (of American personalities), [in the 1945 movie] 
-G.I.Joe有11次与德国、日本和朝鲜军队作战的经历。他[作为一个人物]，或者说12个（美国人的人物），[在1945年的电影中]出现。 
-
-The Story (of G.I. Joe), based on the last days (of war correspondent Ernie Pyle). 
-(大兵)的故事》，根据(战地记者厄尼-派尔的)最后日子改编。 
-Some (of the soldiers Pyle 13) portrayed themselves [in the film].
-一些（派尔13号士兵）[在影片中]描绘了自己。
-Pyle was famous for covering the 14 side (of the war), writing about the dirt-snow-and-mud soldiers, not {how many miles were 15} or {what towns were captured or liberated}. His reports (16 the)" Willie "cartoons (of famed Stars and Stripes artist Bill Maulden).
-派尔以报道（战争）的14个方面而闻名，他写的是泥土-雪-泥的士兵，而不是{多少英里是15英里}或{哪些城镇被占领或被解放}。他的报道（16）"威利 "的漫画（著名的星条旗艺术家比尔-毛尔登）。
-
-Both men (17 the) dirt and exhaustion (of war, the 18 (of civilization (that the soldiers shared with each other and the civilians))): coffee, tobacco, whiskey, shelter, sleep. 19 Egypt, France, and [a dozen] more countries, G.I. Joe was any American soldier, 20 the most important person (in their lives).
-这两个人（17的）污垢和疲惫（的战争，18（的文明（，士兵们分享彼此和平民））：咖啡，烟草，威士忌，住所，睡眠。19埃及、法国和[十几个]国家，G.I.Joe是任何美国士兵，20（在他们的生活中）最重要的人。
-(men 为 man 的复数形式。lives 为 life 的复数形式。)
-
-1.[ A ) served (B) performed (C) rebelled (D) betrayed 
-1. [A] 服务 (B) 执行 (C) 叛变 (D) 背叛 
-2. (A) actual (B) common (C) special (D) normal 
-2、（A）实际（B）普通（C）特殊（D）正常 
-3. (A) loaded (B) eased (C) removed (D) bore 
-3、（A）装载（B）缓和（C）移除（D）钻孔 
-4. (A) necessities (B) facilities (C) commodities (D) properties 
-4、（A）必需品（B）设施（C）商品（D）财产 
-5. (A) and (B) nor (C) but (D) [hence] 
-5.（A）和（B）也不是（C）而是（D）[因此] 
-6. (A) for (B) into (C) from (D) against 
-6.(A) for (B) into (C) from (D) against 
-7. (A) implying (B) meaning (C) symbolizing (D) claiming 
-7、（A）暗示（B）意义（C）象征（D）主张 
-7、（A）暗示（B）意义（C）象征（D）主张 
-8. (A) handed out (B) turned over (C) brought back (D) passed down
-8.(A) 递出去 (B) 翻过来 (C) 带回来 (D) 传下去
-9. [ A ) pushed (B) got (C) made (D) managed 
-9.[A] 推了 (B) 得到了 (C) 做了 (D) 管理了 
-10. (A) ever (B) never (C) either (D) neither 
-10.(A) 曾经 (B) 从来没有 (C) 要么 (D) 都不是 
-11. (A) disguised (B) disturbed (C) disputed (D) distinguished 
-11.(A) 掩饰 (B) 扰乱 (C) 争议 (D) 区分 
-12. (A) company (B) community (C) collection (D) colony 
-12.(A) 公司 (B) 社区 (C) 收集 (D) 殖民地 
-13 (A) employed (B) appointed (C) interviewed (D) questioned 
-13 (A) 雇用 (B) 任命 (C) 采访 (D) 询问 
-14. (A) human (B) military (C) political (D) ethical 
-14.(A) 人类 (B) 军事 (C) 政治 (D) 道德 
-15. (A) ruined (B) commuted (C) patrolled (D) gained 
-15.(A) 破坏 (B) 减轻 (C) 巡逻 (D) 获得 
-16. (A) paralleled (B) counteracted (C) duplicated (D) contradicted
-16.(A) 平行 (B) 抵触 (C) 重复 (D) 矛盾
-17. [ A ) neglected (B) emphasized (C) avoided (D) admired 
-17.[A] 忽略了 (B) 强调了 (C) 避免了 (D) 佩服了 
-18.(A) 阶段 (B) 幻觉 (C) 碎片 (D) 进展 
-18. (A) stages (B) illusions (C) fragments (D) advances 
-19. (A) With (B) To (C) Among (D) Beyond 
-19.（A）随着（B）为了（C）其中（D）超越 
-20. (A) on the contrary (B) (by this means) (C) (from the outset) (D) (at that point)
-20.(A) 相反 (B) (通过这种方式) (C) (从一开始) (D) (在这一点上)
-
-Section Ⅱ Reading Comprehension
-Part A Directions: Read the following four texts. Answer the questions [after each text] [by choosing A, B, C or D]. Mark your answers on the ANSWER | SHEET.(40 points)
-
-Text 1
-Homework has [never] been terribly popular with students and [even] many parents, || but [in recent years] it has been [particularly] scorned. School districts (across the country, <most recently Los Angeles Unified>,) are revising their thinking [on this educational ritual].
-[Unfortunately], L.A. Unified has produced an inflexible policy (which mandates | that [with the exception (of some advanced courses)], homework may [no longer] count for more than 10% (of a student's academic grade)).
-
-This rule is meant to address the difficulty (that students (from impoverished or chaotic homes) might have [in completing their homework]). 
-But the policy is unclear and contradictory. 
-Certainly, no homework should be assigned | that students cannot complete on their own or that they cannot do [without expensive equipment].
-But if the district is [essentially] giving a pass to students (who do not do their homework [because of complicated family lives]), || it is going [riskily] close [to the implication (that standards need to be lowered [for poor children])].
-
-District administrators say | that homework will [still] be a part (of schooling); teachers are allowed to assign as much (of it) || as they want. 
-But [with homework counting for no more than 10% (of their grades)], students can easily skip half their homework and see very little difference [on their report cards].
-Some students might do [well] [on state tests] [without completing their homework], || but what about the students (who performed [well] [on the tests] and did their homework)? 
-It is quite possible | that the homework helped. 
-Yet [rather than empowering teachers to find | what works [best] for their students], the policy imposes a flat, across-the-board rule.
-(best 为 well 的最高级形式)
-
-[At the same time], the policy addresses none (of the truly thorny questions (about homework)). 
-If the district finds homework to be unimportant [to its students' academic achievement], it should move to reduce or eliminate the assignments, not make them count for almost nothing. 
-[Conversely], if homework matters, || it should account for a significant portion (of the grade).
-[Meanwhile], this policy does nothing to ensure | that the homework (students receive) is meaningful or appropriate [to their age and the subject], or | that teachers are not assigning more || than they are willing to review and correct.
-
-The homework rules should be put on hold || while the school board, (which is responsible for setting educational policy), looks into the matter and conducts public hearings. It is not too late for L.A. Unified to do homework [right].
-(put 为过去分词，与其动词原形拼写相同。)
-21. It is implied [in Paragraph 1] | that [nowadays] homework. 
-(A) is receiving more criticism 
-(B) is gaining more preferences 
-(C) is [no longer] | an educational ritual 
-(D) is not required [for advanced courses]
-22. L.A. Unified has made the rule [about homework] [mainly] || because poor students. 
-(A) tend to have moderate expectations [for their education] 
-(B) have asked for a different educational standard 
-(C) may have problems finishing their homework 
-(D) have voiced their complaints [about homework]
-23. [According to Paragraph 3], one problem (with the policy) is | that it may. 
-(A) result in students' indifference [to their report cards] 
-(B) undermine the authority (of state tests) 
-(C) restrict teachers' power [in education] 
-(D) discourage students from doing homework
-24. As mentioned [in Paragraph 4], || a key question (unanswered) (about homework) is | whether. 
-(A) it should be eliminated 
-(B) it counts [much] in schooling 
-(C) (it places extra burdens on teachers 
-(D) (it is important for grades))
-25. A suitable title (for this text) could be. 
-(A) A Faulty Approach (to Homework) 
-(B) A Welcomed Policy [for Poor Students] 
-(C) Thorny Questions [about Homework] 
-(D) Wrong Interpretations (of an Educational Policy)
-text2
-Pretty in pink: adult women do not remember being so obsessed [with the colour], || yet it is pervasive [in our young girls' lives]. It is not | that pink is intrinsically bad, || but it is such a tiny slice (of the rainbow) || and, <though it may celebrate girlhood [in one way]>, it also repeatedly and firmly fuses girls' identity [to appearance].
-(women 为 woman 的复数形式。lives 为 life 的复数形式。)
-[Then] it presents that connection, [even among twoyear-olds], [between girls] [as not only innocent] but as evidence (of innocence). [Looking around], I despaired [at the singular lack (of imagination)] [about girls' lives and interests].
-(lives 为 life 的复数形式。)
-
-Girls' attraction (to pink) may seem unavoidable, <somehow encoded in their DNA>, || but [according to Jo Paoletti, <an associate professor (of American Studies)>], it is not. Children were not colour-coded [at all] [until the early 20th century]: [in the era] before domestic washing machines || all babies wore white [as a practical matter], || since the only way (of getting clothes [clean]) was to boil them.
-(wore 为 wear 的过去式。children 为 child 的复数形式。)
-[What's more], both boys and girls wore | what were thought of [as gender-neutral dresses]. 
-When nursery colours were introduced, || pink was [actually] considered the more masculine colour, a pastel version (of red, (which was associated with strength)). 
-Blue, <with its intimations (of the Virgin Mary, constancy and faithfulness)>, symbolised femininity.
-(wore 为 wear 的过去式。thought 为 think 的过去分词。)
-It was not || until the mid-1980s, <when amplifying age and sex differences became a dominant children's marketing strategy>, (that pink) fully came into its own, || when it began to seem inherently attractive [to girls], part (of {what defined them [as female]}), || [at least] for the first few critical years.
-(became 为 become 的过去式。came 为 come 的过去式。began 为 begin 的过去式。children 为 child 的复数形式。)
-
-I had not realised | how profoundly marketing trends dictated our perception (of {what is natural}) to kids, including our core beliefs (about their psychological development). 
-Take the toddler. I assumed | that phase was something (experts developed [after years (of research)] [into children's behaviour]): wrong.
-Turns out, [according to Daniel Cook, <a historian (of childhood consumerism)>], it was popularised [as a marketing trick] [by clothing manufacturers] [in the 1930s].
-
-Trade publications counselled department stores | that, <in order to increase sales>, they should create a "third stepping stone" [between infant wear and older kids' clothes]. 
-It was [only] after "toddler" became a common shoppers' term | that it evolved into a broadly accepted developmental stage.
-(became 为 become 的过去式。older 为 old 的比较级形式)
-Splitting kids, or adults, [into ever-tinier categories] has proved a surefire way to boost profits. 
-And one (of the easiest ways to segment a market) is to magnify gender differences -- || or invent them || where they did not [previously] exist.
-(proved 为 prove 的过去分词。easiest 为 easy 的最高级形式)
-26. By saying "| it is... the rainbow" (Para.1) , the author means pink. 
-(A) cannot explain girls' lack (of imagination) 
-(B) should not be associated with girls' innocence 
-(C) should not be | the sole representation (of girlhood) 
-(D) cannot influence girls' lives and interests
-27. [According to Paragraph 2], which of the following is true of colours? 
-(A) Colours are encoded [in girls' DNA]. 
-(B) Blue used to be regarded as the colour [for girls]. 
-(C) White is preferred [by babies]. 
-(D) Pink used to be a neutral colour [in symbolising genders].
-28. The author suggests | that our perception (of children's psychological development) was [much] influenced [by]. 
-(A) the observation (of children's nature) 
-(B) the marketing (of products (for children) ) 
-(C) researches into children's behaviour 
-(D) studies (of childhood consumption)
-29. We may learn [from Paragraph 4] | that department stores were advised to. 
-(A) classify consumers [into smaller groups] 
-(B) attach equal importance to different genders 
-(C) focus [on infant wear] || and older kids' clothes 
-(D) create some common shoppers' terms
-29. We may learn [from Paragraph 4] | that department stores were advised to. 
-(A) classify consumers [into smaller groups] 
-(B) attach equal importance to different genders 
-(C) focus [on infant wear] || and older kids' clothes 
-(D) create some common shoppers' terms
-30. It can be concluded | that girls' attraction to pink seems to be 
-(A) fully understood [by clothing manufacturers] 
-(B) clearly explained [by their inborn tendency] 
-(C) mainly imposed [by profit-driven businessmen] 
-(D) well interpreted [by psychological experts]
-
-Text 3
-[In 2010], a federal judge shook America's biotech industry [to its core]. Companies had won patents [for isolated DNA] [for decades]-- [by 2005] some 20% (of human genes) were patented. 
-But [in March 2010] a judge ruled | that genes were unpatentable. 
-Executives were [violently] agitated. The Biotechnology Industry Organisation (BIO), <a trade group>, assured members | that this was [just] a "preliminary step" [in a longer battle].
-(shook 为 shake 的过去式。won 为 win 的过去分词。longer 为 long 的比较级形式)
-
-[On July 29th] they were relieved, [at least] [temporarily]. 
-A federal appeals court overturned the prior decision, ruling | that Myriad Genetics could indeed hold patents to two genes (that help forecast a woman's risk (of breast cancer)). 
-The chief executive (of Myriad, <a company (in Utah)>,) said | the ruling was a blessing [to firms and patients] [alike].
-
-But as companies continue their attempts [at personalised medicine], || the courts will remain rather busy. 
-The Myriad case itself is [probably] not over. Critics make three main arguments [against gene patents]: a gene is a product (of nature), || so it may not be patented; gene patents suppress innovation rather than reward it; and patents' monopolies restrict access to genetic tests (such as Myriad's).
-A growing number seem to agree. [Last year] a federal task-force urged reform [for patents (related to genetic tests)]. 
-[In October] the Department (of Justice) filed a brief in the Myriad case, arguing | that an isolated DNA molecule "is no less a product (of nature)... than are cotton fibres (that have been separated from cotton seeds)".
-
-[Despite the appeals court's decision], big questions remain unanswered. 
-[For example], it is unclear | whether the sequencing (of a whole genome) violates the patents (of individual genes) [within it]. 
-The case may yet reach the Supreme Court.
-
-As the industry advances, <however>, || other suits may have an even greater impact. 
-Companies are unlikely to file many more patents [for human DNA molecules] -- || most are [already] patented || or [in the public domain]. 
-Firms are [now] studying | how genes interact, looking for correlations (that might be used to determine the causes (of disease) or predict a drug's
-(greater 为 great 的比较级形式)
-Companies are eager to win patents [for "[connecting the dots]"], || explains Hans Sauer, a lawyer (for the BIO).
-
-Their success may be determined [by a suit (related to this issue)], brought [by the Mayo Clinic, (which the Supreme Court will hear [in its next term])]. 
-The BIO recently held a convention (which included sessions to coach lawyers [on the shifting landscape] [for patents]). 
-Each meeting was packed.
-(brought 为 bring 的过去分词。held 为 hold 的过去式。)
-31. It can be learned from Paragraph 1 (that the biotech companies would like). 
-(A) genes to be patentable 
-(B) the BIO to issue a warning 
-(C) their executives to be active 
-(D) judges to rule out gene patenting
-32. Those (who are against gene patents) believe that. 
-(A) genetic tests are not reliable 
-(B) only man-made products are patentable 
-(C) patents (on genes) depend [much] on innovation 
-(D) courts should restrict access to genetic tests
-33. [According to Hans Sauer], companies are eager to win patents for. 
-(A) discovering gene interactions 
-(B) establishing disease correlations 
-(C) drawing pictures (of genes) 
-(D) identifying human DNA
-34. [By saying "Each meeting] was packed" (Para. 6), the author means that. 
-(A) the supreme court was authoritative 
-(B) the BIO was a powerful organisation 
-(C) gene patenting was a great concern 
-(D) lawyers were keen to attend conventions 
-35. Generally speaking, the author's attitude (toward gene patenting) is. 
-(A) critical (B) supportive (C) scornful (D) objective
-
-Text 4
-The great recession may be over, || but this era (of high joblessness) is [probably] beginning. 
-Before it ends, || it will [likely] change the life course and character (of a generation (of young adults)). 
-And [ultimately], it is likely to reshape our politics, our culture, and the character (of our society) [for years].
-
-No one tries [harder] [than the jobless] to find silver linings [in this national economic disaster]. 
-Many said | that unemployment, <while extremely painful>, had improved them [in some ways]: they had become less materialistic and more financially prudent; they were more aware of the struggles (of others).
-(said 为 say 的过去式。become 为过去分词，与其动词原形拼写相同。harder 为 hard 的比较级形式)
-[In limited respects], [perhaps] the recession will leave society better off. 
-[At the very least], it has awoken us [from our national fever dream (of easy riches and bigger houses)], and put a necessary end to an era (of reckless personal spending).
-(awoken 为 awake 的过去分词。put 为过去分词，与其动词原形拼写相同。bigger 为 big 的比较级形式)
-
-But [for the most part], these benefits seem thin, uncertain, and far off. 
-In The Moral Consequences (of Economic Growth), the economic historian Benjamin Friedman argues that [both inside and outside the U.S.], lengthy periods (of economic stagnation or decline) have [almost always] 
-left society more mean-spirited and less inclusive, and have [usually] stopped or reversed the advance (of rights and freedoms).
-Anti-immigrant sentiment typically increases, || as does conflict [between races and classes].
-
-Income inequality usually falls [during a recession], || but it has not shrunk [in this one]. 
-[Indeed], this period (of economic weakness) may reinforce class divides, and decrease opportunities to cross them -- [especially for young people].
-(shrunk 为 shrink 的过去分词。)
-The research (of Till Von Wachter, <the economist (at Columbia University)>,) suggests | that not all people graduating into a recession see their life chances dimmed: those (with degrees (from elite universities)) catch up [fairly quickly] [to {where they otherwise would have been}] || if they had graduated in better times; it is the masses [beneath them (that are left behind)].
-(left 为 leave 的过去分词。better 为 good 的比较级形式)
-
-[In the Internet age], it is particularly easy to see the resentment (that has [always] been hidden [within American society]). 
-More difficult, [in the moment], is discerning | precisely how these lean times are affecting society's character.
-(hidden 为 hide 的过去分词。)
-[In many respects], the U.S. was more socially tolerant entering this recession || than at any time [in its history], || and a variety (of national polls (on social conflict (since then))) have shown mixed results. 
-We will have to wait and see [exactly] | how these hard times will reshape our social fabric. 
-But they certainly will reshape it, and [all the more so] the longer they extend.
-(shown 为 show 的过去分词。longer 为 long 的比较级形式)
-
-36. By saying "to find | silver linings" (Para.2) the author suggests | that the jobless try to. 
-(A) seek subsidies from the government 
-(B) make (profits (from the troubled economy) )
-(C) explore reasons (for the unemployment) 
-(D) look (on the bright side (of the recession))
-37. [According to Paragraph 2], the recession has made people. 
-(A) struggle (against each other) 
-(B)realize the national dream 
-(C) challenge (their prudence) 
-(D) reconsider (their lifestyle)
-(made 为 make 的过去分词。)
-38. Benjamin Friedman believes | that economic recessions may. 
-(A) impose a heavier burden on immigrants 
-(B) bring out more evils (of human nature) 
-(C) promote the advance (of rights) || and freedoms 
-(D) ease conflicts [between races and classes]
-(heavier 为 heavy 的比较级形式)
-39. The research (of Till Von Wachter) suggests that [in the recession (graduates (from elite universities) tend to)]. 
-(A) lag behind the others [due to decreased opportunities] 
-(B) catch up [quickly] [with experienced employees] 
-(C) see their life chances (as dimmed as the others') 
-(D) recover [more quickly] [than the others]
-40. The author thinks | that the influence (of hard times (on society)) is. 
-(A) trivial (B) positive (C) certain (D) destructive
-
-Part B Directions: Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each (of the numbered paragraphs)]] (41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-"Universal history, <the history (of {what man has accomplished [in this world]})>, is [at bottom] the History (of the Great Men) (who have worked here)," wrote the Victorian sage Thomas Carlyle. 
-Well, [not any more] it is not.
-(wrote 为 write 的过去式。men 为 man 的复数形式。)
-
-[Suddenly], Britain looks to have fallen out with its favourite historical form. 
-This could be no more than a passing literary craze, || but it also points to a broader truth [about {how we now approach the past}]: less concerned with learning from our forefathers and more interested in feeling their pain. [Today], we want empathy, not inspiration.
-(fallen 为 fall 的过去分词。broader 为 broad 的比较级形式)
-
-[From the earliest days (of the Renaissance)], the writing (of history) meant recounting the exemplary lives (of great men). 
-[In 1337], Petrarch began work [on his rambling writing De Viris Illustribus] -- [On Famous Men], highlighting the virtus (or virtue) (of classical heroes). 
-Petrarch celebrated their greatness [in conquering fortune and rising [to the top]].
-(meant 为 mean 的过去式。began 为 begin 的过去式。lives 为 life 的复数形式。men 为 man 的复数形式。earliest 为 early 的最高级形式)
-This was the biographical tradition (which Niccolò Machiavelli turned on its head). 
-[In The Prince], he championed cunning, ruthlessness, and boldness, [rather than virtue, mercy and justice], [as the skills (of successful leaders)].
-
-[Over time], the attributes (of greatness) shifted. 
-The Romantics commemorated the leading painters and authors (of their day), stressing the uniqueness (of the artist's personal experience) [rather than public glory]. [By contrast], the Victorian author Samuel Smiles wrote Self-Help [as a catalogue (of the worthy lives (of engineers, industrialists and explorers))].
-(wrote 为 write 的过去式。lives 为 life 的复数形式。)
-"The valuable examples (which they furnish of the power) [of self-help], [of patient purpose, resolute working, and steadfast integrity], [issuing in the formation (of truly noble and manly character)], exhibit," wrote Smiles, "| what it is [in the power (of each to accomplish [for himself])]."
-(wrote 为 write 的过去式。)
-His biographies (of James Watt, Richard Arkwright and Josiah Wedgwood) were held up [as beacons] to guide the working man [through his difficult life].
-
-This was all [a bit] bourgeois [for Thomas Carlyle, (who focused his biographies on the truly heroic lives (of Martin Luther, Oliver Cromwell and Napoleon Bonaparte))]. 
-These epochal figures represented lives [hard] to imitate, but to be acknowledged [as possessing higher authority [than mere mortals]].
-(lives 为 life 的复数形式。higher 为 high 的比较级形式)
-
-Not everyone was convinced [by such bombast]. 
-"The history (of all hitherto existing society) is the history (of class struggles)," || wrote Marx and Engels [in The Communist Manifesto]. [For them], history did nothing, || it possessed no immense wealth nor waged battles: "It is man, real, living man (who does all that)."
-(wrote 为 write 的过去式。)
-And history should be the story (of the masses) and their record (of struggle).
-[As such], it needed to appreciate the economic realities, the social contexts and power relations (in which each epoch stood). 
-For: "Men make their own history, || but they do not make it || just as they please; they do not make it [under circumstances chosen [by themselves], but under circumstances directly found], given and transmitted from the past."
-(stood 为 stand 的过去式。chosen 为 choose 的过去分词。found 为 find 的过去分词。men 为 man 的复数形式。)
-
-This was the tradition (which revolutionised our appreciation (of the past)). 
-[In place (of Thomas Carlyle)], Britain nurtured Christopher Hill, EP Thompson and Eric Hobsbawm. 
-History (from below) stood [alongside biographies (of great men)]. Whole new realms (of understanding -- <from gender to race to cultural studies> --) were opened up || as scholars unpicked the multiplicity (of lost societies). 
-And it transformed public history [too]: downstairs became just as fascinating as upstairs.
-(stood 为 stand 的过去式。became 为 become 的过去式。men 为 man 的复数形式。)
-
-41.Petrarch 
-42.NiccolòMachiavelli 
-43.Samuel Smiles 
-44.Thomas Carlyle 
-45.Marx and Engels
-【A】emphasized the virtue (of classical heroes). 
-【B】highlighted the public glory (of the leading artists). 
-【C】focused (on epochal figures (whose lives were hard to imitate)). 
-【D】opened up new realms (of understanding the great men [in history]). 
-【E】held (that history should be the story (of the masses) and their record (of struggle)). 
-【F】dismissed virtue (as unnecessary) for successful leaders. 
-【G】depicted the worthy lives (of engineers, industrialists and explorers).
-
-Section Ⅲ Translation
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-When people (in developing countries) worry about migration, || they are [usually] concerned at the prospect (of their best and brightest departure) [to Silicon Valley] or to hospitals and universities [in the developed world]. These are the kind (of workers) (that countries (like Britain)), Canada and Australia try to attract by using immigration rules (that privilege college graduates).
-(best 为 good 的最高级形式, brightest 为 bright 的最高级形式)
-
-Lots of studies have found | that well-educated people (from developing countries) are particularly likely to emigrate. 
-A big survey (of Indian households (in 2004)) found | that nearly 40% (of emigrants) had [more than] a high-school education, compared with [around 3.3% (of all Indians)] [over the age (of 25)]. 
-This "brain drain" has [long] bothered policymakers [in poor countries].
-They fear | that it hurts their economies, depriving them of much-needed skilled workers (who could have taught [at their universities], worked [in their hospitals] and come up with clever new products for their factories to make).
-
-Section Ⅳ Writing
-Part A 47. Directions Suppose | you have found something (wrong) [with the electronic dictionary (that you bought from an online store [the other day])]. 
-Write an email to the customer service center [to 1]) make a complaint, || and 2) demand a prompt solution. 
-You should write about 100 words (on ANSERE SHEET) 2. Do not sign your own name [at the end (of the letter)], 
-Use "Zhang Wei" [instead]. Do not write the address. (10 points)
-
-Part B 48. Directions Write an essay (based on the following table). In your writing, you should 1) describe the table, || and 2) give your comments. You should write [at least] 150 words. Write your essay (on ANSERE SHEET) 2. (15 points) 
-
-
-2013
-Section I Use of English 
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-
-[Given the advantages (of electronic money)], you might think | that we would move [quickly] to the cashless society (in which all payments are made [electronically]).
-(made 为 make 的过去分词。 )
-1, <a true cashless society> is [probably] not around the corner. [Indeed], predictions have been 2 [for two decades] but have not [yet] come to fruition. [For example], Business Week predicted [in 1975] | that electronic means (of payment) would [soon] "revolutionize the very 3 (of money) itself," [only to 4] itself [several years later].
-(come 为过去分词，与其动词原形拼写相同。)
-Why has the movement (to a cashless society) been || so 5 (in coming)?
-
-Although electronic means (of payment) may be more efficient [than a payments system (based on paper)], || several factors work 6 (the disappearance (of the paper system)). 
-[First], it is very 7 to set up the computer, card reader, and telecommunications networks (necessary to make electronic money the 8 form (of payment)).
-Second, paper checks have the advantage (that they) 9 receipts, something (that many consumers are unwilling to 10).
-Third, the use (of paper checks) gives consumers several days (of "float)" -- it takes several days 11 (a check is cashed and) funds are 12 (from the issuer's account, (which means | that the writer (of the check) can earn interest [on the funds] [in the meantime])). 13 electronic payments are immediate, || they eliminate the float [for the consumer].
-
-Fourth, electronic means (of payment may 14 security and privacy concerns). 
-We often hear media reports (that an unauthorized hacker has been able to access a computer database and to alter information 15 [there]). 
-The fact (that this is not an 16 occurrence) means | that dishonest persons might be able to access bank accounts [in electronic payments systems and 17] [from someone else's accounts].
-(media 为 medium 的复数形式。)
-The 18 (of this type (of fraud)) is no easy task, || and a new field (of computer science) is developing [to 19 security issues]. 
-A further concern is | that the use (of electronic means (of payment)) leaves an electronic 20 (that contains a large amount of personal data). 
-There are concerns (that government, employers, and marketers might be able to access these data, thereby violating our privacy).
-1.[ A ) [Moreover (B)] However (C) [Therefore (D)] Otherwise 
-2 (A) off (B) back (C) (over (D) around 
-3. (A) power (B) concept (C) history (D) role 
-4. (A) reverse (B) resist (C) resume (D) reward 
-5. (A) silent (B) sudden (C) slow (D) steady 
-6. (A) for (B) against (C) with (D) on 
-7. (A) expensive (B) imaginative (C) sensitive (D) productive 
-8. (A) similar (B) original (C) temporary (D) dominant
-9. [ A ) collect (B) copy (C) provide (D) print 
-10. (A) give up (B) take over (C) bring back (D) pass [down]. 
-11 (A) [before (B)] after (C) [since (D) when] 
-12. (A) kept (B) borrowed (C) withdrawn (D) released 
-13. (A) Unless (B) Because (C) [Until (D) Though] 
-14. (A) hide (B) express (C) ease (D) raise 
-15. (A) analyzed (B) shared (C) stored (D) displayed 
-16. (A) unsafe (B) unnatural (C) unclear (D) uncommon
-17. [ A ) steal (B) choose (C) benefit (D) return 
-18. (A) consideration (B) prevention (C) manipulation (D) justification 
-19. (A) call [for] (B) fight [against] (C) adapt to (D) cope with 
-20. (A) chunk (B) chip (C) trail (D) path
-
-
-Section Ⅱ Reading Comprehension
-Part A 
-Directions: 
-Read the following four texts. Answer the questions || after each text [[by choosing A, B, C or (D) Mark]] your answers [on the ANSWER | SHEET].(40 points) 
-
-Text 1
-[In an essay entitled "Making It in America "], <the author Adam Davidson> relates a joke [from cotton country] [about {just how much a modern textile mill has been automated}]: The average mill has [only] two employees [today]," a man and a dog .The man is there to feed the dog, || and the dog is there to keep the man away [from the machines]."
-
-Davidson's article is one (of a number of pieces (that have [recently] appeared making the point (that the reason (we have such stubbornly high unemployment and declining middle-class incomes [today]) is [largely] because of the big drop [in demand] [because of the Great Recession]))), but it is [also] because of the advances (in both globalization and the information technology revolution, (which are [more rapidly] [than ever replacing labor] [with machines or foreign workers])). 
-
-[In the past], workers (with average skills), <doing an average job>, could earn an average lifestyle.
-
-But, [today], average is officially over. Being average [just] won't earn you | what it used to. It can't || when so many more employers have [so much] more access (to so much more) [above average cheap foreign labor, cheap robotics, cheap software, cheap automation and cheap genius].
-[Therefore], everyone needs to find their extra -- their unique value contribution (that makes them stand out [in {whatever is their field (of employment)}]).
-(won't = will not, can't = can not)
-
-Yes, new technology has been eating jobs [forever], and always will. But there's been an acceleration. 
-As Davidson notes," In the 10 years ending in 2009, ( U.S.) factories shed workers [so fast] || that they erased almost all the gains (of the previous 70 years); [roughly] one (out of every three manufacturing jobs -- <about 6 million (in total)>--) disappeared."
-(there's = there has)
-
-There will [always] be change -- new jobs, new products, new services. But the one thing (we know [for sure]) is that [with each advance (in globalization)] ||and [the] I.T. revolution, the best (jobs will require workers to have [more]) and better education to make themselves above average.
-
-[In a world (where average is officially over)], there are many things (we need to do to support employment), || but nothing would be more important [than passing some kind (of G. I. Bill) [for the 21st century (that ensures | that every American has access (to post-high school education))]].
-
-21. The joke (in Paragraph 1) is used to illustrate. 
-(A)the impact (of technological advances) 
-(B) the alleviation (of job pressure )
-(C) the shrinkage (of textile) mills 
-(D) the decline (of middle-class incomes)
-22. [According to Paragraph 3], [to be a successful employee], one has to. 
-(A)adopt an average lifestyle 
-(B)work (on cheap software) 
-(C)ask | [for a moderate] salary 
-(D) contribute something (unique)
-23. The quotation (in Paragraph 4) explains that. 
-(A)gains (of technology) have been erased     
-(B) | job opportunities are disappearing [at a high speed]
-(C) (factories are making much less money || than before 
-(D) new jobs and services have been offered
-24.According[to the author], [to reduce unemployment], the most important is | 
-【A】to accelerate the I.T. revolution 
-【B】to advance (economic globalization) 
-【C】to ensure more education || for people 
-【D】to pass more bills [in the 21st century]
-25.Which (of the following) would be the most appropriate title [for the text]? 
-【A】Technology Goes [Cheap].
-【B】New Law Takes Effect.
-【C】Recession Is Bad.
-【D】Average Is Over.
-
-Text 2
-[A century ago], the immigrants (from across the Atlantic) included settlers and sojourners.
-[Along with the many folks looking to make a permanent home [in the United States]] came those (who had no intention to stay), and (who would make some money) and [then] go [home].
-[Between 1908 and 1915], about 7 million people arrived || while about 2 million departed.
-About a quarter (of all Italian immigrants, <for example>,) eventually returned to Italy [for good].
-They even had an affectionate nickname, “uccelli di passaggio,” birds of passage.
-
-[Today], we are much more rigid about immigrants.
-We divide newcomers into two categories: legal or illegal , good or bad .
-We hail them [as Americans] [in the making], or brand them [as aliens to be kicked out].
-That framework has contributed [mightily] to our broken immigration system and the long political paralysis [over {how to fix it}].
-We don't need more categories, || but we need to change the way (we think about categories).
-We need to look [beyond strict definitions (of legal and illegal)].
-[To start], we can recognize the new birds of passage, those living and thriving [in the gray areas].
-We might then begin to solve our immigration challenges.
-
-Crop pickers, violinists, construction workers, entrepreneurs, engineers, home health-care aides and physicists are among today's birds of passage.
-They are energetic participants [in a global economy driven [by the flow (of work, money and ideas)]].
-They prefer to come and go || as opportunity calls them.
-They can manage to have a job [in one place and a family] [in another].
-[With or without permission], they straddle laws, jurisdictions and identities [with ease].
-We need them to imagine the United States [as a place (where they can be productive [for a while] 
-[without committing themselves to staying [forever]])].
-We need them to feel | that home can be both here and there and | that they can belong to two nations [honorably].
-
-Accommodating this new world (of people) [in motion] will require new attitudes [on both sides (of the immigration battle)].
-Looking [beyond the culture war logic (of right or wrong)] means opening up the middle ground and understanding | that managing immigration [today] requires multiple paths and multiple outcomes, [including some (that are not easy to accomplish [legally] [in the existing system])].
-
-26. "Birds of passage" refers [to those] | who. 
-(A)stay in a foreign country [temporarily]
-(B)leave their home countries [for good]
-(C)immigrate [across the Atlantic]
-(D) find permanent jobs overseas 
-27.It is implied [in Paragraph 2] | that the current immigration system (in the US). 
-(A)needs new immigrant categories
-(B)has loosened control [over immigrants]
-(C)should be adapted to meet challenges
-(D) has been fixed [via political means]
-28. [According to the author], today's birds of passage want. 
-(A)financial incentives 
-(B) a global recognition 
-(C) the freedom to stay and leave 
-(D) opportunities to get regular jobs 
-29.The author suggests | that the birds of passage (today) should be treated. 
-(A)as faithful partners (B) (with legal tolerance 
-(C) (with economic favors (D) as mighty rivals))
-30. The most appropriate title (for this text) would be. 
-(A)Come and Go: Big Mistake (B) Living and Thriving: Great Risk 
-(C) (With or Without): Great Risk (D) (Legal or Illegal): Big mistake
-
-Text 3
-Scientists have found | that although we are prone to snap overreactions, || if we take a moment and think about {how we are likely to react}, || we can reduce or [even] eliminate the negative effects (of our quick), hard-wired responses.
-
-Snap decisions can be important defense mechanisms; if we are judging | whether someone is dangerous, || our brains and bodies are hard-wired to react [very quickly], [within milliseconds].
-But we need more time to assess other factors.
-[To accurately tell | whether someone is sociable], studies show, || we need [at least] a minute, preferably five.
-It takes a while to judge complex aspects (of personality), [like neuroticism or open-mindedness].
-
-But snap decisions (in reaction (to rapid stimuli)) aren't exclusive [to the interpersonal realm].
-Psychologists (at the University of Toronto) found | that viewing a fast-food logo [for just a few milliseconds] primes us to read [20 percent faster], || even though reading has little to do with eating.
-We unconsciously associate fast food with speed and impatience and carry those impulses into | whatever else we're doing.
-Subjects (exposed to fast-food flashes) also tend to think | a musical piece lasts [too long].
-
-Yet we can reverse such influences.
-If we know | we will overreact [to consumer products or housing options] || when we see a happy face (one reason (good sales representatives and real estate agents are [always] smiling)), || we can take a moment [before buying].
-If we know | female job screeners are more likely to reject attractive female applicants, || we can help screeners understand their biases -- || or hire outside screeners. 
-John Gottman, <the marriage expert>, explains | that we quickly "thin slice" information [reliably] || [only] after we ground such snap reactions in "thick sliced" long-term study.
-When Dr.Gottman really wants to assess | whether a couple will stay [together], he invites them to his island retreat [for a much longer evaluation]: two days, not two seconds.
-
-Our ability to mute our hard-wired reactions [by pausing] is | what differentiates us from animals : dogs can think about the future [only] [intermittently] || or [for a few minutes].
-But [historically] we have spent about 12 percent (of our days) contemplating the longer term.
-Although technology might change the way (we react), || it hasn't changed our nature.
-We still have the imaginative capacity to rise above temptation and reverse the high-speed trend.
-
-31. The time needed in making decisions [may].
-[A] predetermine the accuracy (of our judgment)
-[B] prove the complexity (of our brain reaction)
-[C] depend on the importance (of the assessment)
-[D] vary [according to the urgency (of the situation)]
-32. Our reaction (to a fast-food logo) shows that snap decisions
-[A]can be associative
-[B]are not unconscious
-[C]can be dangerous
-[D]are not impulsive
-33. [To reverse the negative influences (of snap decisions)], we should.
-[A]trust our first impression
-[B]think | before we act
-[C]do || as people usually do
-[D]ask for expert advice
-34. John Gottman says that reliable snap (reactions are based on).
-[A]critical assessment
-[B]"thin sliced" study
-[C]adequate information
-[D]sensible explanation
-35. The author's attitude (toward reversing the high-speed trend) is.
-(A)tolerant (B)optimistic 
-(C)uncertain (D)doubtful 
-
-Text 4
-Europe is not a gender-equality heaven.
-
-[In particular], the corporate workplace will [never] be completely family-friendly || until women are part (of senior management decisions), || and Europe's top corporate-governance positions remain [overwhelmingly] male.
-[Indeed], women hold only 14 per cent (of positions) [on European corporate boards].
-
-The European Union is [now] considering legislation to compel corporate boards to maintain a certain proportion (of women) -- up to 60 per cent.
-This proposed mandate was born [of frustration].
-[Last year], European Commission Vice President Viviane Reding issued a call to voluntary action.
-Reding invited corporations to sign up [for gender balance goals (of 40 per cent female board membership)].
-But her appeal was considered a failure: only 24 companies took it up.
-
-Do we need quotas to ensure | that women can continue to climb the corporate ladder [fairly] || as they balance work and family?
-
-["Personally], I don't like quotas," Reding said [recently].
-"But I like | what the quotas do."
-Quotas get action: they "open the way (to equality) || and they break through the glass ceiling," [according to Reding, a result seen [in France] and other countries] [with legally binding provisions [on placing women in top business positions]].
-
-I understand Reding's reluctance -- and her frustration.
-I don't like quotas [either]; they run [counter to my belief] [in meritocracy], governance (by the capable).
-But, when one considers the obstacles [to achieving the meritocratic ideal], || it does look | as if a fairer world must be [temporarily] ordered.
-
-[After all], four decades (of evidence) has [now] shown | that corporations (in Europe as well as the US) are evading the meritocratic hiring and promotion of women to top positions -- || no matter | how much "soft pressure" is put [upon them].
-When women do break through [to the summit (of corporate power)] -- || as, <for example>, Sheryl Sandberg recently did [at Facebook] -- || they attract massive attention [precisely] || because they remain the exception [to the rule].
-
-If appropriate pubic policies were in place to help all women -- || whether CEOs or their children's caregivers -- and all families, || Sandberg would be no more newsworthy [than any other highly capable person living in a more just society].
-
-36. [In the European corporate workplace], generally.
-[A]women take the lead
-[B]men have the final say
-[C]corporate governance is overwhelmed
-[D]senior management is family-friendly
-
-37. The European Union's intended | legislation is
-[A]a reflection (of gender) balance
-[B]a response (to Reding's call)
-[C]a reluctant choice
-[D]a voluntary action
-38. [According to Reding], quotas may help women
-[A]get top business positions
-[B]see through the glass ceiling
-[C]balance work and family
-[D]anticipate legal results
-39. The author's attitude (toward Reding's appeal) is oneof.
-(A)skepticism (B) objectiveness (C) indifference (D) approval 
-40.Women entering top management become headlines [due to the lack] of.
-(A)more social justice 
-(B) massive media attention 
-(C) suitable public policies 
-(D) greater "soft pressure"
-
-Part B Directions: Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each (of the numbered paragraphs)]] (41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-(A) Shopkeepers are your friends 
-(B) Remember to treat yourself 
-(C) Stick to | what you need 
-(D) Live [like a peasant] 
-(E) Balance your diet 
-(F) Planning is everything 
-(G) Waste not, want not
-The hugely popular blog (the Skint Foodie chronicles {how Tony balances his love (of good food) [with living]} on) benefits.
-After bills, Tony has £60 (a week) to spend, £40 (of which) goes on food, || but [10 years ago] he was earning £130, 000|| (a year working) [in corporate communications and eating [at London's]] best restaurants [at least] [twice] [a week].
-[Then] his marriage failed, || his career burned out || and his drinking became serious. 
-"The community (mental health team saved my life). 
-And I felt [like that] [again], [to a certain degree], || when people responded to the blog [so well]. 
-It gave me the validation and confidence (that I'd lost). But it's [still] a day-by-day thing."
-[Now] he's living in a council flat and fielding offers [from literary agents]. 
-He's feeling positive, || but he'll carry on blogging -- [not about eating [as cheaply]] as you can --" there are so many people [in a much worse state], [with barely any money to spend on food "] -- [but eating] [well] [on a budget]. [Here]'s his advice (for economical foodies).
-41.____
-Impulsive spending isn't an option, || so plan your week's menu [in advance], making shopping lists [for your ingredients] [in their exact quantities]. 
-I have an Excel template [for a week (of breakfast, lunch and dinner)]. 
-Stop laughing: it's not [just] cost effective but helps you balance your diet.
-It's [also] a good idea to shop [daily] [instead of weekly], || because, <being human>, you'll [sometimes] change your mind [about {what you fancy}].
-42.____
-This is | where supermarkets and their anonymity come in handy. [With them], there's not the same embarrassment || as when buying one carrot [in a little greengrocer]. 
-And if you plan [properly], || you'll know | that you only need, <say>, 350g (of shin (of beef) and six rashers (of bacon)), not | whatever weight is pre-packed [in the supermarket chiller].
-43.___
-You may proudly claim to only have frozen peas [in the freezer] -- || that's not good enough. Mine is filled with leftovers, bread, stock, meat and fish. 
-Planning (ahead) should eliminate wastage, || but if you have surplus vegetables || you'll do a vegetable soup, || and all fruits threatening to "go off" will be cooked or juiced.
-44.___
-Everyone says this, || but it really is a top tip [for frugal eaters]. 
-Shop [at butchers, delis and fishsellers] [regularly], [even for small things], and be super friendly. 
-[Soon] you'll feel comfortable asking | if they've any knuckles (of ham) [for soups and stews, or beef bones, chicken carcasses and fish heads] [for stock (which, <more often than not>, they'll let you have [for free])].
-45.___
-You won't be eating out [a lot], but save your pennies and [once every few months] treat yourself to a set lunch [at a good restaurant]-- £1.75 (a week) for three months gives you £21 -- || more than enough [for a three-course lunch] [at Michelin-starred Arbutus]. 
-It's £16.95 [there] -- || or £12.99 (for a large pizza (from Domino's)): I know | which I'd rather eat.
-
-
-Section Ⅲ Translation
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-
-I can pick a date from the past 53 years and know [instantly] | where I was, | what happened [in the news] and [even] the day (of the week). I've been able to do this || since I was four.
-
-I never feel overwhelmed [with the amount (of information (my brain absorbs))]. 
-My mind seems to be able to cope || and the information is stored away [neatly]. 
-When I think of a sad memory, || I do {what everybody does} -- || try to put it to one side. I don't think | it's harder [for me] || [just] because my memory is clearer. 
-Powerful memory doesn't make my emotions [any more] acute or vivid. 
-I can recall the day (my grandfather died) and the sadness (I felt) || when we went to the hospital [the day (before)]. 
-I also remember | that the musical play Hair opened [on Broadway] [on the same day] -- || they both just pop into my mind [in the same way].
-
-Section Ⅳ Writing
-Part A 47. Directions: Suppose your class is to hold a charity sale [for kids (in need (of help))]. 
-Write your classmates an email [to 1]) inform them about the details, || and 2) encourage them to participate. 
-You should write about 100 words [on the ANSWER | SHEET]. 
-Do not use your own name. Use "Li Ming" [instead]. Do not write your address. (10 points)
-
-Part B 48. Directions: Write an essay (based on the following chart). 
-In your writing, you should 1) interpret the chart, || and 2) give your comments. 
-You should write about 150 words [on the ANSWER | SHEET]. (15 points)
-
-
-
-
-2014
-Section I Use of English 
-
-Thinner isn't [always] better. A number of studies have 1 (that normal-weight people are [in fact] [at higher risk (of some diseases)] compared to those (who are overweight)). And there are health conditions (for which being overweight is [actually] 2).
-[For example], heavier women are less likely to develop calcium deficiency [than thin women]. 3, [among the elderly], being somewhat overweight is [often] an 4 (of good health).
-
-[Of even greater 5] is the fact (that obesity turns out to be very difficult to define). 
-It is [often] defined | 6 body mass index, or BMI. BMI 7 body mass divided [by the square (of height)]. 
-An adult (with a BMI (of 18 (to 25))) is [often] considered to be normal weight. 
-[Between 25 and 30] is overweight.
-And over 30 is considered obese. Obesity, <8>, can be divided into moderately obese, severely obese, and very severely obese.
-
-While such numerical standards seem 9, || they are not. Obesity is [probably] less a matter (of weight) [than body fat]. Some people (with a high BMI) are [in fact] extremely fit, || 10 others (with a low BMI) may be in poor 11.
-For example, [many collegiate and professional football players 12 as obese], though their percentage body fat is low. 
-[Conversely], someone (with a small frame) may have high body fat [but a 13 BMI].
-
-[Today] we have an 14 to label obesity [as a disgrace]. The overweight are [sometimes] 15 [in the media] [with their faces covered]. 
-Stereotypes 16 with obesity include laziness, lack (of will power), and lower prospects [for success].
-Teachers, employers, and health professionals have been shown to harbor biases [against the obese]. 
-17 very young children tend to look down on the overweight, || and teasing [about body build] has [long] been a problem [in schools]
-
-Negative attitudes (toward obesity, <18 (in health concerns)>,) have stimulated a number of anti-obesity 19. 
-My own hospital system has banned sugary drinks [from its facilities]. 
-Many employers have instituted weight loss and fitness initiatives.
-Michelle Obama has launched a high-visibility campaign 20 childhood obesity, even claiming | that it represents our greatest national security threat.
-1. [ A ) denied (B) concluded (C) doubted (D) ensured 
-2. (A) protective (B) dangerous (C) sufficient (D) troublesome 
-3. (A) Instead (B) However (C) Likewise (D) [Therefore] 
-4. (A) indicator (B) objective (C) origin (D) example 
-5. (A) impact (B) relevance (C) assistance (D) concern
-6. [ A ) [in terms] of (B) in case of (C) [in favor] of (D) in respects of. 
-7 (A) measures (B) determines (C) | equals (D) modifies 
-8. (A) in essence (B) (in contrast (C) (in turn (D) (in part))) 
-9. (A) complicated (B) conservative (C) variable (D) straightforward 
-10. (A) so (B) while (C) since (D) unless
-11. [ A) shape (B) spirit (C) balance (D) taste 
-12. (A) start (B) qualify (C) retire (D) stay 
-13. (A) strange (B) changeable (C) normal (D) constant 
-14. (A) option (B) reason (C) opportunity (D) tendency 
-15. (A) employed (B) pictured (C) imitated (D) monitored
-16. [ A ) compared (B) combined (C) settled (D) associated 
-17. (A) [Even (B)] Still (C) Yet (D) Only 
-18. (A) despised (B) corrected (C) ignored (D) grounded 
-19. (A) discussions (B) businesses (C) policies (D) studies 
-20. (A) for (B) against (C) with (D) without
-
-Section Ⅱ Reading Comprehension
-Part A Directions: Read the following four texts. Answer the questions [after each text] [by choosing A, B, C or D].Mark your answers on the ANSWER | SHEET.(40 points)
-
-Text 1
-What would you do [with $590m]? This is [now] a question [for Gloria MacKenzie], an 84-year-old widow (who recently emerged from her small, tin-roofed house (in Florida to collect the biggest undivided lottery jackpot [in history])). 
-If she hopes | her new-found fortune will yield lasting feelings (of fulfilment), || she could do [worse] || than read Happy Money [by Elizabeth Dunn and Michael Norton].
-(biggest 为 big 的最高级形式, worse 为 badly 的比较级形式)
-
-These two academics use an array (of behavioral research) to show | that the most rewarding ways to spend money can be counterintuitive. 
-Fantasies (of great wealth) often involve visions (of fancy cars and extravagant homes). 
-Yet satisfaction (with these material purchases) wears off [fairly quickly].
-What was [once] exciting and new| becomes old-hat; regret creeps in. 
-It is far better to spend money on experiences, || say Ms Dunn and Mr Norton, 
-[like interesting trips, unique meals or [even] going [to the cinema]]. 
-These purchases often become more valuable [with time] -- [as stories or memories] -- || [particularly] if they involve feeling more connected to others.
-
-This slim volume is packed with tips to help wage slaves as well as lottery winners get the most "happiness bang for your buck."
-It seems | most people would be better off || if they could shorten their commutes [to work], || spend more time (with friends and family and less (of it)) watching television (something (the average American spends a whopping) two months a year doing, and is [hardly] jollier [for it]).
-(jollier 为 jolly 的比较级形式)
-Buying gifts or giving to charity is [often] more pleasurable [than purchasing things for oneself], || and luxuries are most enjoyable || when they are consumed [sparingly]. 
-This is [apparently] | the reason McDonald's restricts the availability (of its popular McRib) -- a marketing trick (that has turned the pork sandwich into an object (of obsession)).
-
-Readers (of Happy Money) are [clearly] a privileged lot, anxious about fulfilment, not hunger. 
-Money may not quite buy happiness, || but people (in wealthier countries) are [generally] happier [than those (in poor ones)].
-形式, happier 为 happy 的比较级形式)
-Yet the link (between feeling good and spending money on others) can be seen [among rich and poor people] [around the world], || and scarcity enhances the pleasure (of most things) [for most people].
-(seen 为 see 的过去分词。)
-Not everyone will agree with the authors' policy ideas, (which range [from mandating more holiday time to reducing tax incentives] [for American homebuyers]). 
-But most people will come away from this book believing | it was money well spent.
-(spent 为 spend 的过去分词。)
-21. [According to Dunn and Norton], which of the following is the most rewarding purchase? 
-(A) A big house. 
-(B) A special tour. 
-(C) A stylish car. 
-(D) A rich meal.
-22. The author's attitude (toward Americans' watching TV is_____). 
-(A) critical 
-(B) supportive 
-(C) sympathetic 
-(D) ambiguous
-23. McRib is mentioned [in Paragraph 3] to show that_____. 
-(A) consumers are [sometimes] irrational 
-(B) | popularity usually comes || after quality 
-(C) marketing tricks are [often] effective 
-(D) | rarity generally increases pleasure
-24. [According to the last paragraph], Happy Money_____. 
-(A) has left much room || for readers' criticism 
-(B) may prove to be | a worthwhile purchase 
-(C) has predicted | a wider income gap (in the US) 
-(D)may give its readers a sense (of achievement)
-(left 为 leave 的过去分词。wider 为 wide 的比较级形式)
-25. This text mainly discusses | how to____. 
-(A) balance feeling good and spending money 
-(B) spend large sums (of money won) in lotteries 
-(C) obtain lasting satisfaction [from money spent] 
-(D) become more reasonable [in spending [on luxuries]]
-(won 为 win 的过去分词。spent 为 spend 的过去分词。)
-
-Text 2
-An article (in Scientific America) has pointed out | that empirical research says | that, <actually>, you think | you're more beautiful || than you are. 
-We have a deep-seated need to feel good [about ourselves] || and we naturally employ a number of self-enhancing strategies to achieve this.
-Social psychologists have amassed oceans (of research) [into {what they call the}] " above average effect, "or" illusory superiority," and [shown | that, [for example], 70% (of us) rate ourselves || as above average [in leadership]], 93% (in driving) and 85% (at getting on) well with others -- all obviously statistical impossibilities.
-(shown 为 show 的过去分词。)
-
-We rose-tint our memories and put ourselves into self-affirming situations. 
-We become defensive || when criticised, and apply negative stereotypes to others to boost our own esteem. 
-We stalk around thinking | we're hot stuff.
-
-Psychologist and behavioural scientist Nicholas Epley oversaw a key study [into self-enhancement and attractiveness]. 
-Rather than have people simply rate their beauty compared with others, || he asked them to identify an original photograph (of themselves) [from a lineup] including versions (that had been altered to appear [more] and less attractive).
-(oversaw 为 oversee 的过去式。)
-Visual recognition, <reads the study>, is "an automatic psychological process, occurring [rapidly] and intuitively [with little or no apparent conscious deliberation]." 
-If the subjects quickly chose a falsely flattering image -- which most did-- they genuinely believed | it was [really] | how they looked.
-(chose 为 choose 的过去式。)
-
-Epley found no significant gender difference [in responses]. 
-[Nor] was there any evidence (that those (who self-enhanced the most (that is, the participants (who thought [the most positively] | doctored pictures were real))) were doing [so] to make up for profound insecurities). 
-[In fact], those (who thought | that the images (higher up the attractiveness scale) were real) directly corresponded with those (who showed other markers [for having higher self-esteem]).
-(found 为 find 的过去式。thought 为 think 的过去式。higher 为 high 的比较级形式)
-"I don't think | the findings (that we have) are any evidence (of personal delusion)," says Epley.
-"It's a reflection [simply of people generally thinking [well] of themselves]." 
-If you are depressed, || you won't be self-enhancing.
-(don't = do not, It's = It is, won't = will not)
-
-[Knowing the results (of Epley's study)], it makes sense | that many people hate photographs (of themselves) [viscerally] -- [on one level], || they don't [even] recognise the person [in the picture] [as themselves].
-
-Facebook, <therefore>, is a self-enhancer's paradise, (where people can share [only] the most flattering photos, the cream (of their wit), style, beauty, intellect and lifestyles). 
-It's not | that people's profiles are dishonest, || says Catalina Toma (of Wisconsin-Madison University), " but they portray an idealised version (of themselves). "
-26. [According to the first paragraph], social psychologists have found that ____. 
-(A) our self-ratings are unrealistically high 
-(B) | illusory superiority is a baseless effect 
-(C) our need || for leadership is unnatural 
-(D) | self-enhancing strategies are ineffective
-27. Visual recognition is believed to be people's_____. 
-(A) rapid matching (B) conscious choice 
-(C) intuitive response (D) automatic self-defence
-28. Epley found | that people (with higher self-esteem) tended to_____. 
-(A) underestimate their insecurities 
-(B) believe | [in their attractiveness] 
-(C) cover (up their depressions) 
-(D) oversimplify their illusions
-29. The word" [viscerally] " (Para. 5) is closest [in meaning to_____]. 
-(A) instinctively (B) occasionally 
-(C) particularly (D) aggressively
-30. It can be inferred | that Facebook is a self-enhancer's paradise || because people can_____. 
-(A) present their dishonest profiles 
-(B) define their traditional lifestyles 
-(C) share their intellectual pursuits 
-(D) withhold their unflattering sides
-Text 3
-The concept (of man (versus machine)) is [at least] as old [as the industrial revolution], || but this phenomenon tends to be most acutely felt [during economic downturns and fragile recoveries]. 
-And yet, it would be a mistake to think | we are [right now] [simply] experiencing the painful side (of a boom and bust cycle).
-(felt 为 feel 的过去分词。)
-
-Certain jobs have gone away [for good], outmoded [by machines]. 
-Since technology has such an insatiable appetite [for eating [up human jobs]], || this phenomenon will continue to restructure our economy [in ways (we cannot immediately foresee)].
-(gone 为 go 的过去分词。has 为 have 的第三人称单数形式。cannot = can not)
-
-When there is rapid improvement [in the price and performance (of technology)], || jobs (that were [once] thought to be immune from automation) suddenly become threatened. 
-This argument has attracted a lot of attention, [via the success (of the book Race Against the Machine)], [by Erik Brynjolfsson and Andrew McAfee, (who both hail from MIT's Center (for Digital Business))].
-(thought 为 think 的过去分词。)
-
-This is a powerful argument, || and a scary one. And yet, John Hagel, <author (of The Power (of Pull) and other books)>, says | Brynjolfsson and McAfee miss the reason (why these jobs are so vulnerable [to technology] [in the first place]).
-
-Hagel says | we have designed jobs [in the U.S. (that tend to be "tightly scripted")] and "highly standardized" ones (that leave no room for "individual initiative or creativity)." 
-[In short], these are the types (of jobs (that machines can perform [much better] at [than human beings])). 
-That is | how we have put a giant target sign on the backs (of American workers), || Hagel says.
-(put 为过去分词，与其动词原形拼写相同。better 为 well 的比较级形式)
-
-It's time to reinvent the formula [for {how work is conducted}], || since we are [still] relying on a very 20th century notion (of work), || Hagel says. [In our rapidly changing economy], we more than ever need people [in the workplace] (who can take initiative and exercise their imagination "to respond to unexpected events)." That is not something (machines are good at).
-They are designed to perform very predictable activities.
-
-As Hagel notes, || Brynjolfsson and McAfee indeed touched on this point [in their book]. 
-We need to reframe race [against the machine] [as race] [with the machine]. 
-[In other words], we need to look at the ways (in which machines can augment human labor) rather than replace it.
-So then the problem is not [really] about technology, but rather, "how do we innovate our institutions and our work practices?"
-31. [According to the first paragraph], economic downturns would_____. 
-(A) ease the competition of man vs. machine 
-(B) highlight machines' threat (to human jobs) 
-(C) provoke a painful technological revolution 
-(D) outmode our current economic structure
-32. The authors (of Race Against the Machine) argue that_____. 
-(A) technology is diminishing man's job opportunities 
-(B) automation is | accelerating technological development 
-(C) certain jobs will remain intact || after automation 
-(D) man will [finally] win the race [against machine]
-33. Hagel argues | that jobs (in the U.S.) are often_____. 
-(A) performed [by innovative minds] 
-(B) scripted [with an individual style] 
-(C) standardized [without a clear target] 
-(D) designed [against human creativity]
-34. According to the last paragraph, Brynjolfsson and McAfee discussed_____. 
-(A) the predictability (of machine behavior (in practice))
-(B) the formula (for {how work is conducted [efficiently] }) 
-(C) || the ways machines replace human labor [in modern times 
-(D) the necessity (of human involvement)] [in the workplace]
-35. Which of the following could be the most appropriate title [for the text]? 
-(A) How to Innovate Our Work Practices? 
-(B) Machines Will Replace Human Labor 
-(C) Can We Win the Race [Against Machines]? 
-(D) Economic Downturns Stimulate Innovations
-
-Text 4
-When the government talks about infrastructure contributing to the economy || the focus is [usually] on roads, railways, broadband and energy. Housing is [seldom] mentioned.
-
-Why is that? [To some extent] the housing sector must shoulder the blame. 
-We have not been good at communicating the real value (that housing can contribute to economic growth). 
-[Then] there is the scale (of the typical housing project).
-It is hard to shove [for attention] [among multibillion-pound infrastructure projects], || so it is inevitable | that the attention is focused [elsewhere]. 
-But [perhaps] the most significant reason is | that the issue has [always] been [so] [politically] charged.
-
-[Nevertheless], the affordable housing situation is desperate. Waiting lists increase [all the time] || and we are [simply] not building enough new homes.
-The comprehensive spending review offers an opportunity for the government to help rectify this. 
-It needs to put historical prejudices to one side and take some steps to address our urgent housing need.
-
-There are some indications (that it is preparing to do just that).
-The communities minister, <Don Foster>, has hinted | that George Osborne, <Chancellor of the Exchequer>, may introduce more flexibility to the current cap [on the amount (that local authorities can borrow [against their housing stock debt])].
-Evidence shows | that 60,000 extra new homes could be built [over the next five years] || if the cap were lifted, increasing GDP [by 0.6%].
-
-Ministers should also look at creating greater certainty [in the rental environment, (which would have a significant impact [on the ability (of registered providers)] to fund new developments [from revenues])].
-
-But it is not just down to the government. While these measures would be welcome [in the short term], || we must face up to the fact (that the existing £4.5bn programme (of grants to fund new affordable housing), <set to expire [in 2015]>, is unlikely to be extended [beyond] [then]). 
-The Labour party has [recently] announced | that it will retain a large part (of the coalition's spending plans) || if it returns to power. 
-The housing sector needs to accept | that we are very unlikely to ever return to the era (of large-scale public grants). We need to adjust to this changing climate.
-
-While the government's commitment (to long-term funding) may have changed, || the very pressing need [for more affordable housing] is real and is not going away.
-
-36. The author believes | that the housing sector_____. 
-(A) has attracted much attention 
-(B) has lost its real value [in economy] 
-(C) shoulders too much responsibility 
-(D) involves certain political factors 
-37. It can be learned | that affordable housing has_____. 
-(A) suffered government biases 
-(B) increased its home supply 
-(C) offered spending opportunities 
-(D) disappointed | the government
-38. [According to Paragraph 5], George Osborne may_____. 
-(A) prepare to reduce housing stock debt 
-(B) release a lifted GDP growth forecast 
-(C) allow greater government debt for housing 
-(D) stop local authorities [from building homes]. 
-39 It can be inferred | that a stable rental environment would_____.
-(A) lower the costs (of registered providers) 
-(B) relieve the ministers of responsibilities 
-(C) contribute to funding new developments 
-(D) lessen the impact (of government interference). 
-40 The author believes that [after 2015], the government may_____. 
-(A) implement more policies to support housing 
-(B) stop generous funding [to the housing sector] 
-(C) renew the affordable housing grants programme 
-(D) review (the need (for large-scale public) grants)
-
-Part B Directions: Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each (of the numbered paragraphs)]] (41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-[Emerging [in the late Sixties] and reaching a peak [in the Seventies]], 
-Land Art was one (of a range (of new forms)), including Body Art, Performance Art, Action Art and Installation Art, (which pushed art [beyond the traditional confines (of the studio and gallery)]). 
-[Rather than portraying landscape], land artists used the physical substance (of the land itself) as their medium.
-
-The British land art, <typified [by Richard Long's piece]>, was not only [more domestically] scaled, || but [a lot] quirkier [than its American counterpart]. [Indeed], while you might assume | that an exhibition (of Land Art) would consist [only] of records (of works) [rather than the works] themselves, || Long's photograph (of his work) is the work. Since his "action" is in the past, || the photograph is its sole embodiment.
-
-That might seem rather an obscure point, || but it sets the tone for an exhibition (that contains a lot of black-and-white photographs and relatively few natural objects).
-
-[Long] is Britain's best-known Land Artist and his Stone Circle, || a perfect ring (of purplish rocks (from Portishead beach laid out [on the gallery floor])), represents the elegant, rarefied side (of the form). 
-The Boyle Family, <on the other hand>, stand for its dirty, urban aspect.
-[Comprising artists Mark Boyle and Joan Hills and their children], they recreated random sections (of the British landscape) [on gallery walls]. 
-Their Olaf Street Study, <a square (of brick-strewn waste ground)>, is one (of the few works) [here] to embrace the commonplaceness (that characterises most (of our experience (of the landscape)) [most of the time]).
-
-Parks feature, [particularly] [in the earlier works], such as John Hilliard's very funny [Across the Park], (in which a long-haired stroller is [variously] smiled at [by a pretty girl] and unwittingly assaulted [in a sequence (of images (that turn out to be different parts (of the same photograph)))]).
-
-[Generally] however British land artists preferred to get away [from towns], [gravitating towards landscapes] that are [traditionally] considered beautiful such as the Lake District or the Wiltshire Downs. 
-While it probably wasn't apparent [at the time], || much (of this work) is permeated [by a spirit (of romantic escapism (that the likes (of Wordsworth) would have [readily] understood))].
-Derek Jarman's yellow-tinted film (Towards Avebury, <a collection (of long, mostly still shots (of the Wiltshire landscape))>,) evokes a tradition (of English landscape painting stretching [from Samuel Palmer to Paul Nash]).
-
-[In the case (of Hamish Fulton)], you can't help feeling | that the Scottish artist has [simply] found a way (of making his love (of walking pay)). 
-A typical work, <such as Seven Days>, consists of a single beautiful black-and-white photograph taken [on an epic walk], [with the mileage and number (of days taken) listed beneath].
-British Land Art || as shown [in this] well selected, but relatively modestly scaled exhibition wasn't about imposing on the landscape, more a kind (of landscape-orientated light conceptual art) created passing through. 
-It had its origins [in the great outdoors], || but the results were as gallery-bound [as the paintings (of Turner and Constable)].
-
-41.Stone Circle 
-42.Olaf Street Study 
-43.Across [the Park] 
-44.Towards Avebury 
-45.Seven days
-【A】originates (from a long walk (that the artist took)). 
-【B】illustrates a kind of landscape-orientated light conceptual art. 
-【C】reminds people (of the English) landscape painting tradition. 
-【D】represents the elegance (of the British) land art. 
-【E】depicts the ordinary side (of the British) land art. 
-【F】embodies a romantic escape into the Scottish outdoors. 
-【G】contains images (from different parts (of the same)) photograph.
-
-Section Ⅲ Translation
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-Most people would define optimism [as being [endlessly] happy], [with a glass (that's perpetually half full)]. 
-But that's exactly the kind (of false cheerfulness (that positive psychologists wouldn't recommend)). 
-"Healthy optimism means being in touch [with reality]," says Tal Ben-Shahar, a Harvard professor. [According to Ben-Shahar], realistic optimists are those (who make the best (of things (that happen))), || but not those (who believe everything) happens [for the best].
-
-Ben-Shahar uses three optimistic exercises. When he feels down -- || say, || after giving a bad lecture -- || he grants himself permission to be human. He reminds himself | that not every lecture can be a Nobel winner; some will be less effective [than others]. 
-Next is reconstruction. 
-He analyzes the weak lecture, learning lessons [for the future] [about {what works} and {what doesn't.
-[Finally], there is perspective, (which involves acknowledging | that [in the grand scheme (of life)], one lecture really doesn't matter).
-
-Section Ⅳ Writing
-Part A 
-47. Directions: Suppose you are going to study [abroad] and share an apartment with John, a local student. Write him an email [to 1]) tell him about your living habits, || and 2) ask for advice [about living [there]]. You should write about 100 words [on the ANSWER | SHEET]. 
-Do not use your own name. Use "Li Ming" [instead]. Do not write your address. (10 points)
-
-Part B
- 48.Directions: Write an essay (based on the following chart). In your writing, you should 1) interpret the chart, || and 2) give your comments. You should write about 150 words [on the ANSWER | SHEET]. (15 points)
-
-
-
-
-2016
-Section I Use of English 
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-(best 为 good 的最高级形式)
-
-Happy people work [differently].
-They're more productive, more creative, and willing to take greater risks.
-And new research suggests | that happiness might influence 1 firms work, [too].
-(they're = they are, greater 为 great 的比较级形式, happier 为 happy 的比较级形式)
-
-Companies (located in places (with happier people)) invest more, [according to a recent research paper]. 
-2, <firms (in happy places)> spend more on R&D (research and development).
-That's | because happiness is linked to the kind (of longer-term) thinking 3 [for making investments [for the future]].
-(That's = That is)
-
-The researchers wanted to know | if the 4 and inclination (for risk-taking (that come with happiness)) would 5 the way companies invested.
-So they compared U.S. cities' average happiness 6 [by Gallup polling [with the investment activity (of publicly traded firms)] [in those areas]].
-
-7 enough, firms' investment and R&D intensity were correlated with the happiness (of the area (in which they were 8)).
-But is it [really] happiness | that's linked to investment, || or could something (else) (about happier cities 9 (why firms (there) spend more on R&D))?
-(that's = that is, happier 为 happy 的比较级形式)
-[To find out], the researchers controlled [for various 10 (that might make firms more likely to invest)]-- like size, industry, and sales -- || and [for indicators (that a place was 11 to live in, like growth [in wages or population])]
-The link (between happiness and investment) generally 12 (even after accounting for these things).
-
-The correlation (between happiness and investment) was particularly strong for younger firms, (which the authors 13 (to "[less codified decision making process]" and the possible presence (of "younger and less 14 managers (who are more likely to be influenced [by sentiment]))))." The relationship was 15 stronger [in places (where happiness was spread more 16)].
-(younger 为 young 的比较级形式, stronger 为 strong 的比较级形式)
-Firms seem to invest more in places (where most people are relatively happy), rather than in places [with happiness inequality].
-
-17 this doesn't prove | that happiness causes firms to invest more || or [to take a longer-term view], the authors believe it [at least 18] [at that possibility].
-(doesn't = does not)
-It's not hard to imagine | that local culture and sentiment would help 19 how executives think about the future|.
-"It surely seems plausible | that happy people would be more forward-thinking and creative and 20 R&D [more] [than the average]," said one researcher.
-(said 为 say 的过去式。It's = It is)
-
-1. [ A ) why (B) how (C) where (D) when 
-2. (A) In return (B) In particular (C) In contrast (D) In conclusion 
-3. (A) necessary (B) famous (C) perfect (D) sufficient 
-4. (A) individualism (B) realism (C) optimism (D) modernism 
-5. (A) miss (B) echo (C) spoil (D) change
-6. [ A ) imagined (B) measured (C) assumed (D) invented 
-7. (A) Sure (B) Odd (C) Unfortunate (D) [Often] 
-8. (A) divided (B) advertised (C) overtaxed (D) headquartered 
-9. (A) summarize (B) overstate (C) explain (D) emphasize 
-10. (A) factors (B) stages (C) levels (D) methods
-11. [ A ) desirable (B) sociable (C) reliable (D) reputable 
-12. (A) resumed (B) emerged (C) held (D) broke 
-13. (A) assign (B) attribute (C) transfer (D) compare 
-14. (A) serious (B) civilized (C) ambitious (D) experienced 
-15. (A) instead (B) thus (C) also (D) never
-(held 为 hold 的过去式。)
-16. [ A ) rapidly (B) directly (C) [regularly (D)] equally 
-17. (A) While (B) Until (C) After (D) Since 
-18. (A) arrives (B) jumps (C) hints (D) strikes 
-19. (A) share (B) rediscover (C) simplify (D) shape 
-20. (A) pray [for] (B) lean [towards] (C) send out (D) give away
-
-Section Ⅱ Reading Comprehension 
-Part A 
-Directions: Read the following four texts. Answer the questions [after each text] [by choosing A, B, C or D]. Mark your answers on the ANSWER | SHEET. (40 points)
-
-Text1
-It's true | that high-school coding classes aren't essential for learning computer science [in college].
-Students (without experience) can catch up [after [a few] introductory courses], || said Tom Cortina, the assistant dean (at Carnegie Mellon's School (of Computer Science)).
-(said 为 say 的过去分词。It's = It is, aren't = are not)
-
-[However], Cortina said, || early exposure is beneficial.
-When younger kids learn computer science, || they learn | that it's not [just] a confusing, endless string (of letters and numbers) -- [but a tool] to build apps, or create artwork, or test hypotheses.
-It's not as hard for them to transform their thought processes || as it is [for older students].
-(said 为 say 的过去式。hypotheses 为 hypothesis 的复数形式。younger 为 young 的比较级形式, it's = it is, It's = It is, older 为 old 的比较级形式)
-Breaking down problems [into bite-sized chunks] and using code to solve them becomes normal.
-Giving more children this training could increase the number (of people (interested in the field)) and help fill the jobs gap, || Cortina said.
-(said 为 say 的过去式。children 为 child 的复数形式。)
-
-Students also benefit from learning something about coding || before they get to college, (where introductory computer-science classes are packed [to the brim]), || which can drive the lessexperienced or -determined students away.
-
-The Flatiron School, (where people pay to learn programming), started [as one (of the many coding bootcamps (that's become popular [for adults looking for a career change]))].
-The highschoolers get the same curriculum, || but "we try to gear lessons toward things (they're interested in)," said Victoria Friedman, an instructor.
-[For instance], one (of the apps (the students are developing)) suggests movies (based on your mood).
-(become 为过去分词，与其动词原形拼写相同。said 为 say 的过去式。that's = that has, they're = they are)
-
-The students (in the Flatiron class) probably won't drop out of high school and build the next Facebook.
-Programming languages have a quick turnover, so the"Ruby (on Rails "language (they learned)) may not even be relevant [by the time (they enter the job market)].
-(won't = will not)
-But the skills (they learn) -- <{how to think [logically] [through a problem] and organize the results}> -- apply to any coding language, || said Deborah Seehorn, an education consultant (for the state (of North Carolina)).
-(said 为 say 的过去分词。)
-
-[Indeed], the Flatiron students might not go into IT [at all].
-But creating a future army (of coders) is not the sole purpose (of the classes).
-These kids are going to be surrounded [by computers] -- [in their pockets], [in their offices], [in their homes] -- [for the rest (of their lives)].
-(lives 为 life 的复数形式。)
-The younger they learn | how computers think, how to coax the machine into producing | what they want-- the earlier they learn | that they have the power to do that -- the better.
-
-21. Cortina holds | that early exposure (to computer science) makes it easier to____.
-A. complete future job training 
-B. remodel the way (of thinking). 
-C formulate logical hypotheses 
-D. perfect artwork production 
-(hypotheses 为 hypothesis 的复数形式。easier 为 easy 的比较级形式)
-22. [In delivering lessons [for high-schoolers]], Flatiron has considered their____.
-A. experience 
-B. interest 
-C. career prospects 
-D. academic backgrounds
-23. Deborah Seehorn believes | that the skills learned [at Flatiron will____].
-A. help students learn other computer languages 
-B. have to be upgraded || when new technologies come 
-C. need improving || when students look for jobs 
-D. enable students to make big quick money
-24. [According to the last paragraph], Flatiron students are expected to____.
-A. bring forth innovative computer technologies 
-B. stay [longer] in the information technology industry 
-C. become better prepared for the digitalized world 
-D. compete with a future army (of programmers)
-(longer 为 long 的比较级形式, better 为 well 的比较级形式)
-25. The word" coax" (Para.6) is closest [in meaning to____].
-A. persuade 
-B. frighten 
-C. misguide 
-D. challenge
-
-Text 2
-Biologists estimate | that [as many as] 2 million lesser prairie chickens -- <a kind (of bird living on stretching grasslands)> -- once lent red to the often grey landscape (of the midwestern and southwestern United States).
-But just some 22,000 birds remain [today], occupying about 16% (of the species' historic range).
-(lent 为 lend 的过去式。)
-
-The crash was a major reason (the U.S. Fish and Wildlife service (USFWS) decided to formally list the bird as threatened).
-"The lesser prairie chicken is in a desperate situation," said USFWS director Daniel Ashe.
-Some environmentalists, <however>, were disappointed.
-They had pushed the agency to designate the bird [as "[endangered],"] a status (that gives federal officials greater regulatory power to crack down on threats).
-(said 为 say 的过去式。greater 为 great 的比较级形式)
-But Ashe and others argued | that the "threatened" tag gave the federal government flexibility to try out new, potentially less confrontational conservation approaches.
-[In particular], they called for forging closer collaborations [with western state governments, (which are [often] uneasy [with federal action])], and with the private landowners (who control an estimated 95% (of the prairie chicken's habitat)).
-(gave 为 give 的过去式。closer 为 close 的比较级形式)
-
-[Under the plan], [for example], the agency said | it would not prosecute landowners or businesses (that unintentionally kill, harm, or disturb the bird), || as long as they had signed a rangewide management plan to restore prairie chicken habitat.
-(said 为 say 的过去式。)
-[Negotiated [by USFWS and the states]], the plan requires individuals and businesses (that damage habitat [as part]) of their operations to pay into a fund to replace every acre destroyed with 2 new acres (of suitable habitat).
-The fund will [also] be used to compensate landowners (who set aside habitat).
-And it gives the Western Association (of Fish) and Wildlife Agencies (WAFWA), a coalition (of state agencies), the job (of monitoring progress).
-[Overall], the idea is to let "states" remain in the driver's seat [for managing the species]," Ashe said.
-(said 为 say 的过去式。)
-
-Not everyone buys the win-win rhetoric.
-Some Congress members are trying to block the plan, || and [at least] a dozen industry groups, four states, and three environmental groups are challenging it [in federal court].
-[Not surprisingly], industry groups and states generally argue | it goes [too far]; environmentalists say | it doesn't go [far enough]"
-The federal government is giving responsibility for managing the bird [to the same industries (that are pushing it to extinction)]," says biologist Jay Lininger.
-(doesn't = does not)
-
-26. The major reason [for listing the lesser prairie chicken [as threatened is____]].
-A. its drastically decreased population 
-B. the underestimate (of the grassland acreage ). 
-C. a desperate appeal (from some biologists ). 
-D .the insistence (of private landowners)
-27. The "threatened" tag disappointed some environmentalists [in that it_____].
-A. was a give-in to governmental pressure 
-B. would involve fewer agencies [in action ].
-C. granted less federal regulatory power 
-D. went against conservation policies
-(went 为 go 的过去式。fewer 为 few 的比较级形式)
-28. It can be learned from Paragraph 3 | that unintentional harm-doers will not be prosecuted || if they_____.
-A. agree to pay a sum for compensation 
-B. volunteer to set up an equally big habitat 
-C. offer to support the WAFWA monitoring job 
-D. promise to raise funds [for USFWS operations ].
-29. [According to Ashe], the leading role (in managing the species is______).
-A. the federal government 
-B. the wildlife agencies 
-C. the landowners 
-D. the states
-30. Jay Lininger would most likely support_______.
-A. industry groups 
-B. the win-win rhetoric 
-C. environmental groups 
-D. the plan (under challenge)
-
-Text 3
-That everyone's too busy [these days] | is a cliché.
-But one specific complaint is made [especially mournfully]: There's [never] any time to read.
-(made 为 make 的过去分词。everyone's = everyone is, There's = There is)
-
-What makes the problem thornier| is | that the usual time-management techniques don't seem sufficient.
-The web's full of articles offering tips [on making time to read]: "Give up TV" or" Carry a book [with you] [at all times] ".
-[But in my experience], using such methods to free [up the odd 30 minutes] doesn't work.
-Sit down to read || and the flywheel (of work-related thoughts) keeps spinning -- || or else you're so exhausted || that a challenging book's the last thing (you need).
-The modern mind, Tim Parks, a novelist and critic, writes," is [overwhelmingly] inclined toward communication…
-It is not [simply] | that one is interrupted; it is | that one is [actually] inclined [to interruption]."
-(you're = you are, book's = book is)
-Deep reading requires not just time, but a special kind (of time (which can't be obtained [merely by becoming more efficient])).
-(can't = can not)
-
-[In fact], "becoming more efficient" is part (of the problem).
-[Thinking of time [as a resource] to be maximised means] you approach it [instrumentally], judging any given moment [as well] spent [only] [in] so far as it advances progress [toward some goal].
-Immersive reading, <by contrast>, depends on being willing to risk inefficiency, <goallessness>, even time-wasting.
-(spent 为 spend 的过去式。)
-Try to slot it in [as a to-do list item] || and you'll manage [only] goal-focused reading -- useful, [sometimes], but not the [most] fulfilling kind.
-(you'll = you will)
-"The future comes [at us] [like empty bottles] [along an unstoppable and nearly infinite conveyor belt]," writes Gary Eberle [in his book Sacred Time], || and "we feel a pressure to fill these different-sized bottles (days, <hours, <minutes>>) || as they pass, || for if they get by [without being filled], || we will have wasted them."
-No mind-set could be worse for losing yourself [in a book].
-(worse 为 bad 的比较级形式)
-
-So what does work?
-[Perhaps] [surprisingly], scheduling regular times [for reading].
-You'd think | this might fuel the efficiency mind-set, || but [in fact, <Eberle notes>], such ritualistic behaviour helps us || "step (outside time's flow" (into "soul time))." You could limit distractions [by reading [only] physical books], or on single-purpose e-readers.
-(you'd = you would)
-"Carry a book [with you] [at all times]" can actually work, [too] -- || providing you dip in [often enough], || so that reading becomes the default state (from which you temporarily surface to take care (of business)), [before dropping back down].
-[On a really good day], it [no longer] feels | as if you're "making time to read," || but just reading, || and making time [for everything (else)].
-(you're = you are)
-
-31. The usual time-management techniques don't work || because ___.
-A. what they can offer | does not ease the modern mind 
-B. what challenging books demand | is repetitive reading 
-C. what people often forget | is carrying a book [with them]
-D. what deep reading requires | cannot be guaranteed
-(don't = do not, cannot = can not)
-32. The "empty bottles" metaphor illustrates | that people feel a pressure [to ___].
-A. update their to-do lists 
-B. make passing time fulfilling 
-C. carry their plans through 
-D. pursue carefree reading 
-33. Eberle would agree | that scheduling regular times [for reading] helps ___.
-A. encourage the efficiency mind-set 
-B. develop [online] reading habits 
-C. promote ritualistic reading 
-D. achieve immersive reading
-34. "Carry a book [with you] [at all (times" can work)] || if ___.
-A. reading becomes your primary business (of the day ).
-B. all the daily business has been [promptly] dealt [with].
-C. you are able to drop back to business [after reading].
-D. time can be [evenly] split [for reading and business]
-(dealt 为 deal 的过去分词。split 为过去分词，与其动词原形拼写相同。)
-35. The best title (for this text) could be ___.
-A. How to Enjoy Easy Reading 
-B. How to Find | Time (to Read) 
-C. How to Set Reading Goals 
-D. How to Read [Extensively]
-(best 为 good 的最高级形式)
-
-Text 4
-[Against a backdrop (of drastic changes (in economy and population structure))], younger Americans are drawing a new 21st-century road map to success, || a latest poll has found.
-(found 为 find 的过去分词。younger 为 young 的比较级形式, latest 为 late 的最高级形式)
-
-[Across generational lines], Americans continue to prize many (of the same traditional milestones (of a successful life)), including getting married, having children, owning a home, and retiring [in their sixties].
-But while young and old mostly agree [on {what constitutes the finish line (of a fulfilling life)}], || they offer strikingly different paths for reaching it.
-(children 为 child 的复数形式。)
-
-Young people (who are [still] getting started in life) were more likely [than older adults] to prioritize personal fulfillment [in their work, <to believe | they will advance their careers [most] [by regularly changing jobs]>], to favor communities [with more public services and a faster pace (of life)], to agree | that couples should be [financially] secure [before getting married or having children], || and [to maintain | that children are [best] served [by two parents working [outside the home]]], the survey found.
-(older 为 old 的比较级形式, faster 为 fast 的比较级形式)
-(found 为 find 的过去式。children 为 child 的复数形式。best 为 well 的最高级形式)
-
-[From career to community and family], these contrasts suggest | that [in the aftermath (of the searing Great Recession)], those just starting out [in life] are defining priorities and expectations (that will [increasingly] spread through virtually all aspects (of American life)), [from consumer preferences to housing patterns to politics].
-
-Young and old converge on one key point: Overwhelming majorities (of both groups) said | they believe | it is harder [for young people] [today] to get started in life || than it was [for earlier generations].
-(said 为 say 的过去式。harder 为 hard 的比较级形式, earlier 为 early 的比较级形式)
-While younger people are somewhat more optimistic [than their elders] [about the prospects] [for those starting out [today]], || big majorities (in both groups) believe | those "just getting started in life" face a tougher climb [than earlier generations] [in reaching such signpost achievements as securing a good-paying job, starting a family, managing debt, and finding affordable housing].
-(younger 为 young 的比较级形式, tougher 为 tough 的比较级形式, earlier 为 early 的比较级形式)
-
-Pete Schneider considers the climb tougher [today].
-Schneider, <a 27-year-old auto technician (from the Chicago suburbs)>, says | he struggled to find a job [after graduating from college].
-Even now that he is working [steadily], || he said, "I can't afford to pay my monthly mortgage payments [on my own], || so I have to rent rooms out to people to make that happen."
-(said 为 say 的过去式。tougher 为 tough 的比较级形式, can't = can not)
-[Looking back], he is struck | that his parents could provide a comfortable life for their children || even though neither had completed college || when he was young.
-"I still grew up [in an upper middle-class home] [with parents (who didn't have college degrees)]," Schneider said.
-"I don't think | people are capable of that [anymore]."
-(struck 为 strike 的过去分词。grew 为 grow 的过去式。said 为 say 的过去式。children 为 child 的复数形式。didn't = did not, don't = do not)
-
-36. One cross-generation mark (of a successful life is_____).
-A. trying out different lifestyles 
-B. having a family [with children].
-C. working [beyond retirement age ].
-D. setting up a profitable business 
-37.It can be learned from Paragraph 3 | that young people tend to ____.
-A. favor a slower life pace 
-B. hold an occupation longer 
-C. attach importance to pre-marital finance 
-D. give priority to childcare [outside the home]
-(children 为 child 的复数形式。slower 为 slow 的比较级形式, longer 为 long 的比较级形式)
-38. The priorities and expectations defined [by the young] will ____.
-A. become increasingly clear 
-B. focus on materialistic issues 
-C. depend [largely] on political preferences 
-D. reach almost all aspects (of American life) 
-39. Both young and old agree that ____.
-A. good-paying jobs are less available 
-B. the old made more life achievements 
-C. housing loans [today] are easy to obtain 
-D. getting established is harder [for the young]
-(made 为 make 的过去式。harder 为 hard 的比较级形式)
-40. Which of the following is true [about Schneider]?
-A. He found a dream job [after graduating from college].
-B. His parents believe | working [steadily] is a must [for success].
-C. His parents' good life has little to do with a college degree.
-D. He thinks his job [as a technician quite challenging].
-(found 为 find 的过去式。has 为 have 的第三人称单数形式。)
-
-Part B 
+2009年全国硕士研究生入学统一考试英语试题
+Section I	Use of English
 Directions:
-Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G] || for each (of the numbered paragraphs(41-45).There) are two extra subheadings (which you do not need to use).
-Mark your answers on the ANSWER | SHEET.(10 points)
-
-(A) Be silly
-(B) Have fun
-(C) Ask for help
-(D) Express your emotions
-(E) Don't overthink it
-(F) Be easily pleased
-(G) Notice things 
-
-Act Your Shoe Size, Not Your Age
-
-[As adults], it seems | that we are [constantly] pursuing happiness, [often with mixed results].
-Yet children appear to have it [down to an art] -- || and [for the most part] they don't need self-help books or therapy.
-[Instead], they look after their wellbeing [instinctively], and usually [more effectively] || than we do [as grownups].
-[Perhaps] it's time to learn a few lessons from them.
-(children 为 child 的复数形式。don't = do not, it's = it is)
-41._______
-What does a child do || when he's sad?
-He cries.
-When he's angry?
-He shouts.
-Scared?
-[Probably] a bit of both.
-As we grow up, || we learn to control our emotions || so they are manageable and don't dictate our behaviours, (which is [in many ways] a good thing).
-(he's = he is, don't = do not)
-But [too often] we take this process [too far] and end up suppressing emotions, especially negative ones.
-That's about as effective [as brushing dirt [under a carpet]] and can even make us ill.
-What we need to do | is find a way to acknowledge and express | what we feel [appropriately], || and [then]-- [again], like children-- move on.
-(children 为 child 的复数形式。That's = That is)
-42.______
-A couple of Christmases ago, <my youngest stepdaughter, (who was nine years old [at the time])>, got a Superman T-shirt for Christmas.
-It cost [less than] a fiver || but she was overjoyed, and couldn't stop talking about it.
-(got 为 get 的过去式。youngest 为 young 的最高级形式, couldn't = could not)
-[Too often] we believe | that a new job, bigger house or better car will be the magic silver bullet (that will allow us to finally be content), || but the reality is | these things have very little lasting impact [on our happiness levels].
-[Instead], being grateful for small things [every day] is a much better way to improve wellbeing.
-(bigger 为 big 的比较级形式, better 为 good 的比较级形式)
-43._________
-Have you ever noticed | how much children laugh?
-If we adults could indulge in a bit of silliness and giggling, || we would reduce the stress hormones [in our bodies], increase good hormones [like endorphins], improve blood flow [to our hearts] and [even] have a greater chance (of fighting off infection).
-All (of which) would, <of course>, have a positive effect (on our happiness levels).
-(children 为 child 的复数形式。greater 为 great 的比较级形式)
-44.________
-The problem (with being a grownup) is | that there's an awful lot (of serious stuff) to deal with-- work, mortgage payments, figuring out | what to cook for dinner.
-But [as adults] we also have the luxury (of being able) to control our own diaries || and it's important | that we schedule in time to enjoy the things (we love).
-(there's = there is, it's = it is)
-Those things might be social, sporting, creative or completely random ([dancing [around the living room]], anyone?)-- it doesn't matter, || so long as they're enjoyable, and not likely to have negative side effects, such as drinking too much alcohol or going on a wild spending spree [if you're on a tight budget].
-(doesn't = does not, they're = they are, you're = you are)
-45.______
-[Having said all (of the above)], it's important to add | that we shouldn't try [too hard] to be happy.
-Scientists tell us | this can backfire and actually have a negative impact [on our wellbeing].
-(said 为 say 的过去分词。it's = it is, shouldn't = should not)
-As the Chinese philosopher Chuang Tzu is reported to have said: "Happiness is the absence (of striving for happiness)." And [in that], [once more], we need to look [to the example (of our children, (to whom happiness is not a goal [but a natural byproduct (of the way (they live))]))].
-(said 为 say 的过去分词。children 为 child 的复数形式。)
-
-Section Ⅲ Translation 
-46. Directions:
-Translate the following text into Chinese.
-Write your translation [on the ANSWER | SHEET]. (15 points)
-
-The supermarket is designed to lure customers into spending as much time as possible [within its doors].
-The reason (for this) is simple: The longer you stay in the store, || the more stuff you'll see, || and the more stuff you see, || the more you'll buy.
-(longer 为 long 的比较级形式, you'll = you will)
-And supermarkets contain a lot of stuff.
-The average supermarket, <according to the Food Marketing Institute>, carries some 44,000 different items, || and many carry tens of thousands [more].
-The sheer volume (of available choice) is enough to send shoppers into a state (of information overload).
-[According to brain-scan experiments], the demands (of so much decision-making) quickly become too much [for us].
-[After about 40 minutes (of shopping)], most people stop struggling to be [rationally] selective, and instead begin shopping [emotionally] (-- which is the point (at which we accumulate the 50 percent (of stuff) [in our cart (that we never intended buying)])).
-
-Section Ⅳ Writing Part A 
-47. Directions:
-Suppose you won a translation contest || and your friend, <Jack>, wrote an email to congratulate you and ask for advice (on translation).
-Write him a reply [to 1]) thank him, || and 2) give your advice.
-You should write about 100 words [on the ANWSER SHEET].
-Do not use you own name.
-Use "Li Ming" [instead].
-Do not write your address. (10 point)
-(won 为 win 的过去式。wrote 为 write 的过去式。)
-
-Part B 
-48.Directions:
-Write an essay (based on the chart (below)).
-In your writing, you should 1) interpret the chart, || and 2) give your comments.
-You should write about 150 words [on the ANSWER | SHEET]. (15 points)
-.
-
-2017
-Section Ⅰ Use (of English Directions):
-Read the following text.
-Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET. (10 points)
-(best 为 good 的最高级形式)
-
-People have speculated [for centuries] [about a future] [without work].
-Today is no different, with academics, writers, and activists once [again] 1 (that technology is replacing human workers).
-Some imagine | that the coming work-free world will be defined [by 2]: [A few] wealthy people will own all the capital, || and the masses will struggle [in an impoverished wasteland].
-
-A different and not mutually exclusive 3 holds | that the future will be a wasteland (of a different sort), one 4 by purposelessness: [Without jobs to give their lives 5], people will [simply] become lazy and depressed. 
-6, today's unemployed don't seem to be having a great time.
-(lives 为 life 的复数形式。don't = do not)
-One Gallup poll found | that 20 percent (of Americans (who have been unemployed [for [at least] a year])) report having depression, double the rate [for 7 Americans].
-Also, some research suggests | that the 8 (for rising rates (of mortality)), mental-health problems, and addiction 9 poorly-educated, <middle-aged people> is a shortage (of well-paid jobs).
-[Perhaps] this is | why many 10 (the agonizing dullness (of a jobless future)).
-(found 为 find 的过去式。)
-
-But it doesn't 11 follow from findings [like these] (that a world (without work) would be filled with unease).
-Such visions are based on the 12 (of being unemployed [in a society built on the concept (of employment)]).
-In the 13 (of work), a society designed [with other ends] [in mind] could 14 strikingly different circumstances (for the future (of labor and leisure)).
-(built 为 build 的过去分词。doesn't = does not)
-[Today], the 15 (of work) may be [a bit] overblown.
-"Many jobs are boring, degrading, unhealthy, and a waste (of human potential)," says John Danaher, a lecturer (at the National University of Ireland (in Galway)).
-
-[These days], because leisure time is [relatively] 16 [for most workers], || people use their free time to counterbalance the intellectual and emotional 17 (of their jobs).
-"When I come [home] [from a hard day's work], || I often feel 18," Danaher says, adding, ["In a world (in which I don't have to work)], I might feel rather different" -- perhaps different enough to throw himself 19 a hobby || or a passion project (with the intensity usually reserved for 20) matters.
-(don't = do not)
-
-1. [ A) boasting (B) denying (C) warning (D) ensuring 
-2. (A)inequality (B) instability (C) unreliability (D) uncertainty 
-3. (A)policy (B) guideline (C) resolution (D) prediction 
-4. (A)characterized(B)divided(C) balanced (D) measured 
-5. (A)wisdom (B) meaning (C) glory (D) freedom
-6. [ A ) Instead (B) Indeed (C) Thus (D) Nevertheless 
-7. (A) rich (B) urban (C) working (D) educated 
-8. (A) explanation (B) requirement (C) compensation (D) substitute 
-9. (A) under (B) beyond (C) alongside (D) among 
-10. (A) leave behind (B) make up (C) worry [about (D) set aside]
-11. [ A ) statistically (B) occasionally (C) necessarily (D) [economically] 
-12. (A) chances (B) downsides (C) benefits (D) principles 
-13. (A) absence (B) height (C) face (D) course 
-14. (A) disturb (B) restore (C) exclude (D) yield 
-15. (A) model (B) practice (C) virtue (D) hardship 
-16. (A) tricky (B) lengthy (C) mysterious (D) scarce 
-17. (A) demands (B) standards (C) qualities (D) threats
-18. [ A ) ignored (B) tired (C) confused (D) starved 
-19. (A) off (B) against (C) behind (D) into 
-20. (A) technological (B) professional (C) educational (D) interpersonal
-
-Section Ⅱ Reading Comprehension 
-Part A 
-Directions:
-Read the following four texts.
-Answer the questions [after each text] [by choosing A, B, C or D].
-Mark your answers on the ANSWER | SHEET.(40 points)
-
-Text 1
-[Every Saturday morning], [at 9 am], [more than] 50,000 runners set off to run 5km [around their local park].
-The Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more [abroad].
-Events are free, staffed [by thousands of volunteers].
-(began 为 begin 的过去式。)
-Runners range [from four years old] [to grandparents]; their times range [[from Andrew Baddeley's world record]] 13 minutes [48 seconds] [up to an hour].
-
-Parkrun is succeeding || where London's Olympic "legacy" is failing.
-[Ten years ago] [on Monday], it was announced | that the Games (of the 30th Olympiad) would be in London.
-Planning documents pledged | that the great legacy (of the Games) would be to lever a nation (of sport lovers) away from their couches.
-The population would be fitter, healthier and produce more winners. It has not happened.
-(fitter 为 fit 的比较级形式, healthier 为 healthy 的比较级形式)
-The number (of adults doing weekly sport) did rise, [by nearly 2 million] [in the run-up] [to 2012] -- || but the general population was growing faster.
-[Worse], the numbers are [now] falling [at an accelerating rate].
-The opposition claims | primary school pupils doing [at least] two hours (of sport) [a week] have [nearly] halved.
-Obesity has risen [among adults and children].
-(risen 为 rise 的过去分词。children 为 child 的复数形式。faster 为 fast 的比较级形式, worse 为 badly 的比较级形式)
-Official retrospections continue [as to {why London 2012 failed to "inspire a generation}]." The success (of Parkrun) offers answers.
-
-Parkrun is not a race but a time trial: Your only competitor is the clock.
-The ethos welcomes anybody.
-There is as much joy [over a puffed-out first-timer being clapped [over the line]] || as there is [about top talent shining].
-The Olympic bidders, <by contrast>, wanted to get more people doing sport and to produce more elite athletes.
-The dual aim was mixed up: The stress (on success (over taking part)) was intimidating [for newcomers].
-
-[Indeed], there is something [(a little] absurd) [in the state] getting involved in the planning (of such a fundamentally "grassroots" concept as community sports associations).
-If there is a role [for government], || it should really be getting involved in providing common goods -- making sure | there is space for playing fields and the money to pave tennis and netball courts, and encouraging the provision (of all these activities) in schools.
-But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention [on sport] [in education].
-[Instead of wordy, worthy strategies], future governments need to do more to provide the conditions for sport to thrive.
-Or [at least] not make them worse.
-(worse 为 bad 的比较级形式)
-
-21. [According to Paragraph1], Parkrun has__________.
-(A) created many jobs 
-(B) gained great popularity 
-(C) become an official festival 
-(D) strengthened community ties 
-22. The author believes | that London's Olympic "legacy" has failed to_________.
-(A) boost population growth
-(B) improve the city's image
-(C) increase sport hours [in schools] 
-(D) promote sport participation
-23. Parkrun is different from Olympic games [in that it_______].
-(A) aims (at discovering talents )
-(B) focuses (on mass competition ) 
-(C) does not emphasize | elitism 
-(D) does not attract first-timers 
-24.[With regard to mass sports], the author holds that governments should_______.
-(A) increase funds [for sports clubs] 
-(B) invest in public sports facilities 
-(C) organize" grassroots "sports events 
-(D) supervise local sports associations
-25. The author's attitude (to {what UK governments have done for}) sports is_______.
-(A) critical 
-(B) tolerant 
-(C) uncertain 
-(D) sympathetic
-
-Text 2
-[With so much focus (on children's use (of screens))], it's easy for parents to forget about their own screen use.
-"Tech is designed to really suck you in," says Jenny Radesky [in her study (of digital play)]," and digital products are there to promote maximal engagement.
-It makes it hard to disengage, and leads to a lot of bleed-over [into the family routine]."
-(children 为 child 的复数形式。it's = it is)
-
-Radesky has studied the use (of mobile phones and tablets) [at mealtimes] [by giving mother] -- || child pairs a food-testing exercise.
-She found | that mothers (who used devices [during the exercise]) started 20 per cent fewer (verbal) and 39 per cent fewer nonverbal interactions [with their children].
-(found 为 find 的过去式。children 为 child 的复数形式。fewer 为 few 的比较级形式)
-[During a separate observation], she saw | that phones became a source (of tension) [in the family].
-Parents would be looking at their emails || while the children would be making excited bids [for their attention].
-(saw 为 see 的过去式。became 为 become 的过去式。children 为 child 的复数形式。)
-
-Infants are wired to look at parents' faces to try to understand their world, || and if those faces are blank and unresponsive -- || as they often are || when absorbed [in a device] -- || it can be extremely disconcerting [for the children].
-Radesky cites the "still face experiment" devised [by developmental psychologist Ed Tronick] [in the 1970s].
-(children 为 child 的复数形式。)
-[In it], a mother is asked to interact with her child [in a normal way] [before putting on a blank expression and not giving them any visual social feedback]: The child becomes increasingly distressed || as she tries to capture her mother's attention.
-"Parents don't have to be [exquisitely] present at all times, || but there needs to be a balance || and parents need to be responsive and sensitive to a child's verbal or nonverbal expressions (of an emotional need)," says Radesky.
-(don't = do not)
-
-[On the other hand], Tronick himself is concerned | that the worries (about kids' use (of screens)) are born [out of an "oppressive ideology (that demands | that parents should always be interacting" with their children)]: "It's based on a somewhat fantasised, very white, very uppermiddle-class ideology (that says | if you're failing to expose your child to 30,000 words (you are neglecting them))."
-(children 为 child 的复数形式。) (It's = It is, you're = you are)
-Tronick believes | that just because a child isn't learning from the screen| doesn't mean | there's no value [to it] -- [particularly] || if it gives parents time to have a shower, do housework or simply have a break [from their child].
-Parents, <he says>, can get a lot [out of using their devices to speak to a friend or get some work [out of the way]].
-(isn't = is not, doesn't = does not, there's = there is)
-This can make them feel happier, (which lets them be more available [to their child] [the rest of the time]).
-(happier 为 happy 的比较级形式)
-
-26. [According to Jenny Radesky], digital products are designed to_______.
-(A) absorb user attention
-(B) increase work efficiency
-(C) simplify routine matters 
-(D) better interpersonal relations 
-27. Radesky's food-testing exercise shows that mothers' use (of devices_______).
-(A) takes away babies' appetite
-(B) distracts children's attention
-(C) slows down babies' verbal development
-(D) reduces mother-child communication
-(children 为 child 的复数形式。better 为 good 的比较级形式)
-28. Radesky cites the "still face experiment" to show that_______.
-(A) it is easy for children to get used to blank expressions
-(B) verbal expressions are unnecessary [for emotional exchange]
-(C) parents need to respond to children's emotional needs
-(D) children are insensitive [to changes (in their parents' mood)]
-(children 为 child 的复数形式。)
-29. The oppressive ideology mentioned [by Tronick] requires parents to_______.
-(A) protect kids from exposure (to wild fantasies)
-(B) teach their kids [at least] 30,000 words [a year]
-(C) remain concerned about kids' use (of screens)
-(D) ensure constant interaction (with their children) 
-30. [According to Tronick], kids' use (of screens may_______).
-(A) make their parents more creative
-(B) give their parents some free time
-(C) help them with their homework
-(D) help them become more attentive
-
-Text 3
-[Today], widespread social pressure to immediately go to college [in conjunction] [with increasingly high expectations] [in a fast-moving world] often causes students to completely overlook the possibility (of taking a gap year).
-[After all], if everyone (you know) is going to college [in the fall], || it seems silly to stay [back] a year, || doesn't it?
-And [after going to school [for 12 years]], it doesn't feel natural to spend a year doing something (that isn't academic).
-(doesn't = does not, isn't = is not)
-
-But while this may be true, || it's not a good enough reason to condemn gap years.
-There's [always] a constant fear (of falling behind everyone else [on the socially perpetuated "race] [to the finish line])," || whether that be toward graduate school, medical school or a lucrative career.
-But [despite common misconceptions], a gap year does not hinder the success (of academic pursuits) -- [in fact], || it probably enhances it.
-(it's = it is, There's = There is)
-
-Studies (from the United States and Australia) show | that students (who take a gap year) are [generally] [better] prepared for and perform [better] [in college] [than those (who do not)].
-[Rather than pulling students back], a gap year pushes them [ahead] [by preparing them for independence, new responsibilities and environmental changes] -- all things (that first-year students often struggle [with the most]).
-(better 为 well 的比较级形式)
-Gap year experiences can lessen the blow || when it comes to adjusting to college and being thrown into a brand new environment, making it easier to focus on academics and activities [rather than acclimation blunders].
-(thrown 为 throw 的过去分词。easier 为 easy 的比较级形式)
-
-If you're not convinced of the inherent value [in taking a year off to explore interests], || then consider its financial impact [on future academic choices].
-[According to the National Center (for Education Statistics)], nearly 80 percent (of college students) end up changing their majors [at least once].
-(you're = you are)
-This isn't surprising, || considering the basic mandatory high school curriculum leaves students [with a poor understanding (of the vast academic possibilities (that await them [in college]))].
-Many students find themselves listing one major [on their college applications], || but switching to another [after taking college classes].
-(isn't = is not)
-It's not [necessarily] a bad thing, || but [depending on the school], it can be costly to make up credits [after switching [too late] [in the game]].
-[At Boston College], [for example], you would have to complete an extra year || were you to switch to the nursing school [from another department].
-Taking a gap year to figure things out [initially] can help prevent stress and save money [later on].
-(It's = It is)
-
-31. One (of the reasons (for high-school graduates not taking a gap year)) is that_______.
-(A) they think it [academically] misleading
-(B) they have a lot of fun to expect [in college]
-(C) it feels strange to do [differently] [from others]
-(D) it seems worthless to take off-campus courses 
-32. Studies (from the US and Australia) imply that taking a gap year helps_______.
-(A) relieve freshmen (of pressures )
-(B) lower risks (in choosing careers ) 
-(C) ease freshmen's financial burdens 
-(D) keep students [from being unrealistic ].
-33. The word" acclimation" (Para.3) is closest [in meaning to _______].
-(A)motivation 
-(B) application 
-(C) competition 
-(D) adaptation
-(freshmen 为 freshman 的复数形式。lower 为 low 的比较级形式, closest 为 close 的最高级形式)
-34. A gap year may save money for students [by helping them_______].
-(A) switch to another college
-(B) decide on the right major
-(C) avoid academic failures
-(D) establish long-term goals 
-35. The most suitable title [for this text] would be_______.
-(A) In Favor (of the Gap Year )
-(B) The ABCs (of the Gap Year )
-(C) The Gap Year Comes Back 
-(D) The Gap Year: A Dilemma
-
-Text 4
-Though often viewed as a problem (for western states), || the growing frequency (of wildfires) is a national concern [because of its impact] [on federal tax dollars], || says Professor Max Moritz, a specialist (in fire ecology) and management.
-
-[In 2015], the US Forest Service (for the first time) spent more than half (of its $5.5 billion annual budget) fighting fires-- nearly double the percentage (it spent on such efforts [20 years ago]).
-[In effect], fewer federal funds (today) are going [towards the agency's other work] -- such as forest conservation, watershed and cultural resources management, and infrastructure upkeep -- || that affect the lives (of all Americans).
-(spent 为 spend 的过去式。lives 为 life 的复数形式。fewer 为 few 的比较级形式)
-
-Another nationwide concern is | whether public funds (from other agencies) are going into construction [in fire-prone districts].
-As Moritz puts it, || how often are federal dollars building homes (that are likely to be lost [to a wildfire])?
-
-"It's [already] a huge problem (from a public expenditure perspective) [for the whole country]," he says.
-"We need to take a magnifying glass to that.
-Like, 'Wait [a minute], is this OK?' 
-Do we want [instead] to redirect those funds to concentrate on lower-hazard parts (of the landscape)?"
-(It's = It is)
-
-Such a view would require a corresponding shift [in] the way US society (today) views fire, || researchers say.
-
-[For one thing], conversations (about wildfires) need to be more inclusive.
-[Over the past decade], the focus has been on climate change -- | how the warming (of the Earth (from greenhouse gases)) is leading to conditions (that worsen fires).
-
-While climate is a key element, || Moritz says, || it shouldn't come [at the expense (of the rest (of the equation))].
-(shouldn't = should not)
-
-"The human systems and the landscapes (we live on) are linked, || and the interactions go both ways," he says.
-Failing to recognize that, <he notes>, leads to "an overly simplified view (of {what the solutions might be}).
-Our perception (of the problem) and of {what the solution is} becomes very limited."
-
-[At the same time], people continue to treat fire as an event (that needs to be wholly controlled and unleashed [only out of necessity]), || says Professor Balch [at the University (of Colorado)].
-But acknowledging fire's inevitable presence [in human life] is an attitude (crucial) (to developing the laws, policies, and practices (that make it as safe as possible)), || she says.
-
-"We've disconnected ourselves from living [with fire]," Balch says.
-"It is really important to understand and try and tease out | what is the human connection [with fire] [today]."
-
-36. More frequent wildfires have become a national concern || because [in 2015] they_______.
-(become 为过去分词，与其动词原形拼写相同。we've = we have)
-(A) consumed a record-high (percentage (of budget ) 
-(B) severely damaged the ecology (of western states) 
-(C) caused a huge rise (of infrastructure expenditure) 
-(D) exhausted unprecedented management efforts 
-37. Moritz calls for the use (of "a magnifying glass" to_______).
-(A) avoid the redirection (of federal money)
-(B) find wildfire-free parts (of the landscape 
-(C) raise (more funds (for fire-prone areas)) 
-(D) guarantee safer spending (of public funds)
-38. While admitting that climate is a key element, Moritz notes that_______.
-(A) public debates have not settled [yet]
-(B) a shift (in the view (of fire)) has taken place
-(C) other factors should not be overlooked 
-(D) | fire-fighting conditions are improving
-(taken 为 take 的过去分词。)
-39. The overly simplified view Moritz mentions is a result (of failing to_______).
-(A) discover the fundamental makeup (of nature)
-(B) explore the mechanism (of the human systems)
-(C) understand | the interrelations (of man and nature ) 
-(D) maximize the role (of landscape) [in human life 40].
-Professor Balch points out | that fire is | something man should_______.
-(A) do away [with]
-(B) come to terms [with]
-(C) pay a price for 
-(D) keep away [from]
-
-Part B Directions:
-Read the following text and match each (of the numbered items) [in the left column] [to its corresponding information] [in the right column].
-There are two extra choices [in the right column].
-Mark your answers on the ANSWER | SHEET. (10 points)
-
-The decline (in American manufacturing) is a common refrain, [particularly] [from Donald Trump].
-"We don't make anything [anymore]," he told Fox News, || while defending his own made-in-Mexico clothing line.
-(told 为 tell 的过去式。don't = do not)
-
-[Without question], manufacturing has taken a significant hit [during recent decades], || and further trade deals raise questions (about {whether new shocks could hit manufacturing}).
-(taken 为 take 的过去分词。)
-
-But there is [also] a different way to look at the data.
-
-[Across the country], factory owners are [now] grappling with a new challenge: [Instead of having too many workers], they may end up [with too few].
-[Despite trade competition and outsourcing], American manufacturing still needs to replace tens of thousands of retiring boomers [every year].
-Millennials may not be that interested in taking their place.
-Other industries are recruiting them [with similar or better pay].
-(better 为 good 的比较级形式)
-
-[For factory owners], it all adds up to stiff competition [for workers] -- and upward pressure (on wages).
-"They're harder to find || and they have job offers," says Jay Dunwell, president (of Wolverine Coil Spring), a family-owned firm.
-(they're = they are, harder 为 hard 的比较级形式)
-
-"They may be coming ([into the workforce]), || but they've been plucked [by other industries (that are [also] doing as well as manufacturing)]," Mr.
-Dunwell has begun bringing high school juniors to the factory || so they can get exposed to its culture.
-(begun 为 begin 的过去分词。they've = they have)
-
-[At RoMan Manufacturing, a maker (of electrical transformers) and welding equipment (that his father cofounded [in 1980])], Robert Roth keeps a close eye on the age (of his nearly 200 workers).
-Five are retiring [this year].
-Mr. Roth has three community-college students enrolled in a workplacement program, [with a starting wage (of $13 (an hour (that rises [to $17] || after two years)))]
-(has 为 have 的第三人称单数形式。)
-
-[At a worktable (inside the transformer plant)], young Jason Stenquist looks flustered [by the copper coils (he's trying to assemble) and the arrival (of two visitors)].
-It's his first week [on the job].
-[Asked about his choice (of career)], he says | [at high school] he considered medical school [before switching to electrical engineering].
-"I love working [with tools].
-I love creating," he says.
-
-But [to win [over these young workers]], manufacturers have to clear another major hurdle: parents, (who lived through the worst US economic downturn (since the Great Depression)), telling them to avoid the factory.
-Millennials "remember | their father and mother both were laid off.
-They blame it on the manufacturing recession," says Birgit Klohs, chief executive (of The Right Place), a business development agency (for western Michigan).
-(laid 为 lay 的过去分词。worst 为 bad 的最高级形式)
-
-These concerns aren't misplaced: Employment (in manufacturing) has fallen [from 17 million] [in 1970] [to 12 million] [in 2015].
-When the recovery began, || worker shortages first appeared [in the high-skilled trades].
-[Now] shortages are appearing [at the mid-skill levels].
-(fallen 为 fall 的过去分词。began 为 begin 的过去式。aren't = are not)
-
-"The gap is between the jobs (that take no skills) and those (that require a lot of skill)," says Rob Spohr, a business professor (at Montcalm Community College).
-"There're enough people to fill the jobs [at McDonalds and other places (where you don't need to have much skill)].
-It's that gap in between, || and that's | where the problem is."
-(there're = there are, don't = do not, It's = It is, that's = that is)
-
-Julie Parks (of Grand Rapids Community College) points to another key (to luring Millennials into manufacturing): a work/life balance.
-While their parents were content to work long hours, || young people value flexibility.
-"Overtime is not attractive [to this generation].
-They really want to live their lives," she says.
-(lives 为 life 的复数形式。)
-
-41. Jay Dunwell 
-42. Jason Stenquist 
-43. Birgit Klohs 
-44. Rob Spohr
-45. Julie Parks 
-(A) says | that he switched to electrical engineering || because he loves working [with tools].
-(B) points out | that there are enough people to fill the jobs (that don't need much skill).
-(C) points out | that the US doesn't manufacture anything [anymore].
-(D) believes | that it is important to keep a close eye on the age (of his workers).
-(don't = do not, doesn't = does not)
-(E) says | that [for factory owners], workers are harder to find [because of stiff competition].
-(F) points out | that a work / life balance can attract young people [into manufacturing].
-(G) says | that the manufacturing recession is to blame for the lay-off (of the young people's parents).
-(harder 为 hard 的比较级形式)
-
-Section Ⅲ Translation 
-46.Directions:
-Translate the following text into Chinese.
-Write your translation [on the ANSWER | SHEET].
-(15 points)
-
-My dream has [always] been to work [somewhere] [in an area] [between fashion and publishing].
-[Two years before graduating from secondary school], I took a sewing and design course thinking | that I would move on [to a fashion design course].
-(took 为 take 的过去式。)
-[However], [during that course] I realised | I was not good enough [in this area] to compete with other creative personalities [in the future], || so I decided | that it was not the right path (for me).
-[Before applying for university] I told everyone | that I would study journalism, || because writing was, and still is, one (of my favourite activities).
-(told 为 tell 的过去式。)
-But, to be honest, I said it, || because I thought | that fashion and me together was [just] a dream -- || I knew | that no one could imagine me [in the fashion industry] [at all]!
-So I decided to look for some fashion-related courses (that included writing).
-This is | when I noticed the course "Fashion Media & Promotion."
-(said 为 say 的过去式。thought 为 think 的过去式。knew 为 know 的过去式。media 为 medium 的复数形式。)
-
-Section Ⅳ Writing 
-Part A 
-47.Directions:
-Suppose you are invited [by Professor Williams] to give a presentation [about Chinese culture] [to a group (of international students)].
-Write a reply to 1) accept the invitation, || and 2) introduce the key points (of your presentation).
-You should write about 100 words [on the ANSWER | SHEET].
-Do not use your own name.
-Use "Li Ming" [instead].
-Do not write your address.
-(10 points)
-
-Part B 
-48.Directions:
-Write an essay (based on the chart (below)).
-In your writing, you should 1) interpret the chart, || and 2) give your comments.
-You should write about 150 words [on the ANSWER | SHEET]. (15 points)
-
-
-2018
-Section I Use of English 
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-
-Why do people read negative Internet comments and do other things (that will [obviously] be painful)? 
-Because humans have an inherent need [to 1 uncertainty], [according to a recent study] [in Psychological Science]. 
-The new research reveals | that the need to know is so strong || that people will 2 to satisfy their curiosity || [even] when it is clear | the answer will 3.
-
-[In a series (of four experiments)], behavioral scientists (at the University Of Chicago) and the Wisconsin School (of Business) tested students' willingness [to 4] themselves [to unpleasant stimuli] [in an effort to satisfy curiosity].
-[For one] 5, each participant was shown a pile (of pens (that <the researcher claimed> were from a previous experiment)). 
-The twist? Half (of the pens) would [6 an electric] shock [when clicked]
-
-Twenty-seven students were told | which pens were electrified; another twenty-seven were told [only] | that some were electrified. 
-7 left alone [in the room, the students (who did not know | which ones would shock them| clicked more pens and incurred more shocks || than the students (who knew | what would 8))]
-Subsequent experiments reproduced this effect [with other stimuli], 9 the sound (of fingernails (on a chalkboard) and photographs (of disgusting insects)).
-(stimuli 为 stimulus 的复数形式。)
-
-The drive (to 10) is deeply rooted in humans, much the same as the basic drives (for 11 or shelter), || says Christopher Hsee (of the University of Chicago). Curiosity is [often] considered a good instinct -- || it can 12 new scientific advances, [for instance] -- || but [sometimes] such 13 can backfire. The insight (that curiosity can drive you to) do 14 things is a profound one.
-
-Unhealthy curiosity is possible [to 15], [however]. [In a final] experiment, participants (who were encouraged [to 16]) how they would feel [after viewing an unpleasant picture] | were less likely [to 17] to see such an image.
-These results suggest | that imagining the 18 (of following through [on one's curiosity] [ahead of time]) can help determine 19 it is worth the endeavor. 
-
-"Thinking about (long-term) 20 is key to reducing the possible negative effects (of curiosity),
-" Hsee says. [In other words] don't read online comments.
-
-1. (A) ignore (B) protect (C) resolve (D) discuss 
-2. (A) seek (B) refuse (C) wait (D) regret  
-3. (A) rise (B) hurt (C) last (D) mislead 
-4.(A) expose (B) alert (C) tie (D) treat 
-5.(A) concept (B) message (C) review (D) trial 
-6. (A) deliver (B) remove (C) weaken (D) interrupt
-7. (A) Unless (B) When (C) If  (D) [Though] 
-8. (A) change (B) continue (C) happen (D) disappear 
-9. (A) owing to (B) rather than (C) [regardless of] (D) such as
-10. (A) disagree (B) discover (C) forgive (D) forget 
-11. (A) food (B) pay (C) marriage (D) schooling 
-12.(A)begin [with](B)lead to (C)rest [on] (D) learn from 
-13.(A)diligence (B) withdrawal (C) persistence (D) inquiry 
-14.(A)self-deceptive(B)self-reliant(C)self-destructive(D)self-evident 
-15.(A)trace (B)define (C)resist (D) replace
-16. (A) conceal(B)overlook(C) predict (D) design 
-17.(A)pretend(B) remember (C) | promise (D) choose 
-18.(A)outcome (B) relief  (C) plan (D) duty  
-19.(A)where (B) why (C) whether (D) how 
-20(A)limitations (B) consequences (C) investments (D) strategies
-
-Section Ⅱ Reading Comprehension
-Part A 
-Directions: Read the following four texts. Answer the questions [after each text] [by choosing A, B, C or D].Mark your answers on the ANSWER | SHEET.(40 points)
-
-Text 1
-It is curious | that Stephen Koziatek feels (almost) as though he has to justify his efforts to give his students a better future.
-
-Mr. Koziatek is part (of something) pioneering. He is a teacher [at a New Hampshire high school (where learning is not something (of books and tests and mechanical memorization), but practical)]. 
-When did it become accepted wisdom (that students should be able to name the 13th president (of the United States)) but be [utterly] overwhelmed [by a broken bike chain]?
-
-[As Koziatek] knows,  there is learning [in {just}] about everything. Nothing is [necessarily] gained [by forcing students] to learn geometry [at a graffitied desk (stuck with generations)] of discarded chewing gum.
-They can also learn geometry [by assembling a bicycle].
-
-But he's [also] found a kind (of insidious prejudice). Working [with your hands] is seen [as almost a mark (of inferiority)]. 
-Schools (in the family (of vocational education "))have that stereotype... that it's for kids (who can't make it) [academically] |," he says.
-he's = he has, it's = it is, can't = can not
-
-[On one hand],that viewpoint is a logical product (of America's evolution).
-Manufacturing is not the economic engine (that it once was) 
-The job security (that the US economy once offered to high school graduates) has [largely] evaporated. 
-More education is the new principle. We want more for our kids, || and [rightfully] so.
-
-But the headlong push into bachelor's degrees (for all -- and the subtle devaluing [of anything (less)] --)) misses an important point: 
-That's not the only thing (the American economy needs). Yes, a bachelor's degree opens more doors. 
-But [even now], 54 percent (of the jobs (in the country)) are middle-skill jobs, such as construction and high-skill manufacturing. 
-But [only] 44 percent (of workers) are [adequately] trained.
-(That's = That is)
-
-[In other words], at a time (when the working class has turned the country on its political head, frustrated | that the opportunity (that once defined America is vanishing, || one obvious solution is staring us in [the face])).
-There is a gap [in working-class jobs], || but the workers (who need those jobs [most]) aren't equipped to do them. 
-Koziatek's Manchester School (of Technology High School) is trying to fill that gap.
-
-Koziatek's school is a wake-up call. When education becomes one-size-fits-all, || it risks overlooking a nation's diversity (of gifts).
-
-21. A broken bike chain is mentioned to show students' lack of______.
-(A)practical ability (B) academic training 
-(C) pioneering spirit (D) mechanical memorization 
-22.There exists the prejudice (that vocational education is [for kids who______]).
-(A)have a stereotyped mind(B)have no career motivation
-(C)are not academically successful (D) are [financially] disadvantaged
-23. We can infer [from Paragraph 5] | that high school graduates______.
-(A)used to have big financial concerns(B)used to have more job opportunities
-(C)are reluctant to work [in manufacturing](D) are entitled to more educational privileges
-24. The headlong push (into bachelor's degrees (for all______)).
-(A)helps create a lot of middle-skill jobs(B)may narrow the gap [in working-class jobs]
-(C)is expected to yield a better-trained workforce(D) indicates the overvaluing [of higher education ]. 
-25.The author's attitude (toward Koziatek's school) can be described as______.
-(A)supportive(B)tolerant(C) disappointed (D) cautious
-
-Text 2
-While fossil fuels--coal, <oil>, gas -- still generate roughly 85 percent (of the world's energy supply), it's clearer || than ever that the future belongs to renewable sources (such as wind and solar) |. 
-The move (to renewables) is picking up momentum [around the world]: They now account for more than half (of new power sources) going on line.
-（it's = it is， clear 更为 clear 的比较级形式）
-
-Some growth stems from a commitment [by governments and farsighted businesses] to fund cleaner energy sources.  
-But [increasingly] the story is about the plummeting prices (of renewables), especially wind and solar. 
-The cost (of solar panels) has dropped [by 80 percent and the cost (of wind turbines)] [by close] [to one-third] [in the past eight years].
-(cleaner 为 clean 的比较级形式)
-
-[In many parts (of the world renewable energy)] is [already] a principal energy source.
-[In Scotland], [for example],  wind turbines provide enough electricity (to power) 95 percent (of homes).
-While the rest (of the world) takes the lead, notably China and Europe, || the United States is [also] seeing a remarkable shift.
-[In March], [for the first time], wind and solar power accounted for more than 10 percent (of the power generated [in the US]), || reported the US Energy Information Administration.
-
-President Trump has underlined fossil fuels -- <especially coal> -- [as the path] [to economic growth]. 
-[In a recent speech] [in Iowa], he dismissed wind power [as an unreliable energy source].
-
-The question "(what happens) || when the wind doesn't blow || or the sun doesn't shine?" has provided a quick put-down for skeptics. 
-But a boost (in the storage capacity (of batteries)) is making their ability to keep power flowing [around the clock] [more likely].
-(doesn't = does not)
-
-The advance is driven [in part] [by vehicle manufacturers, (who are placing big bets on battery-powered electric vehicles)]. 
-Although electric cars are [still] a rarity [on roads] [now], || this massive investment could change the picture [rapidly] [in coming years].
-(driven 为 drive 的过去分词。)
-
-While there's a long way to go, || the trend lines (for renewables) are spiking.
-The pace (of change (in energy sources)) appears to be speeding up – [perhaps] [just in time to have a meaningful effect [in slowing climate change]]. 
-What Washington does--or doesn't do -- to promote alternative energy may mean [less] and less [at a time (of a global shift)] [in thought].
-(there's = there is, doesn't = does not)
-
-26. The word" plummeting" (Para.2) is closest [in meaning to______]. 
-(A)rising (B) falling 
-(C) changing (D) stabilizing
-27. [According to Paragraph 3], the use (of renewable energy (in America_____)). 
-(A)is as extensive as in Europe(B)is progressing [notably]
-(C) has proved to be impractical (D) | faces (many challenges)
-28. It can be learned | that [in Iowa], ____. 
-(A)wind energy has replaced fossil fuels(B)there is a shortage (of clean energy supply)
-(C)tech giants are investing in clean energy(D)wind is a widely used energy source
-29. Which of the following is true [about clean energy] [according to Paragraphs 5] & 6? 
-(A)Its application has boosted battery storage.(B)It is [commonly] used [in car manufacturing]. 
-(C)Its continuous supply is becoming a reality.(D)Its sustainable exploitation will remain difficult.
-30. It can be inferred from the last paragraph | that renewable energy____. 
-(A)is not [really] encouraged [by the US government](B)is not competitive enough [with regard] [to its cost] 
-(C)will bring the US (closer to other countries)(D) will accelerate global environmental change
-(closer 为 close 的比较级形式)
-
-Text 3
-The power and ambition (of the giants (of the digital economy)) is astonishing -- || Amazon has [just] announced the purchase (of the upmarket grocery chain Whole Foods) [for $13.5bn], || but [two years ago] Facebook paid [even more than that] to acquire the WhatsApp messaging service,(which doesn't have any physical product [at all]).
-（paid 为 pay 的过去式。not = does not）
-What WhatsApp offered Facebook| was an intricate and finely detailed web (of its users' friendships and social lives).
-（lives 为 life 的复数形式。）
-
-Facebook promised the European commission [then] | that it would not link phone numbers to Facebook identities, || but it broke the promise [almost as soon] as the deal went through. Even without knowing | what was in the knowledge (of {who sent them and [to {whom}]}) was [enormously] revealing and still could be.
-(broke 为 break 的过去式。went 为 go 的过去式。sent 为 send 的过去式。)
-
-What political journalist, what party whip, would not want to know the makeup (of the WhatsApp groups (in which Theresa May's enemies are [currently] plotting))? It may be | that the value (of Whole Foods (to Amazon)) is not so much [the 460] shops (it owns, (but the records of which customers have purchased what)).
-
-Competition law appears to be the only way to address these imbalances (of power). But it is clumsy. 
-[For one thing], it is very slow compared to the pace (of change) [within the digital economy]. 
-[By the time (a problem has been addressed and remedied it)] may have vanished [in the marketplace], to be replaced [by new abuses (of power)]. 
-But there is a deeper conceptual problem, [too].
-(deeper 为 deep 的比较级形式)
-Competition law as presently interpreted deals with financial disadvantage [to consumers] || and this is not obvious || when the users (of these services) don't pay for them. 
-The users (of their services) are not their customers. 
-That would be the people (who buy advertising from them) -- || and Facebook and Google, <the two virtual giants>, dominate digital advertising [to the disadvantage (of all other media and entertainment companies)].
-(media 为 medium 的复数形式。don't = do not)
-
-The product (they're selling) is data, || and we, <the users>, convert our lives to data [for the benefit (of the digital giants)].
-(lives 为 life 的复数形式。they're = they are)
-Just as some ants farm || the bugs called aphids for the honeydew (they produce) || when they feed, || so Google farms us [for the data (that our digital lives yield)]. 
-Ants keep predatory insects away [from {where their aphids feed}]; 
-Gmail keeps the spammers out of our inboxes.
-(lives 为 life 的复数形式。)
-
-31. [According to Paragraph1], Facebook acquired WhatsApp [for its______]. 
-(A)digital products (B) quality service 
-(C) physical assets (D) user information 
-32.Linking phone numbers to Facebook identities [may]______. 
-(A)pose a risk [to Facebook users](B)mislead the European commission 
-(C) worsen political disputes (D) mess [up customer records]
-33. [According to the author], competition law ______. 
-(A)should serve the new market powers (B)may worsen the economic imbalance 
-(C)cannot keep pace [with the changing market] (D) should not provide just one legal solution
-34. Competition law as presently interpreted can hardly protect Facebook users || because ______. 
-(A)they are not financially reliable (B) | they are not defined || as customers 
-(C) the services are [generally] digital (D) | the services are paid for [by advertisers]
-35. The ants analogy is used to illustrate ______. 
-(A)a typical competition pattern (among digital giants 
-(B) a win-win business model (between digital giants 
-(C) the benefits)) provided for digital giants' customers 
-(D) the relationship (between digital giants and their users)
-
-Text 4
-[To combat the trap (of putting a premium on)] being busy, <Cal Newport, <author (of Deep Work)>>:
-Rules (for Focused Success (in a Distracted World)), recommends building a habit of "deep work" -- the ability to focus [without distraction].
-
-There are a number of approaches (to mastering the art (of deep work))--be it lengthy retreats dedicated to a specific task; developing a daily ritual; or taking a" journalistic" approach [to seizing moments (of deep work) [when you can]] throughout the day.
-Whichever approach, || the key is to determine your length (of focus time) and stick to it.
-
-Newport also recommends" deep scheduling" to combat constant interruptions and get more done [in less time]. ["At any given point], I should have deep work scheduled || for [roughly] [the next month].
-[Once] on the calendar, I protect [this time] || like I would [a doctor's] appointment or important meeting," he writes.
-
-Another approach (to getting more done [in less time]) is to rethink | how you prioritise your day-- [in particular] how we craft our to-do| lists. Tim Harford, author (of Messy): 
-The Power (of Disorder to Transform Our Lives), points (to a study (in the early 1980s (that divided undergraduates into two groups))): some were advised to set out monthly goals and study activities; others were told to plan activities and golds [in much more detail], [day by day].
-(lives 为 life 的复数形式。)
-
-While the researchers assumed | that the well-structured daily plans would be most effective || when it came to the execution (of tasks), || they were wrong: the detailed daily plans demotivated students. Harford argues | that inevitable distractions often render the daily to-do list ineffective, || while leaving room for improvisation [in such a list] can reap the best results.
-
-In order to make the most (of our focus and energy), || we also need to embrace downtime, || or as Newport suggests, "be lazy." 
-"Idleness is not [just] a vacation, an indulgence or a vice; it is as indispensable to the brain || as vitamin D is to the body… (idleness) is, <paradoxically>, necessary to getting any work done," he argues.
-
-Srini Pillay, <an assistant professor (of psychiatry (at Harvard Medical School))>, believes this counterintuitive link [between downtime] || and productivity may be due to the way (our brains operate). 
-When our brains switch [between being focused and unfocused [on a task]], || they tend to be more efficient.
-
-"What people don't realise | is | that in order to complete these tasks || they need to use both the focus and unfocus circuits [in their brain]," says Pillay. 
-
-36. The key (to mastering the art (of deep work)) is to____. 
-(A) list your immediate tasks (B) make specific daily plans 
-(C) keep (to your focus time (D)) seize [every minute] to work
-37. The study (in the early 1980s cited [by Harford]) shows that____. 
-(A) daily schedules are indispensable to studying 
-(B) students are [hardly] motivated [by monthly goals] 
-(C) detailed plans may not be as fruitful as expected 
-(D) distractions may actually increase efficiency
-38. [According to Newport], idleness is ____. 
-(A) an essential factor (in accomplishing any) work. 
-(B) an effective way to save time and energy 
-(C) a major contributor (to physical health) 
-(D) a desirable mental state for busy people
-39. Pillay believes | that our brains' shift (between being focused and unfocused______). 
-(A) can result in psychological well-being (B) can bring about greater efficiency 
-(C) is aimed at better balance [in work] (D) is driven [by task urgency]
-(driven 为 drive 的过去分词。greater 为 great 的比较级形式, better 为 good 的比较级形式)
-40. This text is [mainly] about______. 
-(A) the key (to eliminating distractions )
-(B) the cause (of the lack (of focus time ))
-(C) ways to relieve the tension of busy life 
-(D) approaches [to getting more done [in less time]]
-
-Part B 
-Directions: 
-Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each (of the numbered paragraphs)]] (41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-A. Just say it 
-B. Be present 
-C. Skip the small talk 
-D. Ask for an opinion 
-E. Find the" me too" s 
-F. Name, places, things 
-G. Pay a unique compliment
-
-Five ways to make conversation (with anyone)
-
-Conversations are links, (which means | when you have a conversation (with a new person) || a link gets formed || and every conversation (you have [after that moment]) will strengthen the link).
-
-You meet new people [every day]: the grocery worker, the cab driver, new people (at work) or the security guard (at the door). Simply starting a conversation (with them) will form a link. 
-[Here] are five simple ways (that you can make the first move and start a conversation (with strangers)).
-41._________________
-Suppose you are in a room [with someone] || you don't know || and something (within you) says "I want to talk with this person" -- || this is something (that mostly happens [with all (of us)]). 
-You wanted to say something -- the first word -- || but it just won't come out, || it feels | like it is stuck [somewhere]. 
-I know the feeling || and [here] is my advice: just get it out.
-(stuck 为 stick 的过去分词。don't = do not, won't = will not)
-
-Just think: what is the worst (that could happen)? They won't talk with you? 
-Well, they are not talking with you [now]! 
-I truly believe | that once you get that first word out || everything (else) will [just] flow. So keep it simple: "Hi"," Hey" or "Hello"-- do the best (you can) to gather all (of the enthusiasm and energy (you can)), put on a big smile and say "Hi".
-(won't = will not)
-42.____________________
-It's a problem (all (of us) face); you have limited time [with the person (that you want to talk with)] || and you want to make this talk memorable. [Honestly], if we got stuck in || the rut (of "hi)"," hello"," how are you?" and "what's going on?", you will fail to give the initial jolt to the conversation (that can make it so memorable).
-(got 为 get 的过去式。It's = It is, what's = what is)
-So don't be afraid to ask more personal questions. 
-Trust me, || you'll be surprised to see | how much people are willing to share || if you just ask.
-(don't = do not, you'll = you will)
-43._______________
-When you meet a person [for the first time], || make an effort to find the things (which you and that person have [in common]) || so that you can build the conversation from that point. 
-When you start conversation [from there and then] | move [outwards], || you'll find [all of a sudden] | that the conversation becomes [a lot] easier.
-(you'll = you will, easier 为 easy 的比较级形式)
-44.__________
-Imagine | you are pouring your heart out [to someone] || and they are just busy [on their phone], || and if you ask for their attention || you get the response "(I can multitask)". 
-So when someone tries to communicate with you, || just be in that communication [wholeheartedly]. 
-Make eye contact. Trust me, || eye contact is | where all the magic happens. 
-When you make eye contact, || you can feel the conversation.
-45.___________
-You all came into a conversation (where you first met the person), || but [after some time] you may have met [again] and have forgotten their name. Isn't that awkward! 
-So, remember the little details (of the people (you met)) || or you talked [with]; [perhaps] the places (they have been to), the places (they want to go), the things (they like), the things (they hate)-- whatever you talk about.
-(came 为 come 的过去式。第1个 met 为 meet 的过去式。第2个 met 为 meet 的过去分词。forgotten 为 forget 的过去分词。第3个 met 为 meet 的过去式。isn't = is not)
-When you remember such things || you can automatically become investor [in their wellbeing]. 
-So they feel a responsibility [to you] to keep that relationship going. That's it.
-Five amazing ways (that you can make conversation (with almost anyone)). 
-Every person is a really good book to read, || or to have a conversation [with]!
-(That's = That is)
-
-Section Ⅲ Translation
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-
-A fifth grader gets a homework assignment to select his future career path from a list (of occupations). 
-He ticks "astronaut" but quickly adds "scientist" to the list and selects it [as well]. 
-The boy is convinced | that if he reads enough, || he can explore as many career paths || as he likes. 
-And so he reads -- || everything (from encyclopedias to science fiction novels).
-He reads [so passionately] || that his parents have to institute a "no reading policy" [at the dinner table].
-
-That boy was Bill Gates, || and he hasn't stopped reading [yet] -- not even after becoming one (of the most successful people) [on the planet]. 
-[Nowadays], his reading material has changed [from science fiction and reference books]: 
-[recently], he revealed | that he reads [at least] 50 nonfiction books [a year]. 
-Gates chooses nonfiction titles || because they explain | how the world works. 
-"Each book opens up new avenues (of knowledge)," Gates says.
-(hasn't = has not)
-
-Section Ⅳ Writing
-Part A 
-47. Directions: Suppose you have to cancel your travel plan and will not be able to visit Professor Smith. Write him an email [to 1]) apologize and explain the situation, || and 2) suggest a future meeting. 
-You should write about 100 words [on the ANSWER | SHEET]. Do not use your own name. Use "Li Ming" [instead]. Do not write your address. (10 points)
-
-Part B 
-48. Directions: Write an essay (based on the chart (below)). In your writing, you should 1) interpret the chart, || and 2) give your comments. You should write about 150 words [on the ANSWER | SHEET]. (15 points)
-
-
-
-
-2019
-Section I Use of English 
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-
-Weighing yourself [regularly] is a wonderful way to stay aware of any significant weight fluctuations. 
-1,when done [too often],this habit can sometimes hurt more [than it]2.
-
-[As for me], weighing myself [every day] caused me to shift my focus [from being [generally] healthy and physically active [to focusing 3 on the scale]]. That was bad [to my overall fitness goals]. 
-I had gained weight [in the form (of muscle mass)], || but [thinking [only] of 4 the number [on the scale]], 
-I altered my training program. 
-That conflicted with | how I needed to train [[to 5]] my goals.
-
-I also found | that weighing myself [daily] did not provide an accurate 6 (of the hard work and progress (I was making [in the gym])). 
-It takes about three weeks to a month to notice any significant changes (in your weight 7) altering your training program. 
-The most 8 (changes will be observed [in]) skill level, strength and inches lost.
-
-[For these 9], I stopped weighing myself [every day] and switched to a bimonthly weighing schedule 10. 
-Since weight loss is not my goal, it is less important for me [to 11] my weight each week. 
-Weighing every other week allows me to observe || and 12 (any significant weight changes). 
-That tells me | whether I need [to 13] my training program.
-
-I use my bimonthly weigh-in 14 to get information (about my nutrition) [as well]. If my training intensity remains the same, || but I'm [constantly] 15 and dropping weight, || this is a 16 (that I need to increase my daily caloric intake).
-
-The 17 to stop weighing myself [every day] has done wonders for my overall health, fitness and well-being. 
-I'm experiencing increased zeal [for working out] || since I [no longer] carry the burden (of a 18 morning weigh-in).
-
-I've [also] experienced greater success [in achieving my specific fitness goals], 19 
-I'm training [according to those goals], not the numbers [on a scale].
-
-[Rather than 20 (over the scale)], turn your focus to {how you look}, feel, {how your clothes fit and your overall energy level}
-
-1.(A)Besides(B)[Therefore (C)] Otherwise(D) [However] 
-2.(A)helps(B)cares(C)warns(D) reduces  
-3.(A)initially(B)solely(C)occasionally(D)[formally] 
-4.(A) recording (B) lowering (C) explaining (D) accepting 
-5.(A)modify(B) set (C) review (D) reach 
-6.(A) definition (B) depiction (C) distribution (D) prediction 
-7.(A)due to(B)regardless of(C)aside from(D)along with 
-8.(A) orderly (B) rigid (C) precise (D) immediate 
-9.(A) claims (B) judgments (C) reasons (D) methods 
-10.( A) instead (B) though (C) again (D) indeed
-11.(A)report(B)track(C)overlook(D) conceal 
-12.(A)depend [on](B) approve of (C) hold onto (D) account for 
-13.(A)prepare(B)share(C)adjust(D) confirm   
-14.(A) results (B) features (C) rules (D) tests  
-15.(A)bored(B)anxious(C)hungry(D) sick  
-16.(A)principle(B)secret(C)belief (D) sign  
-17.(A) request (B) necessity (C) decision (D) wish  
-18.(A)disappointing (B) surprising (C) restricting (D) consuming 
-19.(A)if(B)because(C)unless (D) until  
-20.(A) obsessing (B) dominating (C) puzzling (D) triumphing
-
-Section Ⅱ Reading Comprehension
-Part A 
-Directions: Read the following four texts. Answer the questions [after each text] [by choosing A, B, C or D].Mark your answers on the ANSWER | SHEET.(40 points)
-Text 1
-[Unlike so-called basic emotions (such as sadness)], fear, and anger, | guilt emerges [a little later], [in conjunction] [with a child's growing grasp (of social and moral norms)].
-Children aren't born knowing | how to say "I'm sorry"; [rather], they learn [over time] | that such statements appease parents and friends -- and their own consciences.
-This is | why researchers generally regard so-called moral guilt, [in the right amount], to be a good thing.
-
-[In the popular imagination], [of course], guilt still gets a bad rap. It is deeply uncomfortable -- || it's the emotional equivalent (of wearing a jacket weighted with stones). 
-Yet this understanding is outdated.
-"There has been a kind (of revival) || or [a] [rethinking [about {what guilt is} and {what role guilt can serve}]], "says Amrisha Vaish, a psychology researcher (at the University of Virginia), adding | that this revival is part (of a larger recognition (that emotions aren't binary))-- feelings (that may be advantageous [in one context]) may be harmful [in another].
-Jealousy and anger, <for example>, may have evolved to alert us to important inequalities. 
-Too much happiness can be destructive.
-
-And guilt, <by prompting us to think [more deeply] about our goodness>, can encourage humans to make up for errors and fix relationships. 
-Guilt, <in other words>, can help hold a cooperative species [together]. 
-It is a kind (of social glue).
-
-[Viewed [in this light]], guilt is an opportunity. 
-Work (by Tina Malti, <a psychology professor (at the University of Toronto)>,) suggests | that guilt may compensate for an emotional deficiency. 
-[In a number of studies], Malti and others have shown | that guilt and sympathy may represent different pathways to cooperation and sharing.
-Some kids (who are low [in sympathy]) may make up for that shortfall [by experiencing more guilt, (which can rein [in their nastier impulses])]. And vice versa: 
-High sympathy can substitute for low guilt.
-
-[In a 2014 study], [for example], Malti looked at 244 children. 
-[Using caregiver assessments and the children's self-observations], she rated each child's overall sympathy level and his or her tendency to feel negative emotions [after moral transgressions].
-[Then] the kids were handed chocolate coins, and given a chance to share them with an anonymous child.
-[For the low-sympathy kids], how much they shared | appeared to turn on | how inclined they were to feel guilty.
-The guilt-prone ones shared more, || even though they hadn't [magically] become more sympathetic to the other child's deprivation.
-
-"That's good news," Malti says. "We can be prosocial || because we caused harm || and we feel regret."
-
-21. Researchers think | that guilt can be a good thing || because it may help ____.
-A. foster a child's moral development 
-B. regulate a child's basic emotions 
-C. improve a child's intellectual ability 
-D. intensify a child's positive feelings 
-22.[According to Paragraph 2], many people still consider guilt to be ____.
-A. inexcusable 
-B. deceptive 
-C. addictive 
-D. burdensome
-23. Vaish holds | that the rethinking about guilt comes from an awareness (that ____).
-A. emotions are context-independent 
-B.an emotion can play opposing roles 
-C. emotions are [socially] constructive 
-D. emotional stability can benefit health 
-24.Malti and others have shown that cooperation and sharing ____. 
-A. may be the outcome (of impulsive acts ). 
-B may help correct emotional deficiencies 
-C. can bring about emotional satisfaction 
-D. can result from either sympathy or guilt
-25. The word" transgressions" (Para.5) is closest [in meaning to ____].
-A. teachings 
-B. wrongdoings 
-C. discussions 
-D. restrictions
-
-Text 2
-Forests give us shade, quiet and one (of the harder challenges) [in the fight (against climate change)]. 
-Even as we humans count on forests to soak up a good share (of the carbon dioxide (we produce)), || we are threatening their ability to do [so]. 
-The climate change (we are hastening) could [one day] leave us [with forests (that emit more carbon || than they absorb)].
-
-[Thankfully], there is a way [out of this trap] -- || but it involves striking a subtle balance. 
-Helping forests flourish [as valuable "carbon sinks"] [long into the future]may require reducing their capacity to absorb carbon [now]. 
-California is leading the way, || as it does [on so many climate efforts], [in figuring out the details].
-
-The state's proposed Forest Carbon Plan aims to double efforts to thin out young trees and clear brush [in parts (of the forest.)], || This temporarily lowers carbon-carrying capacity. 
-But the remaining trees draw a greater share (of the available moisture), || so they grow and thrive, restoring the forest's capacity to pull carbon [from the air].
-Healthy trees are [also] better able to fend off insects. The landscape is rendered less easily burnable.
-[Even in the event (of a fire)], fewer trees are consumed.
-
-The need (for such planning) is increasingly urgent. [Already], [since 2010], drought and insects have killed [more than] 100 million trees [in California], most of them in 2016 [alone], || and wildfires have burned hundreds of thousands of acres.
-
-California's plans [[to treat]] 35,000 acres (of forest) [a year] [by 2020, and 60,000] [by 2030]—financed [from the] proceeds of the state's emissions-permit auctions. 
-That's [only] a small share (of the total acreage (that could benefit)), about half a million acres (in all), || so it will be vital to prioritize areas [at greatest risk (of fire or drought)].
-
-The strategy also aims to ensure | that carbon (in woody material removed [from the forests]) is locked away [in the form (of solid lumber burned [as biofuel] [in vehicles (that would [otherwise] run on fossil fuels)])].
-New research (on transportation biofuels) is [already] under way.
-
-State governments are well accustomed to managing forests, || but [traditionally] they've focused on wildlife, watersheds and opportunities (for recreation). 
-[Only] [recently] have they come to see | the vital part forests will have to play [in storing carbon]. 
-California's plan, (which is expected to be finalized [by the governor] [next year]), should serve as a model.
-
-26. By saying "one (of the harder challenges)," the author implies that____.
-A. global climate change may get out of control 
-B. forests may become a potential threat 
-C. people may misunderstand global warming 
-D. extreme weather conditions may arise
-27. [To maintain forests] as valuable "carbon sinks," || we may need to____.
-A. preserve the diversity (of species) [in them] 
-B. lower their present carbon-absorbing capacity 
-C. accelerate the growth (of young trees ). 
-D strike a balance [among different plants]
-28. California's Forest Carbon Plan endeavors to____.
-A. restore its forests [quickly] [after wildfires]. 
-B. cultivate more drought-resistant trees 
-C. find more effective ways to kill insects 
-D. reduce the density (of some (of its forest))
-29. What is essential to California's plan [according to Paragraph 5]?
-A. To obtain enough financial support. 
-B. To carry it out [before the year (of 2020)]. 
-C. To handle the areas [in serious danger] [first] .
-D. To perfect the emissions-permit auctions.
-30. The author's attitude (to California's plan) can best be described as____.
-A. supportive 
-B. ambiguous 
-C. tolerant 
-D. cautious
-
-Text 3
-American farmers have been complaining of labor shortages [for several years]. 
-The complaints are unlikely to stop [without an overhaul (of immigration rules)] [for farm workers].
-
-Congress has obstructed efforts to create a more straightforward visa [for agricultural workers (that would let foreign workers stay [longer] in the U.S. and change jobs [within the industry])]. If this doesn't change, || American businesses, communities, and consumers will be the losers.
-
-[Perhaps] half (of U.S. farm laborers) are undocumented immigrants. 
-As fewer such workers enter the country, || the characteristics (of the agricultural workforce) are changing. 
-Today's farm laborers, while still predominantly born [in Mexico], are more likely to be settled [rather than migrating] and more likely to be married [than single].
-
-They're [also] aging. [At the start (of this century)], about one-third (of crop workers) were over the age (of 35). [Now], more than half are. And picking crops is hard [on older bodies]. 
-One oft-debated cure (for this labor shortage) remains as implausible as it's been all (along): 
-Native U.S. workers won't be returning to the farm.
-
-Mechanization isn't the answer, [either]-- not yet, at least. Production (of corn), cotton, rice, soybeans, and wheat have been [largely] mechanized, but many high-value, labor-intensive crops, <such as strawberries>, need labor. 
-[Even] dairy farms, (where robots do a small share (of milking)), have a long way to go || before they're automated.
-
-[As a result], farms have grown increasingly reliant on temporary guest workers using the H-2A visa to fill the gaps [in the workforce].[Starting around 2012], requests (for the visas) rose [sharply]; [from 2011 to 2016] the number (of visas issued) [more than] doubled.
-
-The H-2A visa has no numerical cap, [unlike the H-2B visa] [for nonagricultural work, (which is limited to 66,000 (a year))]. 
-[Even so], employers complain | they aren't given all the workers (they need).
-The process is cumbersome, expensive and unreliable.
-One survey found that bureaucratic delays led the average H-2A workers to arrive on the job 22 days late.
-The shortage is compounded [by federal immigration raids, (which remove some workers and drive others [underground])].
-
-[In a 2012 survey], 71 percent (of tree-fruit growers) and almost 80 percent (of raisin and berry growers) said | they were short of labor. 
-Some western farmers have responded [by moving operations] [to Mexico]. [From 1998 to 2000], 14.5 percent (of the fruit (Americans consumed)) was imported. 
-[[Little more than] a decade later], the share (of imports) was 25.8 percent.
-
-[In effect], the U.S. can import food || or it can import the workers (who pick it).
-
-31. What problem should be addressed [according to the first two paragraphs]? 
-A. Decline (of job opportunities (in U.S. agriculture)). 
-B. Discrimination (against foreign workers (in the U.S.)) 
-C. Biased laws [in favor (of some American businesses)]. 
-D. Flaws (in U.S. immigration) rules [for farm workers].
-32. One trouble [with U.S. agricultural workforce is____]. 
-A. the aging (of immigrant) farm workers 
-B .the rising number of illegal immigrants 
-C. the high mobility (of crop workers ). 
-D the lack (of experienced laborers)
-33. What is the much-argued solution (to the labor shortage) [in U.S. farming]? 
-A. To strengthen financial support [for farmers ]. 
-B To attract younger laborers [to farm work]. 
-C. To get native U.S. workers back [to farming]. 
-D. To use more robots to grow high-value crops.
-34. Agricultural employers complain about the H-2A visa [for its____].  
-A. control (of annual admissions ). 
-B. slow granting procedures  
-C. limit on duration (of stay ).  
-D. tightened requirements 
-35.Which of the following could be the best title [for this text]? 
-A. Manpower vs. Automation? 
-B. U.S.. Agriculture (in Decline)? 
-C. Import Food or Labor? 
-D .America Saved [by Mexico]?
-
-Text 4
-Arnold Schwarzenegger, Dia Mirza and Adrian Grenier have a message [for you]: It's easy to beat plastic. They're part (of a bunch (of celebrities starring in a new video [for World Environment Day])) -- encouraging you, <the consumer>, to swap out your single-use plastic staples to combat the plastics crisis.
-
-The key messages (that have been put [together] [for World Environment Day]) do include a call for governments to enact legislation to curb single-use plastics. 
-But the overarching message is directed at individuals.
-
-My concern (with leaving it [up to the individual], <however>,) is our limited sense (of {what needs to be achieved}).[On their own], taking our own bags to the grocery store or quitting plastic straws,<for example>, will accomplish [little] and require very little (of us).
-They could even be harmful, <satisfying a need to have "done our bit" [without ever progressing onto bigger, bolder, more effective actions]> -- | a kind (of "moral licensing" that) eases our concerns and stops us doing more and asking more (of those (in charge)).
-
-While the conversation (around our environment) and our responsibility (toward it) remains centered [on shopping bags and straws], || we're ignoring the balance of power (that implies | that [as "consumers"] we must shop sustainably, rather than [as "citizens"] hold our governments and industries to account to push for real systemic change).
-(we're = we are)* while 为连词，引导状语从句。
-
-It's important to acknowledge | that the environment isn't everyone's priority -- || or even most people's. We shouldn't expect it to be. [In her latest book, <Why Good People Do Bad Environmental Things|>], 
-Elizabeth R. DeSombre argues | that the best way to collectively change the behavior (of large numbers (of people)) is for the change to be structural.
-
-This might mean implementing policy (such as a plastic tax (that adds a cost to environmentally problematic action)), or banning single-use plastics [altogether]. 
-
-India has [just] announced | it will "eliminate all single-use plastic [in the country] [by 2022]." 
-There are [also] incentive-based ways (of making better environmental choices easier), such as ensuring | recycling is [at least] as easy [as trash disposal].
-
-DeSombre isn't saying | people should stop caring about the environment. It's just that individual | actions are too slow, || she says, for that to be the only, or even primary, approach (to changing widespread behavior).
-
-None (of this) is about writing [off the individual]. It's [just about] putting things into perspective. 
-We don't have time to wait. We need progressive policies (that shape collective action), [alongside engaged citizens pushing for change].
-
-36. Some celebrities star in a new video to_______.
-A. disclose the causes (of the plastics crisis ). 
-B. demand new laws [on the use (of plastics )]. 
-C. urge consumers to cut the use (of plastics ). 
-D. invite public opinion [on the plastics crisis]
-37. The author is concerned that "moral licensing" may _______. 
-A. suppress our desire [for success ]. 
-B. mislead us into doing worthless things  
-C. prevent us from making further efforts  
-D. weaken our sense (of accomplishment)
-38. By pointing out our identity [as "citizens]," the author indicates that ______. 
-A. We should press our government to lead the combat 
-B. We have been [actively] exercising our civil rights 
-C. our relationship (with local industries) is improving 
-D. our focus should be shifted to community welfare
-39. DeSombre argues | that the best way (for a collective change) should be ______. 
-A. a top-down process 
-B. a win-win arrangement 
-C. a self-driven mechanism 
-D. a cost-effective approach 
-40.The author concludes that individual efforts ______. 
-A. can be too aggressive 
-B. can be too inconsistent 
-C. are far from rational  
-D. are far [from sufficient]
-
-Part B 
-Directions: Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each (of the numbered paragraphs)]] (41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-How seriously should parents take kid's opinions || when searching for a home?
-
-[In choosing a new home], Camille McClain's kids have a single demand: a backyard.
-
-McClain's little ones aren't the only kids (who have an opinion) || when it comes to housing, || and [in many cases] youngsters' views weigh [heavily] on parents' real estate decisions, [according to a 2018 Harris Poll survey (of [more than] 2,000 U.S. adults)].
-(aren't = are not)
-
-While more families buck an older-generation proclivity to leave || kids (in the dark (about real estate decisions)),realty agents and psychologists have mixed views [about the financial], personal and long-term | effects kids' opinions may have.
-
-The idea (of involving children (in a big decision)) is a great idea || because it can help them feel a sense (of control and ownership) [in {what can be an overwhelming process}], || said Ryan Hooper, a clinical psychologist (in Chicago).
-
-"Children may face serious difficulties [in coping with significant moves], || [especially] if it removes them [from their current school or support system]," he said.
-
-Greg Jaroszewski, <a real estate brokerwith Gagliardo Realty Associates>, said | he's not convinced | that kids should be involved in selecting a home -- || but their opinions should be considered [in regards] [to proximity] [to friends and social activities], || if possible.
-
-Younger children should feel | like they're choosing their home -- [without actually getting a choice [in the matter]], || said Adam Bailey, a real estate attorney (based in New York).
-
-Asking them questions (about {what they like}) [about the backyard (of a potential home)] will make them feel | like they're being included [in the decision-making process], || Bailey said.
-they're = they are
-
-Many (of the aspects (of homebuying)) aren't a consideration [for children], || said Tracey Hampson, a real estate agent (based in Santa Clarita), Calif. 
-And placing too much emphasis on their opinions can ruin a fantastic home purchase. 
-aren't = are not, 
-
-"Speaking with your children [before you make a real estate decision] is wise, but I wouldn't base the purchasing decision[solely] on their opinions." Hampson said.
-wouldn't = would not
-
-The other issue is | that many children -- <especially older ones> -- may base their real estate knowledge on HGTV shows, || said Aaron Norris (of The Norris Group (in Riverside), Calif). 
-
-"They love Chip and Joanna Gaines [just as much] [as the rest (of us)],"hesaid."HGTV has [seriously] changed | how people view real estate. It's not shelter, || it's a lifestyle.  
-[With that mindset change] come some serious money consequences.
-
-Kids tend to get stuck in the features and the immediate benefits [to them] [personally], || Norris said.
-
-Parents need to remind their children | that their needs and desires may change [over time], || said Julie Gurner, a real estate analyst (with Fit Small Business com.).
-
-"Their opinions can change [tomorrow]." Gurner said. "Harsh as it may be to say, || that decision should likely not be made contingent on a child's opinions, but rather made [for them] [with great consideration] [into {what home can meet their needs [best]}]--- and give them an opportunity [to customize it] a bit and make it their own.
-
-This advice is more relevant [now] || than ever before, || even as more parents want to embrace the ideas (of their children), || despite the current housing crunch.
-
-41. Ryan Hooper
-42. Adam Bailey
-43. Tracey Hampson
-44. Aaron Norris 
-45. Julie Gurner 
-A. remarks (that significant) moves may pose challenges to children. 
-B. says (that it is wise to leave) kids [in the dark] [about real estate decisions]. 
-C. advises (that home purchases) should not be based only on children's opinions. 
-D. thinks (that children should) be given a sense (of involvement) [in homebuying decisions].
-E. notes (that aspects (like children's friends and social activities) should) be considered [upon homebuying]. 
-F. believes (that homebuying decisions should) be based on children's needs [rather than their opinions]. 
-G. assumes (that many children's views (on real estate) are influenced by [the media]).
-
-Section Ⅲ Translation
-46. Directions: 
-Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-
-It is easy to underestimate English writer James Heriot.   
-He had such a pleasant, readable style || that one might think | that anyone could imitate it.
-How many times have I heard people say," I could write a book.I just haven't the time."
-haven't = have not
-
-Easily said. Not so easily done. James Herriot, contrary to popular opinion, did not find it easy [in his early days] of, as he put it, || "having a go [at the writing game]". 
-While he obviously had an abundance of natural talent, || the final, polished work (that he gave to the world) was the result (of years (of practising, re-writing and reading)).
-[Like the majority (of authors)], he had to suffer many disappointments and rejections [along the way], || but these made him all the more determined to succeed.
-Everything (he achieved [in life]) was earned the hard way || and his success (in the literary field) was no exception.
-
-Section Ⅳ Writing
-Part A 
-47.Directions: 
-Suppose Professor Smith asked you to plan a debate [on the theme (of city traffic)]. Write him an email [to 1]) suggest a specific topic [with your reasons], || and 2) tell him about your arrangements. You should write about 100 words [on the ANSWER | SHEET]. Do not use your own name. Use "Li Ming" [instead].(10 points)
-
-Part B 
-48.Directions: 
-Write an essay (based on the chart (below)). In your writing, you should 1) interpret the chart, || and 2) give your comments.You should write about 150 words [on the ANSWER | SHEET].(15 points)
-
-
-
-2020
-2020
-Section I Use of English 
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-
-Being a good parent is | what every parent would like to be. 
-But [defining {what it means} to be | a good parent is [undoubtedly] very 1], [particularly] since children respond [differently] to the same style (of parenting). 
-A calm, rule-following child might respond [better] to a different sort (of parenting) [than], 2, a younger one.
-
-3,there's another sort (of parent (that's easier [to 4])); a parent. 
-Children (of every age) benefit from patient parenting.
-Still,5,every parent would like to be patient, || this is no easy | 6, <sometimes>, parents get exhausted and arc unable to maintain a 7 style with their kids. 
-I understand this.
-
-You're [only] human, and [sometimes] your kids can 8 you just [a little] too far. 
-And [then] the 9 happens: You lose your patience and either scream [at your kids] or say something (that was [too] 10 and does nobody any good).
-You wish | that you could 11 the clock and start over. We've all been there.
-
-12, even though it's common, it's vital to keep [in mind] | that in a single moment (of fatigue), you can say something to your child (that you) may 13 for a long time. 
-This may not only do damage (to your relationship) [with your child] but also [14 your child's self-esteem].
-
-If you consistently lose your 15 [with your kids], || [then] you are modeling a lack (of emotional control) [for your kids]. 
-We are all becoming increasingly aware of the 16 (of modeling patience [for the younger generation]).
-This is a skill (that will help them all [throughout life]). [In fact], the ability to maintain emotional control (when 17 (by stress) is one (of the most significant (of all life's skills))).
-
-[Certainly], it's 18 to maintain patience at all times [with your kids]. 
-A more practical goal is to try to be as calm as you can || when faced with 19 situations involving your children.
-I can promise you this: [As a result (of working toward this goal)], you and your children will benefit || and 20 (from stressful moments feeling) better [physically] and emotionally.
-
-l.(A) pleasant (B) tricky (C) tedious(D) instructive 
-2. (A) at once (B) in addition (C) for example (D) by accident 
-3. (A) Fortunately (B) Occasionally (C) Accordingly (D) Eventually 
-4. (A) amuse (B) train (C) assist (D) describe 
-5. (A) once (B) because (C) unless (D) while 
-6. (A) choice (B) answer (C) task (D) access
-7. (A) formal (B) tolerant (C) rigid (D) critical 
-8. (A) move (B) send (C) drag (D) push 
-9.(A) inevitable (B) illogical(C) mysterious (D) suspicious 
-10.(A) boring (B) harsh (C) naïve (D) vague
-11.(A)turn back (B) take apart (C) set aside (D) cover [up] 
-12.(A)Overall(B)[Instead (C)] otherwise (D) However 
-13.(A) believe (B) regret (C) miss (D) like 
-14. (A) justify (B) raise (C) affect (D) reflect 
-15.(A) bond (B) time (C) race (D) cool 
-16. (A) nature (B) secret (C) context (D) importance 
-17. (A) confronted (B) defeated (C) cheated (D) confused 
-18. (A) strange (B) terrible (C) hard (D) wrong 
-19.(A) exciting (B) trying (C) Surprising (D) changing 
-20. (A) withdraw (B) hide (C) emerge (D) escape
-
-Section Ⅱ Reading Comprehension
-Part A. 
-Directions: Read the following four texts. Answer the questions [below each text] [by choosing A, B, C or D]. Mark your answers on the ANSWER | SHEET.(40 points)
-
-Text 1
-Rats and other animals need to be [highly] at tuned to social signals from others so that can identify friends to cooperate with || and enemies to avoid.
-To find out | if this extends to non-living beings, Loleh Quinn (at the University of California , San Diego), and her colleagues tested || whether rats can detect social signals [from robotic rats].
-
-They housed eight adult rats [with two types (of robotic rat-one) social] || and one asocial -for 5 (our days). 
-The robots rats were quite minimalist, resembling a chunkier version (of a computer mouse) [with wheels-to move around] || and colorful markings.
-
-[During the experiment], the social robot rat followed the living rats around, played with the same toys, and opened caged doors to let trapped rats escape. Meanwhile, the asocial robot simply moved forwards and backwards and side (to side).
-
-[Next], the researchers trapped the robots in cages and gave the rats the opportunity to release them [by pressing a lever]. 
-[Across 18 trials each], the living rats were 52 percent more [likely] [on average] to set the social robot free [than the asocial one]. 
-This suggests | that the rats perceived the social robot [as a genuine social being].
-They may have bonded more [with the social robot] || because it displayed behaviors (like communal exploring and playing). This could lead to the rats better remembering having freed it [earlier], and wanting the robot to return the favour [when they get trapped], || says Quinn.
-
-The readiness (of the rats to befriend the social robot) was surprising [given its minimal design]. 
-The robot was the same size (as a regular rat) but resembled a simple plastic box [on wheels].
-"We'd assumed | we'd have to give its moving head and tail, <facial features>, and put a scene on it to make it smell [like a real rat], || but that wasn't necessary," says Janet Wiles [at the University of Queensland] [in Australia, (who helped with the research)].
-
-The finding shows | how sensitive rats arc [to social cues], || [even] when they come from basic robots. Similarly, children tend to treat robots as if they are fellow beings, [even] when they display [only] simple social signals. "We humans seem to be fascinated [by robots], and it turns out other animals are [too]," says Wiles.
-
-21.Quinn and her colleagues conducted a test to see | if rats can. 
-(A) pickup social signals (from non-living) rats 
-(B) distinguish a friendly rat from a hostile one 
-(C) attain sociable traits [through special training] 
-(D) send out warning messages [to their fellow]
-22.What did the social robot do [during the experiment]?
-(A)It followed the social robot.
-(B)It played with some toys.
-(C)It set the trapped rats free.
-(D)It moved around [alone].
-23.According[to Quinn], the rats released the social robot || because they
-(A)tried to practice a means (of escape) 
-(B)expected it to do the same [in return]
-(C)wanted to display their intelligence 
-(D)considered that an interesting game
-24.James Wiles notes that rats. 
-(A)can remember other rat's facial features
-(B)differentiate smells [better] [than sizes]
-(C)respond [more] to cations || than to looks
-(D)can be scared [by a plastic box] [on wheels]
-25.It can be learned from the text (that rats).
-(A)appear to be adaptable [to new surroundings] 
-(B)arc (more socially active than other animals)
-(C)behave [differently] [from children] [in socializing] 
-(D)are more sensitive to social cues || than expected
-
-Text 2
-It is true | that CEO pay has gone up-top ones may make 300 times the pay (of typical workers) [on average], || and [since the mid-1970s] CEO pay (for large publicly traded American corporations) has, <by varying estimates>, gone up [by about 500%]. 
-The typical CEO (of a top American corporation) now makes about S18.9 million a year.
-
-The best model (for understanding the growth (of CEO pay)) is | that [of limited CEO] talent (in a world (where business opportunities (for the top) firms)) are growing [rapidly].
-The efforts (of America's highest-earning 1%) have been one (of the more dynamic elements (of the global economy)). 
-It's not popular to say, || but one reason (their pay has gone up [so much]) is | that CEOs really have upped their game (relative to many other workers) [in the U.S. economy].
-
-Today's CEO, <at least (for major American firms)>, must have many mere skills [than simply being able to "run the company"], || CEOs must have a good sense (of financial markets) and [maybe] even | how the company should trade in them. 
-They also need better public relations skills [than their predecessors], as the costs (of even a minor) slip up can be significant.
-
-[Then] there's the fact (that large American companies are much more globalized || than ever before, [with supply chains spread [across a larger number of countries]]).
-To lead [in that system] requires | knowledge (that is fairly mind-boggling plus, virtually all major | American companies are beyond this major CEOs) still have to do all the day-to-day work (they have [always] done).
-
-26. Which of the following has contributed to CEO pay rise?
-(A)The growth (in the number (of corporations)) 
-(B)The general pay rise [with a better economy]
-(C)Increased business opportunities (for top firms) 
-(D)Close cooperation [among leading economies]
-27.Compared (with their predecessors),today's CEOs are required to.
-(A)foster a stronger sense (of teamwork) 
-(B)finance more research and development
-(C)establish closer ties [with tech companies] 
-(D)operate more globalized companies
-28.CEO pay has been rising [since the 1970s] [despite].
-(A)continual internal opposition 
-(B)strict corporate governance
-(C)conservative business strategies 
-(D)Repeated government warnings
-29.High CEO pay can be justified [by the fact (that it helps)]
-(A)confirm the status (of CEOs) 
-(B)motivate inside candidates
-(C)boost the efficiency (of CEOs) 
-(D)increase corporate value
-30.The most suitable title (for this text) would be.
-(A)CEOs Are Not Overpaid 
-(B)CEO Pay: Past and Present
-(C)CEOs' challenges (of Today) 
-(D)CEO Traits: Not Easy to Define
-
-Text 3
-Madrid was hailed [as a public health beacon] [last November] || when it rolled out ambitious restrictions [on the most polluting cars]. 
-[Seven months and one election day later], a new conservative city council suspended enforcement (of the clean air zone), a first step (toward its possible demise).
-
-Mayor Jose Luis Martinez-Almeida made opposition [to the zone (a centerpiece (of his election) campaign)], [despite its success] [in improving air quality]. 
-A judge has [now] overruled the city's decision to stop levying fines, ordering them reinstated. 
-But [with legal battles ahead], the zone's future looks uncertain [at best].
-
-[Among other weaknesses], the measures (cities must employ || when left to tackle dirty air [on their own]) are [politically] contentious, and [therefore] vulnerable. 
-That's | because they inevitably put the costs (of cleaning (the air (on to individual drivers-who) must pay fees)) or buy better vehicles-rather- || than on to the car manufacturers (whose cheating is the real cause (of our toxic pollution)).
-
-It's not hard to imagine a similar reversal happening [in London]. 
-The new ultra-low emission zone (Ulez) is likely to be a big issue [in next year's mayoral election]. 
-And if Sadiq Khan wins and extends it to the North and South Circular roads [in 2021] || as he intends, || it is sure to spark intense opposition [from the far larger number (of motorists) (who will)] then be affected.
-
-It's not | that measures (such as London's Ulez) are useless. 
-[Far from it] Local officials are using the levers (that are available [to them] to safeguard residents' health [in the face (of a serious threat)]). 
-The zones do deliver some improvements to air quality, || and the science tells us | that means real health benefits -fewer heart attacks, strokes and premature births, less cancer, dementia and asthma. Fewer untimely deaths.
-
-But mayors and councilors can only do so much [about a problem (that is far bigger [than any one city or town])]. They are acting || because national governments-Britain and others (across Europe-have) failed to do [so].
-
-Restrictions (that keep [highly] polluting cars out of certain areas -city) centres ,"school streets", [even] individual roads-are a response (to the absence (of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles [into compliance])).
-Wales has introduced special low speed limits to minimize pollution. 
-We're doing everything but insist | that manufacturers clean up their cars.
-
-31. Which of the following is true [about Madrid's clean air zone]? 
-(A)Its effects are questionable 
-(B)It has been opposed [by a judge] 
-(C)It needs tougher enforcement 
-(D)Its fate is yet to be decided
-32. Which is considered a weakness (of the city-level) | measures to tackle dirty air?
-(A)They are biased against car manufacturers. 
-(B)They prove impractical [for city councils].
-(C)They are deemed too mild [for politicians]. 
-(D)They put too much burden on individual motorists.
-33. The author believes | that the extension (of London's Ulez will___). 
-(A)arouse strong resistance. 
-(B)ensure Khan's electoral success.
-(C)improve the city's traffic. 
-(D)discourage car manufacturing.
-34. Who <does the author think> should have addressed the problem?
-(A)Local residents
-(B)Mayors.
-(C)Councilors.
-(D)National governments.
-35. It can be inferred from the last paragraph | that auto companies .
-(A) will raise low-emission car production 
-(B)should be forced to follow regulations
-(C)will upgrade the design (of their vehicles) 
-(D)should be put [under public supervision]
-
-Text 4
-Now that members (of Generation Z arc graduating college (this spring-the most commonly-accepted definition says this generation))was born [after 1995],give or take a year-the attention has been rising [steadily] in recent weeks. 
-GenZs are [about to hit the streets] looking for work [in a labor market (that's tighter || than it's been [in decades])].
-And employers are planning on hiring about 17 percent more new graduates [for jobs] [in the U S].this year than last, [according to a survey conducted [by the National Association (of Colleges) and Employers]]. 
-Everybody wants to know | how the people (who will [soon] inhabit those empty office cubicles) will differ from those (who came before them).
-
-If "entitled" is the most common adjective, fairly or not, applied [to millennials (those born [between 1981 and 1995])], || the catchwords (for Generation Z) are practical and cautious. 
-[According to the career counselors and experts (who study them, <Generation Zs arc cl ear-eyed>, economic)] pragmatists.
-[Despite graduating into the best economy [in the past 50 years]], 
-Gen Zs know | what an economic train wreck looks like. 
-They were impressionable kids [during the crash (of 2008)], || when many (of their parents) lost their jobs or their life savings or both.
-They aren't interested in taking any chances. 
-The booming economy seems to have done little to assuage this underlying generational sense (of anxious urgency), [especially for those (who have college debt)]. 
-College loan balances (in the U.S.) now stand at a record SI.5 trillion, [according to the Federal Reserve].
-
-One survey (from Accenture) found | that 88 percent (of graduating seniors) [this year] chose their major [with a job] [in mind]. 
-[In a 2019 survey (of University of Georgia students)], [meanwhile], the career office found | the most desirable trait (in a future employer) was the ability to offer secure employment (followed [by professional development and training, and [then] inspiring purpose]).
-Job security or stability was the second most important career goal (work-life balance was number one), followed [by a sense (of being dedicated to a cause)] || or to feel good [about serving the greater good].
-
-36. Generation Zs graduating college [this spring].
-(A)are recognized [for their abilities] 
-(B)are in favor (of job offers)
-(C)are optimistic about the labor market 
-(D)are drawing growing public attention
-37. Generation Zs are [keenly] aware.
-(A)what a tough economic situation is like 
-(B)what their parents expect of them|
-(C)how they differ from past generations| 
-(D)how valuable a counselor's advice is
-38. The word" assuage" (line 9, para 2) is closet [in meaning to].
-(A)define
-(B)relieve
-(C)maintain
-(D)deepen
-39. It can be learned from Paragraph 3 | that Generation Zs.
-(A)care [little] about their job performance 
-(B)give top priority to professional training
-(C)think it hard to achieve work-Life balance 
-(D)have a clear idea (about their future job).
-
-Part B
-Directions: 
-Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each numbered paragraphs]](41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-(A)Give compliments, [just not too many].
-(B)Put on a good face, [always].
-(C)Tailor your interactions.
-(D)Spend time [with everyone].
-(E)Reveal, don 't hide, information.
-(F)Slow down and listen.
-(G)Put yourselves in others' shoes.
-
-Five Ways to Win [Over Everyone] [in the Office]
-
-Is it possible to like everyone [in your office]? 
-Think about | how tough it is to get [together] 15 people, much less 50, (who all get along [perfectly]). 
-But [unlike in friendships], you need coworkers. 
-You work [with them] [every day] || and you depend on them || just as they depend on you.
-[Here] are some ways (that you can get the whole office [on your side])
-41.____
-If you have a bone to pick [with someone] [in your workplace], || you may try stay (tight-lipped) [around them]. 
-But you won't be helping either one (of you).
-A Harvard Business School study found | that observers consistently rated those (who were frank about themselves [more highly]), || while those (who hid) lost trustworthiness. helesson is not | that you should make your personal life an open book, || but rather, <when given the option to offer [up details] [about yourself] or painstakingly conceal them>, you should just be honest.
-42._____
-[Just as important] as being honest about yourself is being receptive to others. 
-We often feel the need to tell others | how we feel, || whether it's a concern (about a project, a stray thought, or a compliment). 
-Those are all valid, || but you need to take time to hear out your coworkers, [too].
-[In fact], rushing to get your own ideas [out there] can cause colleagues to feel | you don't value their opinions. Do your best to engage coworkers in a genuine, back- and-forth conversation, [rather than prioritizing your own thoughts].
-43._____
-It's common to have a"cubicle mate "or special confidant [in a work setting]. 
-But [in addition (to those trusted coworkers)], you should expand your horizons and find out about all the people (around you). 
-Use your lunch and coffee breaks to meet up with colleagues (you don't [always] see).
-Find out about their lives and interests [beyond the job]. It requires minimal effort and goes a long way. 
-This will help to grow your internal network, [in addition] [to being a nice break [in the work day]].
-44._____
-Positive feedback is important for anyone to hear. 
-And you don't have to be someone's boss to tell them | they did an exceptional job [on a particular project].
-This will help engender good will [in others].But don't overdo it or be fake [about it].
-One study found | that people responded [best] to comments (that shifted [from negative to positive]),[possibly] because it suggested | they had won somebody over.
-45._____
-This one may be [a bit] more difficult to pull off, || but it can go a long way (to achieving results). 
-Remember [[in dealing with any coworker]] | what they appreciate [from an interaction]. 
-Watch out for | how they verbalize [with others].
-Some people like small talk [in a meeting] [before digging into important matters], || while other are more straightforward. Jokes (that work one person won't [necessarily] land with another,) 
-So, adapt your style [accordingly] to type. 
-Consider the person (that you're dealing with [in advance]) and | what will get you [to your desired outcome].
-
-Directions: Translate the following text from English [into Chinese]. Write your translation [on ANSWER | SHEET].(15 points)
-46.
-It's [almost] impossible to go through life [without experiencing some kind (of failure)]. 
-But, the wonderful thing (about failure) is | that it's entirely up [to us] to decide | how to look at it.
-We can choose to see failure [as "the end (of the world)]". 
-Or, we can look at failure [as the incredible learning experience (that it often is)]. 
-Every time we fail [at something], || we can choose to look for the same lesson (we're meant to learn).
-These lessons very important; they're | how we grow, and | how we keep [from making that same mistake [again]]. Failures stop us || [only] if we let them. 
-Failure can also teach us things [about ourselves] (that we would [never] have learned [otherwise]).
-[For instance], failure can help you discover | how strong a person you are. 
-Failing [at something] can help you discover your truest friends, or help you find unexpected motivation to succeed.
-
-Writing
-47.
-Suppose you are planning a tour (of a historical site) [for a group (of international students)]. Write them am email (to 1)) tell them [about the site], || and 2) give them some tips [for the tour (You should write about 100 words [on the ANSWER | SHEET])]. Do not use your own name. Use "Li Ming" [instead].Do not write your address.(10 points)
-
-48. Write an essay (based on the following chart). In your writing, you should 1) interpret the chart, || and 2) give your comments. You should write about 150 words [on the ANSWER | SHEET].(15 points)
-
-
-
-2021
-Section I Use of English 
-Directions: Read the following text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-
-It's not difficult to set targets for staff. 
-It is much harder,1,to understand their negative consequences. 
-Most work-related behaviours have multiple components.
-2 one the others become distorted.
-
-Travel [on a London bus] || and you'll 3 see | how this works [with drivers]. 
-Watch people get on and show their tickets. Are they carefully inspected?
-Never. Do people get on [without paying]?
-Of course! Are there inspectors [to 4 (that people have paid)]? 
-Possibly, but very few. And people (who run for the bus)? 
-They are 5. How about jumping lights? Buses do so [almost as frequently] as cyclists.
-
-Why? Because the target is 6. People complained | that buses were late and infrequent.
- 7, <the number (of buses and bus lanes)> were increased, || and drivers were 8 or punished [according to the time (they took)].
- And drivers hit their targets. But they [9 hit cyclists].
-If the target was changed to 10, || you would have more inspectors and more sensitive pricing.
-If the criterion changed to safety, you would get more 11 drivers (who obeyed traffic laws). 
-But both these criteria would be at the expense (of time).
-
-There is another 12: people become immensely inventive [in hitting targets].
-Have you 13 (that you can leave [on a flight] [an hour] [late]) but still arrive [on time]? 
-Tailwinds? Of course not! Airlines have [simply] changed the time (a 14 is meant to take). 
-A one-hour flight is [now] billed [as a two-hour flight].
-
-The 15 (of the story) is simple. Most jobs are multidimensional, 
-[with multiple criteria].Choose one criterion || and you may well 16 others. 
-Everything can be done [faster] and made cheaper, || but there is a 17.
-Setting targets can and does have unforeseen negative consequences.
-
-This is not an argument [against target-setting].
-But it is an argument [for exploring consequences [first]]. 
-All good targets should have multiple criteria (18 critical factors (such as time)), 
-money, quality and customer feedback.
-The trick is not to 19 just one or even two dimensions (of the objective), || but [also] [to understand | how [to help people better 20] the objective].
-
-1. A. however B. [again] C.[moreover] D.[therefore] 
-2. A. Identify B. Assess C. Explain D. Emphasize 
-3.A.[curiously] B.[eagerly] C.[quickly] D. nearly 
-4.A.prove B. check C. recall D. claim 
-5.A. threatened B. mocked C. blamed D .ignored 
-6.A.hospitality B. competition C. innovation D. punctuality 
-7.A. So B. Besides C. Still D. Yet 
-8. A. trained B. rewarded C. grouped D. hired 
-9.A.[rather] B.[once] C.[also] D. only 
-10.A.revenue B. efficiency C. security D. comfort 
-11.A.quiet B. cautious C. diligent D. friendly 
-12.A.problem B. prejudice C. policy D. purpose 
-13.A.revealed B. admitted C. noticed D. reported 
-14.A.trip B. departure C. transfer D. break
-15. A. background B .style C. form D. moral 
-16.A. criticize B .sacrifice C. tolerate D. interpret 
-17.A.secret B. product C. cost D. task 
-18.A.calling for B. leading to C. accounting for D. relating to 
-19.A.predict B. restore C. create D. specify 
-20.A.review B. present C. achieve D. modify
-
-
-Section Ⅱ Reading Comprehension
-Part A 
-Directions: Read the following four texts.Answer the questions [after each text] [by choosing A, B, C or D].Mark your answers on the ANSWER | SHEET.(40 points)
-Text 1
-"Reskilling" is something (that sounds like a buzzword but is [actually] a requirement) || if we plan to have a future (in which a lot of would-be workers do not get [left] behind).
-We know | we are moving into a period (where the jobs (in demand) will change [rapidly]), || as will the requirements (of the jobs (that remain)).
-Research (by the World Economic Forum) finds that [on average 42 per cent (of the "core skills "(within job roles) will change [by 2022])]. 
-That is a very short timeline.
-
-The question (of {who should pay for reskilling}) is a thorny one.
-[For individual companies], the temptation is [always] to let go of workers (whose skills are [no longer] in demand and replace them with those (whose skills are)).
-That does not [always] happen.
-AT&T is [often] given [as the gold standard (of a company 
-(that decided to do a massive reskilling program rather than go [with a fire-and-hire strategy]))].
-Other companies had [also] pledged to create their own plans. 
-When the skills mismatch is in the broader economy, <though>, || the focus usually turns to government to handle.
-Efforts (in Canada and elsewhere) have been [arguably] languid [at best], and have given us a situation (where we frequently hear of employers begging for workers), [even at times] and in regions (where unemployment is high).
-
-[With the pandemic], unemployment is very high [indeed]. 
-In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates [in Canada] || and the United States were at generational lows || and worker shortages were everywhere.
-[As of May], those rates had spiked up to 13.3 per cent and 13.7 per cent, || and although many worker shortages had disappeared, || not all had done [so].
-[In the medical field], [to take an obvious example], the pandemic meant | that there were still clear shortages (of doctors, nurses and other medical personnel).
-[Of course], it is not | like you can take an unemployed waiter and train him to be a doctor [in a few weeks].
-But even if you cannot close the gap, || [maybe] you can close others, || and doing [so] would be to the benefit (of all concerned).
-That seems to be the case [in Sweden]: When forced [to furlough 90 per cent (of their cabin staff)], 
-Scandinavian Airlines decided to start [[up a short retaining program]] that reskilled (the laid-off workers to support hospital staff).
-The effort was a collective one and involved other companies as well as a Swedish university.
-
-21. Research [by the World (Economic Forum suggests)].
-(A)an increase (in full-time employment) 
-(B) an urgent demand (for new job skills) 
-(C) a steady growth (of job opportunities) 
-(D) a controversy (about the "core skills) "
-22. AT&T is cited to show.
-(A)an alternative (to the fire-and-hire strategy) 
-(B) an immediate need (for government) support
-(C) the importance (of staff appraisal standards) 
-(D) the characteristics (of reskilling programs)
-23. Efforts to resolve the skills mismatch (in Canada).
-(A)have driven [up labour costs]
-(B)have proved to be inconsistent
-(C)have met with fierce opposition
-(D) have appeared to be insufficient
-24. We can learn [from Paragraph 3] | that there was.
-(A)a call (for policy adjustment) 
-(B) a change (in hiring practices) 
-(C) a lack (of medical workers) 
-(D) a sign (of economic recovery)
-25. Scandinavian Airlines decided to.
-(A)create job vacancies || for the unemployed 
-(B) prepare their laid-off workers || for other jobs
-(C) retrain their cabin staff || for better services 
-(D) finance their staff's college education
-
-Text 2
-[With the global population predicted to hit [close to 10 billion] [by 2050, and forecasts (that agricultural production (in some regions) will need to nearly double to keep pace)]], food security is [increasingly] making headlines.
-[In the UK], it has become a big talking point [recently] [too], [for a rather particular reason]: Brexit.
-
-Brexit is seen [by some] [as an opportunity to reverse a recent trend (towards the UK)] importing food.
-The country produces [only] about 60 per cent (of the food (it eats)),down from almost three-quarters (in the late 1980s).
-A move (back to self-sufficiency, <the argument>) goes, would boost the farming industry, political sovereignty and [even] the nation's health Sounds great -- || but how feasible is this vision?
-[According to a report] [on UK food production (from the University of Leeds, <UK>],) 85 per cent (of the country's total land area) is associated with meat and dairy production.
-That supplies 80 per cent (of {what is consumed}), || so even covering the whole country in livestock farms wouldn't allow us to cover all our meat and dairy needs.
-There are many caveats [to those figures], || but they are still grave.
-[To become much more self-sufficient], the UK would need to drastically reduce its consumption (of animal foods), and [probably] also farm [more intensively] -- meaning fewer green fields, || and more factory-style production.
-
-But switching to a[mainly] plant-based diet wouldn't help.
-There is a good reason (why the UK is dominated [by animal husbandry]): most (of its terrain) doesn't have the right soil or climate to grow crops [on a commercial basis].
-Just 25 per cent (of the country's land) is suitable for crop-growing, (most of which is [already] occupied [by arable fields]).
-Even if we converted all the suitable land to fields (of fruit and veg)--which would involve taking out all the nature reserves and removing thousands of people (from their homes)--we would achieve [only] a 30 per cent boost [in crop production].
-
-Just 23 per cent (of the fruit and vegetables consumed [in the UK]) are [currently] home-grown, || so [even] [with the most extreme measures] we could meet only 30 per cent (of our fresh produce needs).
-That is | before we look for the space to grow the grains, sugars, seeds and oils (that provide us with the vast bulk (of our current calorie intake)).
-
-26. Some people argue | that food self-sufficiency (in the UK) would.
-(A)contribute to the nation's well-being
-(B)become a priority (of the government)
-(C)be hindered [by its population growth]
-(D) pose a challenge [to its farming industry]
-27. The report (by the University of Leeds) showed that [in the UK].
-(A)more green fields will be converted || for farming 
-(B) most land is used for meat || and dairy production 
-(C) farmland has been inefficiently utilized 
-(D) | factory-style production needs reforming
-28. Crop-growing in the UK is restricted [due to].
-(A)its dietary tradition 
-(B) its natural conditions 
-(C) its commercial interests 
-(D) its farming technology
-29. It can be learned from the last paragraph | that British people.
-(A)are trying to grow new varieties (of grains)
-(B)are seeking effective ways to cut calorie intake
-(C) enjoy a steady rise (in fruit consumption) 
-(D)rely [largely] on imports [for fresh produce]
-30. The author's attitude (to food self-sufficiency (in the UK)) is.
-(A)doubtful
-(B)tolerant
-(C)optimistic
-(D)defensive
-
-Text 3
-When Microsoft bought task management app Wunderlist and mobile calendar Sunrise [in 2015], || it picked two newcomers | that were attracting considerable buzz in Silicon Valley.
-Microsoft's own Office dominates the market [for "productivity" software], || but the start-ups represented a new wave (of technology designed [from the ground (up)] [for the smartphone world]).
-
-Both apps, <however>, were [later] scrapped || after Microsoft said | it had used their best features [in its own products].
-Their teams (of engineers) stayed on, making them two (of the many "acqui-hires" (that the biggest companies have used to feed their great hunger [for tech talent])).
-
-[To Microsoft's critics], the fates (of Wunderlist and Sunrise) are examples (of a remorseless drive) [by Big Tech] to chew up any innovative companies (that lie in their path).
-"They bought the seedlings and closed them down," complained Paul Arnold, <a partner (at San Francisco-based Switch)> Ventures, putting an end to businesses (that might [one day] turn into competitors).
-Microsoft declined to comment.
-
-[Like other start-up investors], 
-Mr Arnold's own business often depends on selling start-ups to larger tech companies, || though he admits to mixed feelings [about the result]: 
-"I think | these things are good for me, || if I put my selfish hat on. But are they good for the American economy? I don't know."
-
-The US Federal Trade Commission says | it wants to find the answer [to that question].[This week], it asked the five most valuable US tech companies for information (about their many small acquisitions) [over the past decade].
-Although only a research project [at this stage], the request has raised the prospect (of regulators wading into early-stage tech markets) that until [now] have been beyond their reach.
-
-[Given their combined market value (of more than $5.5 trillion)], rifling [through such small deals]--many (of them) much less prominent than Wunderlist and Sunnise--might seem beside the point.
-[Between them], the five biggest tech companies have spent an average (of only $3.4 billion) [a year] [on sub-$1 billion acquisitions] [over the past five years] -- a drop (in the ocean compared with their massive financial reserves), || and the more [than $130 billion (of venture capital)] that was invested in the US [last year].
-
-[However], critics say | the big companies use such deals to buy their most threatening potential competitors || before their businesses have a chance [to gain momentum], [in some cases] [as part (of a "buy)] and kill" tactic to simply close them down.
-
-31. What is true [about Wunderlist and Sunrise] [after their acquisitions]?
-(A)Their market values declined.
-(B)Their tech features improved.
-(C)Their engineers were retained.
-(D)Their products were re-priced.
-32. Microsoft's critics believe | that the big tech companies tend to.
-(A)ignore public opinions
-(B)treat new tech talent [unfairly]
-(C)exaggerate their product quality
-(D) eliminate their potential competitors
-33. Paul Arnold is concerned | that small acquisitions might.
-(A)harm the national economy
-(B)worsen market competition
-(C)discourage start-up investors
-(D) weaken big tech companies
-34. The US Federal Trade Commission intends to.
-(A)examine small acquisitions
-(B)limit Big Tech's expansion
-(C)supervise start-ups' operations
-(D) encourage research collaboration
-35. [For the five biggest tech companies], their small acquisitions have.
-(A)brought little financial pressure 
-(B) raised few management challenges 
-(C) set an example for future deals 
-(D) generated considerable profits
-
-Text 4
-We're fairly good at judging people (based on first impressions), thin slices (of experience ranging [from a glimpse (of a photo)] [to a five-minute interaction]), || and deliberation can be not only extraneous but intrusive.
-In one study (of the ability (she called "thin slicing))," the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips (of professors) and to rate the instructor's overall effectiveness.
-Their ratings correlated [strongly] with students' end-of-semester ratings.
-Another set (of participants) had to count backward [from 1,000] [by nines] || as they watched the clips, occupying their conscious working memory.
-Their ratings were just as accurate, demonstrating the intuitive nature (of the social processing).
-
-[Critically], another group was asked to spend a minute writing down reasons (for their judgment), [before giving the rating].
-Accuracy dropped [dramatically]. Ambady suspected | that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, [rather than letting the complex interplay (of subtle signals) form a holistic impression].
-She found | similar interference (when participants watched 15-second) clips of pairs (of people and judged)whether they were strangers, friends, or dating partners.
-
-Other research shows | we're better at detecting deception [from thin slices] || when we rely on intuition [instead of reflection].
-"It's | as if you're driving a stick shift," says Judith Hall, a psychologist (at Northeastern University)," and if you start thinking about it [too much], 
-|| you can't remember | what you're doing. But if you go on automatic pilot, 
-|| you're fine. Much (of our social life) is like that."
-
-Thinking | too much can also harm our ability to form preferences. 
-College students' ratings (of strawberry jams and college courses aligned [better] with experts' opinions (when the students weren't asked to analyze their rationale. ) )
-And people made car-buying decisions (that were both [objectively] [better] and more [personally] satisfying) || when asked to focus on their feelings rather than on details, || but [only] if the decision was complex -- || when they had a lot of information to process.
-
-Intuition's special powers are unleashed [only in certain circumstances].
-[In one study], participants completed a battery (of eight tasks), including four (that tapped reflective thinking ([discerning rules, comprehending vocabulary]) and four (that tapped intuition and creativity (generating new products or figures (of speech)))).
-[Then] they rated the degree (to which they had used intuition ( "gut feelings),""hunches,"" my heart").
-Use (of their gut) hurt their performance [on the first four tasks, (as expected, and helped them [on the rest])].[Sometimes] the heart is smarter [than the head].
-
-36. Nalini Ambady's study deals with.
-(A)instructor-student interaction
-(B)the power (of people's memory)
-(C)people's ability to influence others
-(D)the reliability (of first impressions)
-37. [In Ambady's study], rating accuracy dropped [when participants].
-(A)gave the rating in limited time 
-(B) watched shorter video clips 
-(C) focused on specific details 
-(D) discussed with one another
-38. Judith Hall mentions driving to show that.
-(A)memory may be selective 
-(B) | social skills must be cultivated 
-(C) | reflection can be distracting 
-(D) | deception is difficult to detect
-39. When you are making complex decisions, || it is advisable to.
-(A)list your preferences
-(B)follow your feelings
-(C) seek expert advice 
-(D) collect enough data
-40. What can we learn from the last paragraph?
-(A)Generating new products takes time.
-(B)Intuition may affect reflective tasks.
-(C)Vocabulary comprehension needs creativity.
-(D)Objective thinking may boost inventiveness.
-
-Part B 
-Directions: Read the following text and answer the questions [by choosing the most suitable subheading from the list A-G [for each (of the numbered paragraphs)]] (41-45). There are two extra subheadings (which you do not need to use). Mark your answers on the ANSWER | SHEET. (10 points)
-
-A. Stay calm. 
-B. Stay humble. 
-C. Don't make judgments. 
-D. Be realistic [about the risks ] 
-E. Decide | whether to wait. 
-F. Ask permission to disagree. 
-G. Identify a shared goal.
-How to Disagree with Someone (More Powerful Than You)
-Your boss proposes | a new initiative (you think) won't work. 
-Your senior colleague outlines a project timeline (you believe) is unrealistic. 
-What do you say || when you disagree with someone (who has more power || than you do)? 
-How do you decide | whether it's worth speaking up?
-And if you do, || what exactly should you say? [Here]'s how to disagree with someone (more powerful) [than you].
-41.____
-You may decide | it's best to hold off [on voicing your opinion]. 
-[Maybe] you haven't finished thinking the problem through, || or you want to get a clearer sense (of {what the group thinks}).
-If you think | other people are going to disagree, [too], || you might want to gather your army [first].
-People can contribute experience or information to your thinking -- all the things (that would make the disagreement stronger or more valid).
-It's [also] a good idea to delay the conversation || if you're in a meeting or other public space. 
-Discussing the issue [in] private will make the powerful person feel less threatened.
-42____
-Before you share your thoughts, think (about {what the powerful person cares about}) -- || it may be the credibility (of their team or getting a project done [on time]). 
-You're more likely to be heard || if you can connect your disagreement to a higher purpose.
-State it [overtly], contextualizing your statements so that you're seen [not as a disagreeable subordinate] but as a colleague (who's trying to advance a common objective). 
-The discussion will [then] become more like a chess game [than a boxing match].
-43.____
-This step may sound [overly] deferential, || but it's a smart way to give the powerful person psychological safety and control. You can say | something like," I know | we seem to be moving [toward a first-quarter commitment] [here].
-I have reasons to think | that won't work. I'd like to lay out my reasoning. Would that be OK?" 
-This gives the person a choice, allowing him to verbally opt in. 
-And, [assuming | he says yes], it will make you feel more confident [about voicing your disagreement].
-44.____
-You might feel your heart racing or your face turning red, but do {whatever you can} to remain natural [in both your words and actions]. When your body language communicates reluctance or anxiety, || it undercuts the message.
-It sends a mixed message, || and your counterpart gets to choose | what signals to read. Deep breaths can help, || as can speaking [more slowly] and deliberately. 
-When we feel panicky, || we tend to talk [louder] and faster.
-Simply slowing the pace and talking [in an even tone] helps the other person cool down and does the same for you. It also makes you seem confident, || even if you aren't.
-45.____
-Emphasize | that you're [only] offering your opinion, not gospel truth. 
-It may be a well-informed, well-researched opinion, || but it's [still] an opinion, || so talk [tentatively] and slightly understate your confidence.
-Instead of saying, "If we set an end-of-quarter deadline, || we'll [never] make it," say, "This is [just] my opinion, || but I don't see | how we will make that deadline."
-[Having asserted your position (as a position, <not as a fact>)], demonstrate equal curiosity [about other views]. Remind the person | that this is your point of view, and [then] invite critique. Be open to hearing other opinions.
-
-Section Ⅲ Translation
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
-
-We tend to think | that friends and family members are our biggest sources (of connection, laughter, and warmth). While that may well be true, || researchers have [also] [recently] found | that interacting with strangers actually brings a boost in mood and feelings (of belonging) (that we didn't expect).
-
-[In one series (of studies)], researchers instructed Chicago-area commuters using public transportation to strike up a conversation (with someone) [near them].
-[On average], participants (who followed this instruction) felt better 
-[than those (who had been told to stand or sit in silence)].
-The researchers also argued | that when we shy away from casual interactions [with strangers], || it is [often] due to a misplaced anxiety | that they might not want to talk to us.
-[Much of the time], [however], this belief is false. As it turns out, || many people are [actually] perfectly willing to talk-- || and may even be flattered to receive your attention.
-
-Section Ⅳ Writing
+Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1. (10 points)
+Research on animal intelligence always makes me wonder just how smart humans are. 1 the fruit-fly experiments described in Carl Zimmer's piece in the Science Times on Tuesday. Fruit flies who were taught to be smarter than the average fruit fly 2 to live shorter lives. This suggests that 3 bulbs burn longer, that there is an 4 in not being too terrifically bright.
+Intelligence, it 5 out, is a high-priced option. It takes more upkeep, burns more fuel and is slow 6 the starting line because it depends on learning — a gradual 7 — instead of instinct. Plenty of other species are able to learn, and one of the things they've apparently learned is when to 8.
+Is there an adaptive value to 9 intelligence? That's the question behind this new research. I like it. Instead of casting a wistful glance 10 at all the species we've left in the dust I.Q.-wise, it implicitly asks what the real 11 of our own intelligence might be. This is 12 the mind of every animal I've ever met.
+Research on animal intelligence also makes me wonder what experiments animals would 13 on humans if they had the chance. Every cat with an owner, 14, is running a small-scale study in operant conditioning. we believe that 15 animals ran the labs, they would test us to 16 the limits of our patience, our faithfulness, our memory for terrain. They would try to decide what intelligence in humans is really 17, not merely how much of it there is.   18, they would hope to study a 19 question: Are humans actually aware of the world they live in? 20 the results are inconclusive.
+1.	[A] Suppose	[B] Consider	[C] Observe	[D] Imagine
+2.	[A] tended	[B] feared	[C] happened	[D] threatened
+3.	[A] thinner	[B] stabler	[C] lighter	[D] dimmer
+4.	[A] tendency	[B] advantage	[C] inclination	[D] priority
+5.	[A] insists on	[B] sums up	[C] turns out	[D] puts forward
+6.	[A] off	[B] behind	[C] over	[D] along
+7.	[A] incredible	[B] spontaneous	[C] inevitable	[D] gradual
+8.	[A] fight	[B] doubt	[C] stop	[D] think
+9.	[A] invisible	[B] limited	[C] indefinite	[D] different
+10.	[A] upward	[B] forward	[C] afterward	[D] backward
+11.	[A] features	[B] influences	[C] results	[D] costs
+12.	[A] outside	[B] on	[C] by	[D] across
+13.	[A] deliver	[B] carry	[C] perform	[D] apply
+14.	[A] by chance	[B] in contrast	[C] as usual	[D] for instance
+15.	[A] if	[B] unless	[C] as	[D] lest
+16.	[A] moderate	[B] overcome	[C] determine	[D] reach
+17.	[A] at	[B] for	[C] after	[D] with
+18.	[A] Above all	[B] After all	[C] However	[D] Otherwise
+19.	[A] fundamental	[B] comprehensive	[C] equivalent	[D] hostile
+20.	[A] By accident	[B] In time	[C] So far	[D] Better still
+Section II	Reading Comprehension
 Part A
-47. Directions: Suppose you are organizing an online meeting. Write an email to Jack, an international student, to 1) invite him to participate, || and 2) tell him the details. 
-You should write about 100 words [on the ANSWER | SHEET]. Do not use your own name. Use "Li Ming" [instead]. (10 points)
- 
-Part B 
-48. Directions: Write an essay (based on the chart (below)). In your writing, you should 1)interpret the chart, || and 2) give your comments. You should write about 150 words [on the ANSWER | SHEET].(15 points)
-
-
-
-2022
-Section I Use of English 
-Directions: Read the following  text. Choose the best word (s) [for each numbered blank] and mark A, B, C or D on the ANSWER | SHEET.(10 points)
-
-Harlan Coben believes | that if you are a writer, || you will find the time; and that if you can't find the time, || [then] writing isn't a priority, || and you are not a writer. [For him], writing is a __1__ job -- a job (like any other). He has __2__ it [with plumbing], pointing out | that a plumber doesn't wake up and say | that he can't work [with pipes] [today].
-(has 为 have 的第三人称单数形式。can't = can not, isn't = is not, doesn't = does not)
-
-__3__, [like most writers] [these days], you're holding down a job to pay the bills, || it's not __4__ to find the time to write. But it's not impossible. It requires determination and single-mindedness. __5__ (that most bestselling authors began writing | when they were doing other things to earn a living). And [today], [even] writers (who are [fairly] __6__) often have to do other work (to __7__) their writing income.
-(began 为 begin 的过去式。you're = you are, it's = it is)
-
-As Harlan Coben has suggested | it's a __8__ (of priorities). [To make writing a priority], you'll have to __9__ (some (of your day-to-day activities and some things (you really enjoy))).
-(it's = it is, you'll = you will)
-
-[Depending on your __10__ and your lifestyle] that might mean spending less time watching television or listening to music, || though some people can write __11__ || they listen to music. You might have [to __12__] the amount (of exercise) or sport (you do). You'll have to make social media an __13__ activity [rather than a daily, time-consuming __14__].
-(media 为 medium 的复数形式。you'll = you will)
-There'll [probably] have to be [less] socializing with your friends and less time [with your family]. It's a _ 15_ learning curve, || and it won't [always] make you popular.
-(there'll = there will, It's = It is, won't = will not)
-
-There's just one thing (you should try to keep [at least] some time for), __16__ your writing and that 's reading. Any write needs to read [as much] and as wildly as they can. It's the one __17__ supporter -- something (you can't do without).
-(There's = There is, It's = It is, can't = can not)
-
-Time is finite. The older you get, the __18__ (it seems to go). We need to use it || as carefully || and [as __19__] as we can that means prioritizing [out activities] so that we spend most time on the things (we really want to do). If you are a writer, || that means __20__ writing.
-(older 为 old 的比较级形式)
-
-1. [ A ) difficult (B) normal (C) steady (D) pleasant 
-2. [ A ) combined (B) compared (C) confused (D) confronted
-3. [ A ) If (B) Though (C) [Once (D)] Unless 
-4. [ A ) enough (B) strange (C) wrong (D) easy 
-5. [ A ) Accept (B) Explain (C) Remember (D) Suppose 
-6. [ A ) well-known (B) well-advised (C) well-informed (D) well-chosen 
-7. [ A ) donate (B) generate (C) supplement (D) calculate
-8. [ A) cause (B) purpose (C) question (D) condition 
-9. [ A ) highlight (B) sacrifice (C) continue (D) explore
-10. [ A) relations (B) interests (C) memories (D) skills 
-11. [ A ) until (B) because (C) while (D) [before] 
-12. [ A ) put up with (B) make up for (C) hang [onto] (D) cut down [on] 
-13. [ A ) intelligent (B) occasional (C) intensive (D) (emotional) 
-14. [ A) habit (B) test (C) decision (D) plan 
-15. [ A ) tough (B) gentle (C) rapid (D) funny
-16. [ A ) [in place] of (B) [in charge] of (C) in response to (D) in addition to 
-17. [ A ) indispensable (B) innovative (C) invisible (D) instant
-18. [ A ) duller (B) harder (C) quieter (D) quicker 
-19. [ A ) peacefully (B) generously (C) productively (D) gratefully 
-20. [ A ) at most (B) in turn (C) (on average (D) (above all))
-(duller 为 dull 的比较级形式, harder 为 hard 的比较级形式, quieter 为 quiet 的比较级形式, quicker 为 quick 的比较级形式)
-
-Section Ⅱ Reading Comprehension
-Part A  Directions: Read the following four texts. Answer the questions [after each text] [by choosing A, B, C or D].Mark your answers on the ANSWER | SHEET.(40 points)
+Directions:
+Read the following four texts. Answer the questions below each text by choosing A, B, C or D. Mark your answers on ANSWER SHEET 1. (40 points)
 Text 1
-[On a recent sunny day] 13,000 chickens roam over Larry Brown's 40 windswept acres [in Shiner, Texas]. Some rest [in the shade (of a parked car)], || others drink water [with the cows]. This all seems random, || but it's by design, part (of {what the $6.1 billion US}). egg industry bets will be its next big thing: climate-friendly eggs.
+Habits are a funny thing. We reach for them mindlessly, setting our brains on auto-pilot and relaxing into the unconscious comfort of familiar routine. "Not choice, but habit rules the unreflecting herd," William Wordsworth said in the 19th century. In the ever-changing 21st century, even the word "habit" carries a negative implication.
+So it seems paradoxical to talk about habits in the same context as creativity and innovation. But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks.
+Rather than dismissing ourselves as unchangeable creatures of habit, we can instead direct our own change by consciously developing new habits. In fact, the more new things we try—the more we step outside our comfort zone—the more inherently creative we become, both in the workplace and in our personal lives.
+But don't bother trying to kill off old habits; once those ruts of procedure are worn into the hippocampus, they're there to stay. Instead, the new habits we deliberately ingrain into ourselves create parallel pathways that can bypass those old roads.
+"The first thing needed for innovation is a fascination with wonder," says Dawna Markova, author of "The Open Mind" and an executive change consultant for Professional Thinking Partners. "But we are taught instead to 'decide,' just as our president calls himself 'the Decider.' " She adds, however, that "to decide is to kill off all possibilities but one. A good innovational thinker is always exploring the many other possibilities."
+All of us work through problems in ways of which we're unaware, she says. Researchers in the late 1960s discovered that humans are born with the capacity to approach challenges in four primary ways: analytically, procedurally, relationally (or collaboratively) and innovatively. At the end of adolescence, however, the brain shuts down half of that capacity, preserving only those modes of thought that have seemed most valuable during the first decade or so of life.
+The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought. "This breaks the major rule in the American belief system — that anyone can do anything," explains M. J. Ryan, author of the 2006 book This Year I Will... and Ms. Markova's business partner. "That's a lie that we have perpetuated, and it fosters commonness. Knowing what you're good at and doing even more of it creates excellence." This is where developing new habits comes in.
 
-These eggs, which are making their debut (now) on| shelves [[for as much]] [[as $8]] a dozen, are still labeled organic and animal-friendly || but they're [also] from birds (that live on farms using regenerative agriculture-special techniques to cultivate rich soils (that can trap greenhouse gases)). Such eggs could be marketed [as helping to fight climate change].
-(they're = they are)
+21.	The Wordsworth’s view, “habits” is claimed by being ________.
+A. casual       B. familiar     C. mechanical    D. changeable
+22.	Brain researchers have discovered that the formation of new habits can be ________
+A. predicted    B. regulated    C. traced        D. guided
+23.	The word "ruts"( Line 1, Paragraph 4) is closest meaning to ________
+A. tracks       B. series       C. characteristics  D. connections
+24.	Dawna Markova would most probably agree that ________.
+A. ideas are born of a relaxing mind
+B. innovativeness could be taught
+C. decisiveness derives from fantastic ideas
+D. curiosity activates creative minds
+25.	Ryan's comments suggest that the practice of standardized testing ________
+A, prevents new habits form being formed
+B, no longer emphasizes commonness
+C, maintains the inherent American thinking model
+D, complies with the American belief system
+Text 2
+It is a wise father that knows his own child, but today a man can boost his paternal (fatherly) wisdom – or at least confirm that he's the kid's dad. All he needs to do is shell our $30 for paternity testing kit (PTK) at his local drugstore – and another $120 to get the results.
+More than 60,000 people have purchased the PTKs since they first become available without prescriptions last years, according to Doug Fog, chief operating officer of Identigene, which makes the over-the-counter kits. More than two dozen companies sell DNA tests Directly to the public , ranging in price from a few hundred dollars to more than $2,500.
+Among the most popular: paternity and kinship testing , which adopted children can use to find their biological relatives and families can use to track down kids put up for adoption. DNA testing is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family's geographic roots .
+Most tests require collecting cells by swabbing saliva in the mouth and sending it to the company for testing.  All tests require a potential candidate with whom to compare DNA.
+But some observers are skeptical, "There is a kind of false precision being hawked by people claiming they are doing ancestry testing," says Trey Duster, a New York University sociologist. He notes that each individual has many ancestors-numbering in the hundreds just a few centuries back. Yet most ancestry testing only considers a single lineage, either the Y chromosome inherited through men in a father's line or mitochondrial DNA, which is passed down only from mothers. This DNA can reveal genetic information about only one or two ancestors, even though, for example, just three generations back people also have six other great-grandparents or, four generations back, 14 other great-great-grandparents.
+Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared. Databases used by some companies don't rely on data collected systematically but rather lump together information from different research projects. This means that a DNA database may have a lot of data from some regions and not others, so a person’s test results may differ depending on the company that processes the results. In addition, the computer programs a company uses to estimate relationships may be patented and not subject to peer review or outside evaluation.
+26.	In paragraphs 1 and 2, the text shows PTK's ___________.
+[A] easy availability
+[B] flexibility in pricing
+[C] successful promotion
+[D] popularity with households
+27.	PTK is used to __________.
+[A] locate one's birth place
+[B] promote genetic research
+[C] identify parent-child kinship
+[D] choose children for adoption
+28.	Skeptical observers believe that ancestry testing fails to__________.
+[A] trace distant ancestors
+[B] rebuild reliable bloodlines
+[C] fully use genetic information
+[D] achieve the claimed accuracy
+29.	In the last paragraph, a problem commercial genetic testing faces is __________.
+[A] disorganized data collection
+[B] overlapping database building
+[C] excessive sample comparison
+[D] lack of patent evaluation
+30.	An appropriate title for the text is most likely to be__________.
+[A] Fors and Againsts of DNA testing
+[B] DNA Testing and It's Problems
+[C] DNA Testing Outside the Lab
+[D] Lies Behind DNA Testing
+Text 3
+The relationship between formal education and economic growth in poor countries is widely misunderstood by economists and politicians alike. Progress in both area is undoubtedly necessary for the social, political and intellectual development of these and all other societies; however, the conventional view that education should be one of the very highest priorities for promoting rapid economic development in poor countries is wrong. We are fortunate that is it, because building new educational systems there and putting enough people through them to improve economic performance would require two or three generations. The findings of a research institution have consistently shown that workers in all countries can be trained on the job to achieve radically higher productivity and, as a result, radically higher standards of living.
+Ironically, the first evidence for this idea appeared in the United States. Not long ago, with the country entering a recessing and Japan at its pre-bubble peak. The U.S. workforce was derided as poorly educated and one of the primary cause of the poor U.S. economic performance. Japan was, and remains, the global leader in automotive-assembly productivity. Yet the research revealed that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts -- a result of the training that U.S. workers received on the job.
+More recently, while examining housing construction, the researchers discovered that illiterate, non-English- speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry's work.
+What is the real relationship between education and economic development? We have to suspect that continuing economic growth promotes the development of education even when governments don't force it. After all, that's how education got started. When our ancestors were hunters and gatherers 10,000 years ago, they didn't have time to wonder much about anything besides finding food. Only when humanity began to get its food in a more productive way was there time for other things.
+As education improved, humanity's productivity potential increased as well. When the competitive environment pushed our ancestors to achieve that potential, they could in turn afford more education. This increasingly high level of education is probably a necessary, but not a sufficient, condition for the complex political systems required by advanced economic performance. Thus poor countries might not be able to escape their poverty traps without political changes that may be possible only with broader formal education. A lack of formal education, however, doesn't constrain the ability of the developing world's workforce to substantially improve productivity for the foreseeable future. On the contrary, constraints on improving productivity explain why education isn't developing more quickly there than it is.
+31.	The author holds in paragraph 1 that the important of education in poor countries  ___________.
+[A] is subject groundless doubts
+[B] has fallen victim of bias
+[C] is conventional downgraded
+[D] has been overestimated
+32.	It is stated in Paragraph 1 that construction of a new education system  __________.
+[A] challenges economists and politicians
+[B] takes efforts of generations
+[C] demands priority from the government
+[D] requires sufficient labor force
+33.	A major difference between the Japanese and U.S workforces is that __________.
+[A] the Japanese workforce is better disciplined
+[B] the Japanese workforce is more productive
+[C] the U.S workforce has a better education
+[D] the U.S workforce is more organize
+34.	The author quotes the example of our ancestors to show that education emerged __________.
+[A] when people had enough time
+[B] prior to better ways of finding food
+[C] when people on longer went hung
+[D] as a result of pressure on government
+35.	According to the last paragraph , development of education __________.
+[A] results directly from competitive environments
+[B] does not depend on economic performance
+[C] follows improved productivity
+[D] cannot afford political changes
+Text 4
+The most thoroughly studied intellectuals in the history of the New World are the ministers and political leaders of seventeenth-century New England. According to the standard history of American philosophy, nowhere else in colonial America was "So much importance attached to intellectual pursuits. " According to many books and articles, New England's leaders established the basic themes and preoccupations of an unfolding, dominant Puritan tradition in American intellectual life.
+To take this approach to the New Englanders normally means to start with the Puritans' theological innovations and their distinctive ideas about the church-important subjects that we may not neglect. But in keeping with our examination of southern intellectual life, we may consider the original Puritans as carriers of European culture, adjusting to New World circumstances. The New England colonies were the scenes of important episodes in the pursuit of widely understood ideals of civility and virtuosity.
+The early settlers of Massachusetts Bay included men of impressive education and influence in England. Besides the ninety or so learned ministers who came to Massachusetts church in the decade after 1629,There were political leaders like John Winthrop, an educated gentleman, lawyer, and official of the Crown before he journeyed to Boston. There men wrote and published extensively, reaching both New World and Old World audiences, and giving New England an atmosphere of intellectual earnestness.
+We should not forget , however, that most New Englanders were less well educated. While few craftsmen or farmers, let alone dependents and servants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized. Their thinking often had a traditional superstitions quality. A tailor named John Dane, who emigrated in the late 1630s, left an account of his reasons for leaving England that is filled with signs. Sexual confusion, economic frustrations , and religious hope—all came together in a decisive moment when he opened the Bible, told his father the first line he saw would settle his fate, and read the magical words: "come out from among them, touch no unclean thing , and I will be your God and you shall be my people." One wonders what Dane thought of the careful sermons explaining the Bible that he heard in puritan churches.
+Meanwhile, many settlers had slighter religious commitments than Dane's, as one clergyman learned in confronting folk along the coast who mocked that they had not come to the New world for religion . "Our main end was to catch fish. "
+36.	The author notes that in the seventeenth-century New England___________.
+[A] Puritan tradition dominated political life.
+[B] intellectual interests were encouraged.
+[C] Politics benefited much from intellectual endeavors.
+[D] intellectual pursuits enjoyed a liberal environment.
+37.	It is suggested in paragraph 2 that New Englanders__________.
+[A] experienced a comparatively peaceful early history.
+[B] brought with them the culture of the Old World
+[C] paid little attention to southern intellectual life
+[D] were obsessed with religious innovations
+38.	The early ministers and political leaders in Massachusetts Bay__________.
+[A] were famous in the New World for their writings
+[B] gained increasing importance in religious affairs
+[C] abandoned high positions before coming to the New World
+[D] created a new intellectual atmosphere in New England
+39.	The story of John Dane shows that less well-educated New Englanders were often __________.
+[A] influenced by superstitions
+[B] troubled with religious beliefs
+[C] puzzled by church sermons
+[D] frustrated with family earnings
+40.	The text suggests that early settlers in New England__________.
+[A] were mostly engaged in political activities
+[B] were motivated by an illusory prospect
+[C] came from different backgrounds.
+[D] left few formal records for later reference
 
-"I'm excited about our progresses," says Brown, (who harvests eggs [for Denver-based Nest Fresh Eggs] and is adding more cover crops (that draw worms and crickets for the chickens to eat)). The birds' waste then fertilizes fields. Such improvements "allow our hens to forage for higher-quality natural feed (that will be good for the land, the hens, and the eggs (that we supply to our customers))."
-(I'm = I am)
+Part B
+Directions:
+Directions: In the following text, some sentences have been removed. For Questions (41-45), choose the most suitable one from the list A-G to fit into each of the numbered blank. There are two extra choices, which do not fit in any of the gaps. Mark your answers on ANSWER SHEET 1. (10 points)
+Coinciding with the groundbreaking theory of biological evolution proposed by British naturalist Charles Darwin in the 1860s, British social philosopher Herbert Spencer put forward his own theory of biological and cultural evolution. Spencer argued that all worldly phenomena, including human societies, changed over time, advancing toward perfection. 41.____________.
+American social scientist Lewis Henry Morgan introduced another theory of cultural evolution in the late 1800s. Morgan, along with Tylor, was one of the founders of modern anthropology. In his work, he attempted to show how all aspects of culture changed together in the evolution of societies.42._____________.
+In the early 1900s in North America, German-born American anthropologist Franz Boas developed a new theory of culture known as historical particularism. Historical particularism, which emphasized the uniqueness of all cultures, gave new direction to anthropology. 43._____________.
+Boas felt that the culture of any society must be understood as the result of a unique history and not as one of many cultures belonging to a broader evolutionary stage or type of culture. 44._______________.
+Historical particularism became a dominant approach to the study of culture in American anthropology, largely through the influence of many students of Boas. But a number of anthropologists in the early 1900s also rejected the particularist theory of culture in favor of diffusionism. Some attributed virtually every important cultural achievement to the inventions of a few, especially gifted peoples that, according to diffusionists, then spread to other cultures. 45.________________.
+Also in the early 1900s, French sociologist Émile Durkheim developed a theory of culture that would greatly influence anthropology. Durkheim proposed that religious beliefs functioned to reinforce social solidarity. An interest in the relationship between the function of society and culture—known as functionalism—became a major theme in European, and especially British, anthropology.
+[A]	Other anthropologists believed that cultural innovations, such as inventions, had a single origin and passed from society to society. This theory was known as diffusionism.
+[B]	In order to study particular cultures as completely as possible, Boas became skilled in linguistics, the study of languages, and in physical anthropology, the study of human biology and anatomy.
+[C]	He argued that human evolution was characterized by a struggle he called the "survival of the fittest," in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies.
+[D]	They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood.
+[E]	Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved.
+[F]	Supporters of the theory viewed as a collection of integrated parts that work together to keep a society functioning.
+[G]	For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurred separately at different times in many parts of the world.
 
-The egg industry's push is the first major test (of {whether animal products (from regenerative farms) can become the next premium offering}). [In barely [more than] a decade], organic eggs went [from being dismissed [as a niche product] [in natural foods stores] [to being sold at Walmart]]. [More recently] there were similar doubts [about probiotics and plant-based meats], || but both have exploded into major supermarket categories.
-(went 为 go 的过去式。sold 为 sell 的过去分词。)
-If the sustainable-egg roll (out) is successful, || it could open the floodgates for regenerative beef broccoli and beyond.
+Part C
+Directions:
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written carefully on ANSWER SHEET 2. (10 points)
+There is a marked difference between the education which everyone gets from living with others, and the deliberate educating of the young. In the former case the education is incidental; it is natural and important, but it is not the express reason of the association. (46) It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience; but this effect is not a part of its original motive. Religious associations began, for example, in the desire to secure the favor of overruling powers and to ward off evil influences; family life in the desire to gratify appetites and secure family perpetuity; systematic labor, for the most part, because of enslavement to others, etc. (47) Only gradually was the by-product of the institution noted, and only more gradually still was this effect considered as a directive factor in the conduct of the institution. Even today, in our industrial life, apart from certain values of industriousness and thrift, the intellectual and emotional reaction of the forms of human association under which the world's work is carried on receives little attention as compared with physical output.
+But in dealing with the young, the fact of association itself as an immediate human fact, gains in importance. (48) While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults. The need of training is too evident; the pressure to accomplish a change in their attitude and habits is too urgent to leave these consequences wholly out of account. (49) Since our chief business with them is to enable them to share in a common life we cannot help considering whether or no we are forming the powers which will secure this ability. If humanity has made some headway in realizing that the ultimate value of every institution is its distinctively human effect we may well believe that this lesson has been learned largely through dealings with the young.
+(50) We are thus led to distinguish, within the broad educational process which we have been so far considering, a more formal kind of education -- that of direct tuition or schooling. In undeveloped social groups, we find very little formal teaching and training. These groups mainly rely for instilling needed dispositions into the young upon the same sort of association which keeps the adults loyal to their group.
+	
+Section Ⅲ	Writing
+Part A
+51. Directions:
+Restrictions on the use of plastic bags have not been so successful in some regions. "White pollution "is still going on. Write a letter to the editor(s) of your local newspaper to
+give your opinions briefly and
+make two or three suggestions
+You should write about 100 words. Do not sign your own name at the end of the letter. Use "Li Ming" instead. You do not need to write the address.
+Part B
+52. Directions:
+In your essay, you should
+1) describe the drawing briefly,
+2) explain its intended meaning, and then
+3) give your comments.
+You should write neatly on ANSHWER SHEET 2. (20 points)
+ 
+2008年全国硕士研究生招生考试英语试题
+Section I Use of English
+Directions:
+Read the following text. Choose the best word (s) for each numbered blank and mark [A], [B], [C] or [D] on ANSWER SHEET 1. (10 points)
+The idea that some groups of people may be more intelligent than others is one of those hypotheses that dare not speak its name. But Gregory Cochran is 1 to say it anyway. He is that 2 bird, a scientist who works independently3 any institution. He helped popularize the idea that some diseases not 4thought to have a bacterial cause were actually infections, which aroused much controversy when it was first suggested.
+5 he, however, might tremble at the 6 of what he is about to do. Together with another two scientists, he is publishing a paper which not only 7 that one group of humanity is more intelligent than the others, but explains the process that has brought this about. The group in 8are a particular people originated from central Europe. The process is natural selection.
+This group generally do well in IQ test, 9 12-15 points above the 10 value of 100, and have contributed 11 to the intellectual and cultural life of the West, as the 12 of their elites, including several world-renowned scientists, 13 . They also suffer more often than most people from a number of nasty genetic diseases, such as breast cancer. These facts, 14 , have previously been thought unrelated. The former has been 15 to social effects, such as a strong tradition of 16 education. The latter was seen as a (an) 17 of genetic isolation. Dr. Cochran suggests that the intelligence and diseases are intimately 18 . His argument is that the unusual history of these people has19 them to unique evolutionary pressures that have resulted in this 20 state of affairs.
 
-Regenerative products could be a hard sell, || because the concept is tough to define [quickly], || says Julie Stanton, associate professor (of agricultural economics (at Pennsylvania State University Brandywine)). Such farming also brings minimal, if [any], improvement (to the food products) (though some producers say | their eggs have more protein).
+1.[A] selected      	[B] prepared    	[C] obliged    	[D] pleased
+2.[A] unique       	[B] particular   	[C] special     	[D] rare
+3.[A] of          	[B] with       	[C] in         	[D] against
+4.[A] subsequently  	[B] presently   	[C] previously   	[D] lately
+5.[A] Only        	[B] So         	[C] Even      	[D] Hence
+6.[A] thought      	[B] sight       	[C] cost        	[D] risk
+7.[A] advises      	[B] suggests     	[C] protests    	[D] objects
+8.[A] progress     	[B] fact        	[C] need       	[D] question
+9.[A] attaining     	[B] scoring     	[C] reaching    	[D] calculating
+10.[A] normal     	[B] common    	[C] mean       	[D] total
+11.[A] unconsciously	[B] disproportionately[C] indefinitely	[D] unaccountably
+12.[A] missions    	[B] fortunes     	[C] interests     	[D] careers
+13.[A] affirm      	[B] witness     	[C] observe      	[D] approve
+14.[A] moreover   	[B] therefore     	[C] however     	[D] meanwhile
+15.[A] given up    	[B] got over     	[C] carried on    	[D] put down
+16.[A] assessing   	[B] supervising   	[C] administering 	[D] valuing
+17.[A] development 	[B] origin       	[C] consequence  	[D] instrument
+18.[A] linked      	[B] integrated    	[C] woven       	[D] combined
+19.[A] limited     	[B] subjected    	[C] converted    	[D] directed
+20.[A] paradoxical  	[B] incompatible 	[C] inevitable    	[D] continuous
+Section II Reading Comprehension
+Part A
+Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C] or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+While still catching up to men in some spheres of modern life, women appear to be way ahead in at least one undesirable category. “Women are particularly susceptible to developing depression and anxiety disorders in response to stress compared to men,” according to Dr. Yehuda, chief psychiatrist at New York’s Veteran’s Administration Hospital.
+Studies of both animals and humans have shown that sex hormones somehow affect the stress response, causing females under stress to produce more of the trigger chemicals than do males under the same conditions. In several of the studies, when stressed-out female rats had their ovaries (the female reproductive organs) removed, their chemical responses became equal to those of the males.
+Adding to a woman’s increased dose of stress chemicals, are her increased “opportunities” for stress. “It’s not necessarily that women don’t cope as well. It’s just that they have so much more to cope with,” says Dr. Yehuda. “Their capacity for tolerating stress may even be greater than men’s,” she observes, “it’s just that they’re dealing with so many more things that they become worn out from it more visibly and sooner.”
+Dr. Yehuda notes another difference between the sexes. “I think that the kinds of things that women are exposed to tend to be in more of a chronic or repeated nature. Men go to war and are exposed to combat stress. Men are exposed to more acts of random physical violence. The kinds of interpersonal violence that women are exposed to tend to be in domestic situations, by, unfortunately, parents or other family members, and they tend not to be one-shot deals. The wear-and-tear that comes from these longer relationships can be quite devastating.”
+Adeline Alvarez married at 18 and gave birth to a son, but was determined to finish college. “I struggled a lot to get the college degree. I was living in so much frustration that that was my escape, to go to school, and get ahead and do better.” Later, her marriage ended and she became a single mother. “It’s the hardest thing to take care of a teenager, have a job, pay the rent, pay the car payment, and pay the debt.I lived from paycheck to paycheck.”
+Not everyone experiences the kinds of severe chronic stresses Alvarez describes. But most women today are coping with a lot of obligations, with few breaks, and feeling the strain. Alvarez’s experience demonstrates the importance of finding ways to diffuse stress before it threatens your health and your ability to function.
+21. Which of the following is true according to the first two paragraphs?
+[A] Women are biologically more vulnerable to stress.
+[B] Women are still suffering much stress caused by men.
+[C] Women are more experienced than men in coping with stress.
+[D] Men and women show different inclinations when faced with stress.
+22. Dr. Yehuda’s research suggests that women .
+[A] need extra doses of chemicals to handle stress	[B] have limited capacity for tolerating stress
+[C] are more capable of avoiding stress	[D] are exposed to more stress
+23. According to Paragraph 4, the stress women confront tends to be .
+[A] domestic and temporary	[B] irregular and violent
+[C] durable and frequent	[D] trivial and random
 
-The industry is betting | that the same consumers paying more for premium attributes (such as free-range), non-GMO, and pasture-raised eggs will embrace sustainability. Surveys show | that younger generations are more concerned about climate change, || and some (of the success (of plant-based meat)) can be chalked [up to shoppers wanting to signal their desire to protect the environment].
-(younger 为 young 的比较级形式)
-Young adults "really care about the planet," says John Brunnquell altering the food chain [beyond {what I think | [even] they understand | what they're doing}]."
-(they're = they are)
 
-21. The climate-friendly eggs are produced __________ 
-(A) at a considerably low cost 
-(B) at the demand (of regular shoppers) 
-(C) as a replacement (for organic eggs) 
-(D) on specially designed farms
-22. Larry Brown is excited about his progress [in __________] 
-(A) reducing the damage (of worms) 
-(B) accelerating the disposal (of waste) 
-(C) creating a sustainable system 
-(D) attracting customers [to his products]
-23. The example (of organic eggs) is used [in the fourth paragraph] is to suggest ________ 
-(A) the doubts (to over natural feeds) 
-(B) the setbacks (in the eggs industry) 
-(C) the potential (of regenerative products) 
-(D) the promotional success (of super markets)
-24. It can be learned from the last paragraph | that young people __________ 
-(A) are reluctant to change their diet 
-(B) are likely to buy climate-friendly eggs 
-(C) are curious about new food 
-(D) are amazed at agriculture advance
-
-25. John Brunnquell would disagree with Julie Stanton [over regenerative products] [in __________] 
-(A) markets prospects 
-(B) nutritional value 
-(C) standard definition 
-(D) moral implication
+24. The sentence “I lived from paycheck to paycheck.” (Line 5, Para. 5) shows that .
+[A] Alvarez cared about nothing but making money	[B] Alvarez’s salary barely covered her household expenses
+[C] Alvarez got paychecks from different jobs	[D] Alvarez paid practically everything by check
+25. Which of the following would be the best title for the text?
+[A] Strain of Stress: No Way Out?	[B] Response to Stress: Gender Difference
+[C] Stress Analysis: What Chemicals Say?	[D] Gender Inequality: Women Under Stress
 
 Text 2
-More Americans are opting to work [well] into retirement, a growing trend (that threatens to upend the old workforce model).
+It used to be so straightforward. A team of researchers working together in the laboratory would submit the results of their research to a journal. A journal editor would then remove the author’s names and affiliations from the paper and send it to their peers for review. Depending on the comments received, the editor would accept the paper for publication or decline it. Copyright rested with the journal publisher, and researchers seeking knowledge of the results would have to subscribe to the journal.
+No longer. The Internet—and pressure from funding agencies, who are questioning why commercial publishers are making money from government–funded research by restricting access to it—is making access to scientific results a reality. The Organization for Economic Co-operation and Development (OECD) has just issued a report describing the far-reaching consequences of this. The report, by John Houghton of Victoria University in Australia and Graham Vickery of the OECD, makes heavy reading for publishers who have, so far, made handsome profits. But it goes further than that. It signals a change in what has, until now, been a key element of scientific endeavor.
+The value of knowledge and the return on the public investment in research depends, in part, upon wide distribution and ready access. It is big business. In America, the core scientific publishing market is estimated at between $7 billion and $11 billion. The International Association of Scientific, Technical and Medical Publishers says that there are more than 2,000 publishers worldwide specializing in these subjects. They publish more than 1.2 million articles each year in some 16,000 journals.
+This is now changing. According to the OECD report, some 75% of scholarly journals are now online. Entirely new business models are emerging; three main ones were identified by the report’s authors. There is the so-called big deal, where institutional subscribers pay for access to a collection of online journal titles through site-licensing agreements. There is open-access publishing, typically supported by asking the author (orhis employer) to pay for the paper to be published. Finally, there are open-access archives, where organizations such as universities or international laboratories support institutional repositories. Other models exist that are hybrids of these three, such as delayed open-access, where journals allow only subscribers to read a paper for the first six months, before making it freely available to everyone who wishes to see it. All this could change the traditional form of the peer-review process, at least for the publication of papers.
+26. In the first paragraph, the author discusses .
+[A] the background information of journal editing	[B] the publication routine of laboratory reports
+[C] the relations of authors with journal publishers	[D] the traditional process of journal publication
+27. Which of the following is true of the OECD report?
+[A] It criticizes government-funded research.	[B] It introduces an effective means of publication.
+[C] It upsets profit-making journal publishers.	[D] It benefits scientific research considerably.
+28. According to the text, online publication is significant in that .
+[A] it provides an easier access to scientific results	[B] it brings huge profits to scientific researchers
+[C] it emphasizes the crucial role of scientific knowledge	[D] it facilitates public investment in scientific research
 
-One (in three Americans (who are at least 40)) have or plan to have a job [in retirement] to prepare for a longer life, [according to a survey conducted [by Harris Poll] [for TD Ameritrade]].
-[Even] [more] surprising is that more || than half (of "unretirees" -- <those (who plan to work [in retirement] or went back to work [after retiring])> --) said | they would be employed in their later years || even if they had enough money to settle down, || the survey showed.
-(went 为 go 的过去式。said 为 say 的过去式。)
 
-Financial needs aren't the only culprit [for the "unretirement" trend]. 
-Other reasons, <according to the study>, include personal fulfillment (such as staying [mentally] fit, preventing boredom or avoiding depression).
-(aren't = are not)
+29. With the open-access publishing model, the author of a paper is required to .
+[A] cover the cost of its publication	[B] subscribe to the journal publishing it
+[C] allow other online journals to use it freely	[D] complete the peer-review before submission
+30. Which of the following best summarizes the text?
+[A] The Internet is posing a threat to publishers.	[B] A new mode of publication is emerging.
+[C] Authors welcome the new channel for publication.	[D] Publication is rendered easily by online service.
 
-About 72% (of "unretire" respondents) said | that they would return to work [once] retired to keep [mentally] fit || while 59% said | it would be tied to making ends meet.
-(said 为 say 的过去式。)
+Text 3
+In the early 1960s Wilt Chamberlain was one of the only three players in the National Basketball Association (NBA) listed at over seven feet. If he had played last season, however, he would have been one of 42. The bodies playing major professional sports have changed dramatically over the years, and managers have been more than willing to adjust team uniforms to fit the growing numbers of bigger, longer frames.
+The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing. Though typically about two inches taller now than 140 years ago, today’s people—especially those born to families who have lived in the U.S. for many generations—apparently reached their limit in the early 1960s.And they aren’t likely to get any taller. “In the general population today, at this genetic, environmental level, we’ve pretty much gone as far as we can go,” says anthropologist William Cameron Chumlea of Wright State University. In the case of NBA players, their increase in height appears to result from the increasingly common practice of recruiting players from all over the world.
+Growth, which rarely continues beyond the age of 20, demands calories and nutrients—notably, protein—to feed expanding tissues. At the start of the 20th century, under-nutrition and childhood infections got in the way. But as diet and health improved, children and adolescents have, on average, increased in height by about an inch and a half every 20 years, a pattern known as the secular trend in height. Yet according to the Centers for Disease Control and Prevention, average height—5'9" for men, 5'4" for women—hasn’t really changed since 1960.
+Genetically speaking, there are advantages to avoiding substantial height. During childbirth, larger babies have more difficulty passing through the birth canal. Moreover, even though humans have been upright for millions of years, our feet and back continue to struggle with bipedal posture and cannot easily withstand repeated strain imposed by oversize limbs. “There are some real constraints that are set by the genetic architecture of the individual organism,” says anthropologist William Leonard of Northwestern University.
+Genetic maximums can change, but don’t expect this to happen soon. Claire C. Gordon, senior anthropologist at the Army Research Center in Natick, Mass., ensures that 90 percent of the uniforms and workstations fit recruits without alteration. She says that, unlike those for basketball, the length of military uniforms has not changed for some time. And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, “you could use today's data and feel fairly confident.”
+31. Wilt Chamberlain is cited as an example to .
+[A] illustrate the change of height of NBA players	[B] show the popularity of NBA players in the U.S.
+[C] compare different generations of NBA players	[D] assess the achievements of famous NBA players
+32. Which of the following plays a key role in body growth according to the text?
+[A] Genetic modification.	[B] Natural environment.
+[C] Living standards.	[D] Daily exercise.
+33. On which of the following statements would the author most probably agree?
+[A] Non-Americans add to the average height of the nation.
+[B] Human height is conditioned by the upright posture.
+[C] Americans are the tallest on average in the world.
+[D] Larger babies tend to become taller in adulthood.
+34. We learn from the last paragraph that in the near future .
+[A] the garment industry will reconsider the uniform size
+[B] the design of military uniforms will remain unchanged
+[C] genetic testing will be employed in selecting sportsmen
+[D] the existing data of human height will still be applicable
+35. The text intends to tell us that .
+[A] the change of human height follows a cyclic pattern	[B] human height is becoming even more predictable
+[C] Americans have reached their genetic growth limit	[D] the genetic pattern of Americans has altered
+Text 4
+In 1784, five years before he became president of the United States, George Washington, 52, was nearly toothless. So he hired a dentist to transplant nine teeth into his jaw—having extracted them from the mouths of his slaves.
+That’s a far different image from the cherry-tree-chopping George most people remember from their history books. But recently,many historians have begun to focus on the role slavery played in the lives of the founding generation. They have been spurred in part by DNA evidence made available in 1998, which almost certainly proved Thomas Jefferson had fathered at least one child with his slave Sally Hemings. And only over the past 30 years have scholars examined history from the bottom up. Works of several historians reveal the moral compromises made by the nation’s early leaders and the fragile nature of the country’s infancy. More significant, they argue that many of the Founding Fathers knew slavery was wrong—and yet most did little to fight it.
+More than anything, the historians say, the founders were hampered by the culture of their time. While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create.
+For one thing, the South could not afford to part with its slaves. Owning slaves was “like having a large bank account,” says Wiencek, author of An Imperfect God: George Washington, His Slaves, and the Creation of America. The southern states would not have signed the Constitution without protections for the “peculiar institution,” including a clause that counted a slave as three fifths of a man for purposes of congressional representation.
+And the statesmen’s political lives depended on slavery. The three-fifths formula handed Jefferson his narrow victory in the presidential election of 1800 by inflating the votes of the southern states in the Electoral College. Once in office, Jefferson extended slavery with the Louisiana Purchase in 1803; the new land was carved into 13 states, including three slave states.
+Still, Jefferson freed Hemings’s children—though not Hemings herself or his approximately 150 other slaves. Washington, who had begun to believe that all men were created equal after observing the bravary of the black soldiers during the Revolutionary War, overcame the strong opposition of his relatives to grant his slaves their freedom in his will. Only a decade earlier, such an act would have required legislative approval in Virginia.
+36. George Washington’s dental surgery is mentioned to .
+[A] show the primitive medical practice in the past.	[B] demonstrate the cruelty of slavery in his days.
+[C] stress the role of slaves in the U.S. history.	[D] reveal some unknown aspect of his life.
+37. We may infer from the second paragraph that .
+[A] DNA technology has been widely applied to history research.
+[B] in its early days the U.S. was confronted with delicate situations.
+[C] historians deliberately made up some stories of Jefferson’s life.
+[D] political compromises are easily found throughout the U.S. history.
 
-"The concept (of retirement) is evolving,<" said Christine Russell>, senior manager (of retirement) [at TD Ameritrade]. 
-"It's not just about finances. 
-The value (of work) is [also] driving folks to continue working past retirement."
-(said 为 say 的过去分词。It's = It is)
+38. What do we learn about Thomas Jefferson?
+[A] His political view changed his attitude towards slavery.
+[B] His status as a father made him free the child slaves.
+[C] His attitude towards slavery was complex.
+[D] His affair with a slave stained his prestige.
+39. Which of the following is true according to the text?
+[A] Some Founding Fathers benefit politically from slavery.	
+[B] Slaves in the old days did not have the right to vote.
+[C] Slave owners usually had large savings accounts.
+[D] Slavery was regarded as a peculiar institution.
+40. Washington’s decision to free slaves originated from his .
+[A] moral considerations.   	[B] military experience.
+[C] financial conditions.    	[D] political stand.
 
-One reason (for the change (in retirement)) patterns: Americans are living [longer]. 
-The share (of the population 65 and older) was 16%in 2018, [up 3.2%] [from the prior year], [according to the U.S Census Bureau]. 
-That's [also] up 30.2% [since 2010].
-(longer 为 long 的比较级形式, older 为 old 的比较级形式, That's = That is)
+Part B
+Directions:
+In the following text, some segments have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each ofthe numbered blanks. There are two extra choices, which do not fit in any of the blanks. Mark your answers on ANSWER SHEET 1. (10 points)
+The time for sharpening pencils, arranging your desk, and doing almost anything else instead of writing has ended. The first draft will appear on the page only if you stop avoiding the inevitable and sit, stand up, or lie down to write. (41)_______________.
+Be flexible. Your outline should smoothly conduct you from one point to the next, but do not permit it to railroad you. If a relevant and important idea occurs to you now, work it into the draft. (42) _______________. Grammar, punctuation, and spelling can wait until you revise. Concentrate on what you are saying. Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors.
+(43) _______________. Your pages will be easier to keep track of that way, and, if you have to clip a paragraph to place it elsewhere, you will not lose any writing on either side.
+If you are working on a word processor, you can take advantage of its capacity to make additions and deletions as well as move entire paragraphs by making just a few simple keyboard commands. Some software programs can also check spelling and certain grammatical elements in your writing. (44) _______________. These printouts are also easier to read than the screen when you work on revisions.
+Once you have a first draft on paper, you can delete material that is unrelated to your thesis and add material necessary to illustrate your points and make your paper convincing. The student who wrote “The A&P as a State of Mind” wisely dropped a paragraph that questioned whether Sammy displays chauvinistic attitudes toward women. (45) _______________.
+Remember that your initial draft is only that. You should go through the paper many times— and then again—working to substantiate and clarify your ideas. You may even end up with several entire versions of the paper. Rewrite. The sentences within each paragraph should be related to a single topic. Transitions should connect one paragraph to the next so that there are no abrupt or confusing shifts. Awkward or wordy phrasing or unclear sentences and paragraphs should be mercilessly poked and prodded into shape.
+[A] To make revising easier, leave wide margins and extra space between lines so that you can easily add words, sentences and corrections. Write on only one side of the paper.
+[B] After you have already and adequately developed the body of your paper, pay particular attention to the introductory and concluding paragraphs. It’s probably best to write the introduction last, after you know precisely what you are introducing. Concluding paragraphs demand equal attention because they leave the reader with a final impression.
+[C] It’s worth remembering, however, that though a clean copy fresh off a printer may look terrible, it will read only as well as the thinking and writing that have gone into it. Many writers prudently store their data on disks and print their pages each time they finish a draft to avoid losing any material because of power failures or other problems.
+[D] It makes no difference how you write, just so you do. Now that you have developed a topic into a tentative thesis, you can assemble your notes and begin to flesh out whatever outline you have made.
+[E] Although this is an interesting issue, it has nothing to do with the thesis, which explains how the setting influences Sammy’s decision to quit his job. Instead of including that paragraph, she added one that described Lengel’s crabbed response to the girls so that she could lead up to the A & P “policy” he enforces.
+[F] In the final paragraph about the significance of the setting in “A&P” the student brings together the reasons Sammy quit his job by referring to his refusal to accept Lengel’s store policies.
+[G] By using the first draft as a means of thinking about what you want to say, you will very likely discover more than your notes originally suggested. Plenty of good writers don’t use outlines at all but discover ordering principles as they write. Do not attempt to compose a perfectly correct draft the first time around.
 
-[Because of longer life spans], Americans are [also] boosting their savings to preserve their nest eggs, the TD Ameritrade study showed, (which surveyed 2000 adults [between 40] [to 79]). 
-Six (in 10 "unretirees") are increasing their savings [in anticipation (of a longer life)], [according to the survey].
-(longer 为 long 的比较级形式)
-[Among the most] popular ways (they are doing this), <the company said>, is by reducing their overall expenses, securing life insurance or maximizing their contributions (to retirement accounts).
-(said 为 say 的过去式。)
+Part C
+Directions:
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on ANSWER SHEET 2. (10 points)
+In his autobiography，Darwin himself speaks of his intellectualpowers with extraordinary modesty. He points out that he always experienced much difficulty in expressing himself clearly and concisely, but (46)he believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own observations. He disclaimed the possession of any great quickness of apprehension or wit, such as distinguished Huxley. (47) He asserted, also, that his power to follow a long and purely abstract train of thought was very limited, for which reason he felt certain that he never could have succeeded with mathematics. His memory, too, he described as extensive, but hazy. So poor in one sense was it that he never could remember for more than a few days a single date or a line of poetry. (48) On the other hand, he did not accept as well founded the charge made by some of his critics that, while he was a good observer, he had no power of reasoning. This, he thought, could not be true, because the “Origin of Species” is one long argument from the beginning to the end, and has convinced many able men. No one, he submits, could have written it without possessing some power of reasoning. He was willing to assert that “I have a fair share of invention, and of common sense or judgment, such as every fairly successful lawyer or doctor must have, but not, I believe, in any higher degree.” (49)He adds humbly that perhaps he was “superior to the common run of men in noticing things which easily escape attention, and in observing them carefully.”
+Writing in the last year of his life, he expressed the opinion that in two or three respects his mind had changed during the preceding twenty or thirty years. Up to the age of thirty or beyond it poetry of many kinds gave him great pleasure. Formerly, too, pictures had given him considerable, and music very great, delight. In 1881, however, he said: “Now for many years I cannot endure to read a line of poetry. I have also almost lost my taste for pictures or music.” (50) Darwin was convinced that the loss of these tastes was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably to the moral character.
 
-Unfortunately, any people (who are opting to work [in retirement]) are preparing to do [so] || because they are worried about making ends meet [in their later years], aid Brent Weiss, || a co-founder [at Baltimore-based financial-planning] firm Facet Wealth. 
-He suggested | that preretirees should speak with a financial adviser to set long-term financial goals.
 
-"The most challenging moments (in life) are getting married, starting a family and ultimately retiring," Facet Wealth cofounder Brent Weiss told USA [Today]. 
-"It's not [just] a financial decision, but an emotional one. 
-Many people believe | they can't retire."
-(told 为 tell 的过去式。It's = It is, can't = can not)
 
-26. The survey conducted [by Harris Poll] indicates that __________ 
-(A) ver half (of the retirees) are [physically] fit for work 
-(B) he old workforce is as active [as the younger one] 
-(C) ne (in three Americans) enjoy earlier retirement 
-(D) ore Americans are willing to work [in retirement]
-(younger 为 young 的比较级形式, earlier 为 early 的比较级形式)
-27. It can be inferred from Paragraph 3 | that Americans tend to think that __________ 
-(A) etirement may cause problems for them 
-(B) oredom can be relieved [after retirement] 
-(C) he mental health (of retirees) is overlooked 
-(D) unretirement" contributes to the economy
-28. Retirement patterns are changing [partly due to __________] 
-(A) abor shortages 
-(B) opulation growth 
-(C) onger life expectancy 
-(D) ising living costs 
-29. Many retires are increasing [in savings] [by __________] 
-(A) investing more in stocks 
-(B) taking up odd jobs 
-(C) getting well paid work 
-(D) spending less
-(paid 为 pay 的过去分词。longer 为 long 的比较级形式)
-30. [With regard (to retirement)], Brent Weiss thinks | that many people are __________ 
-(A) nprepared 
-(B) nafraid 
-(C) isappointed 
-(D) nthusiastic 
+Section III Writing
+Part A
+51. Directions:
+You have just come back from Canada and found a music CD
+in your luggage that you forgot to return to Bob, your landlord there. Write him a letter to
+1) make an apology, and
+2) suggest a solution.
+You should write about 100 words on ANSWER SHEET 2.
+Do not sign your own name at the end of the letter. Use “Li Ming” instead.
+Do not write the address. (10 points)
+Part B
+52. Directions:
+Write an essay of 160-200 words based on the following drawing. In your essay, you should
+1) describe the drawing briefly,
+2) explain its intended meaning, and then
+3) give your comments.
+You should write neatly on ANSHWER SHEET 2. (20 points)
+ 
 
-Text3
-We have all encountered them, [in both our personal and professional lives]. 
-Think about the times (you felt tricked or frustrated [by a membership or subscription (that had a seamless sign-up process)] but was [later]) difficult to cancel something (that should be simple and transparent) an be complicated, <intentionally or unintentionally>, [in ways (that impair consumer choice)]. 
-These are examples (of dark patterns).
-(felt 为 feel 的过去式。lives 为 life 的复数形式。)
+2007年全国硕士研究生招生考试英语试题
+Section I Use of English
+Directions:
+Read the following text. Choose the best word(s) for each numbered blank and mark [A], [B], [C] or [D] on ANSWER SHEET 1. (10 points)
+By 1830, the former Spanish and Portuguese colonies had become independent nations. The roughly 20 million 1 of these nations looked 2 to the future. Born in the crisis of the old regime and Iberian colonialism, many of the leaders of independence 3 the ideals of representative government, careers 4 to talent, freedom of commerce and trade, the 5 to private property, and a belief in the individual as the basis of society. 6 there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a 7 set of laws.
+On the issue of 8 of religion and the position of the Church, 9 , there was less agreement 10the leadership. Roman Catholicism had been the state religion and the only one11 by the Spanish crown. 12 most leaders sought to maintain Catholicism 13 the official religion of the new states, some sought to end the 14 of other faiths. The defense of the Church became a rallying15 for the conservative forces.
+The ideals of the early leaders of independence were often egalitarian, valuing equality of everything. Bolivar had received aid from Haiti and had16 in return to abolish slavery in the areas he liberated. By 1854 slavery had been abolished everywhere except Spain’s 17 colonies. Early promises to end Indian tribute and taxes on people of mixed origin came much 18because the new nations still needed the revenue such policies 19 . Egalitarian sentiments were often tempered by fears that the mass of the population was 20 self-rule and democracy.
+1.[A] natives       	[B] inhabitants   	[C] peoples     	[D] individuals
+2.[A] confusedly   	[B] cheerfully    	[C] worriedly   	[D] hopefully
+3.[A] shared      	[B] forgot      	[C] attained     	[D] rejected
+4.[A] related       	[B] close        	[C] open       	[D] devoted
+5.[A] access      	[B] succession   	[C] right       	[D] return
+6.[A] Presumably   	[B] Incidentally  	[C] Obviously    	[D] Generally
+7.[A] unique       	[B] common     	[C] particular    	[D] typical
+8.[A] freedom     	[B] origin      	[C] impact      	[D] reform
+9.[A] therefore     	[B] however     	[C] indeed      	[D] moreover
+10.[A] with       	[B] about       	[C] among      	[D] by
+11.[A] allowed     	[B] preached     	[C] granted     	[D] funded
+12.[A] Since      	[B] If          	[C] Unless      	[D] While
+13.[A] as         	[B] for         	[C] under       	[D] against
+14.[A] spread     	[B] interference  	[C] exclusion    	[D] influence
+15.[A] support     	[B] cry         	[C] plea         	[D] wish
+16.[A] urged      	[B] intended     	[C] expected     	[D] promised
+17.[A] controlling  	[B] former      	[C] remaining    	[D] original
+18.[A] slower     	[B] faster     	[C] easier       	[D] tougher
+19.[A] created    	[B] produced   	[C] contributed   	[D] preferred
+20.[A] puzzled by  	[B] hostile to  	[C]pessimistic about[D] unprepared for
+Section II Reading Comprehension
+Part A
+Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C], or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+If you were to examine the birth certificates of every soccer player in 2006’s World Cup tournament, you would most likely find a noteworthy quirk: elite soccer players are more likely to have been born in the earlier months of the year than in the late months. If you then examined the European national youth teams that feed the World Cup and professional ranks, you would find this strange phenomenon to be ever more pronounced.
+What might account for this strange phenomenon? Here are a few guesses: a) certain astrological signs confer superior soccer skills; b) winter-born babies tend to have higher oxygen capacity, which increases soccer stamina; c) soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania; d) none of the above.
+Anders Ericsson, a 58-year-old psychology professor at Florida State University, says he believes strongly in “none of the above.” Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology. His first experiment, nearly 30 years ago, involved memory: training a person to hear and then repeat a random series of numbers. “With the first subject, after about 20 hours of training, his digit span had risen from 7 to 20,” Ericsson recalls. “He kept improving, and after about 200 hours of training he had risen to over 80 numbers.”
+This success, coupled with later research showing that memory itself is not genetically determined, led Ericsson to conclude that the act of memorizing is more of a cognitive exercise than an intuitive one. In other words, whatever inborn differences two people may exhibit in their abilities to memorize, those differences are swamped by how well each person “encodes” the information. And the best way to learn how to encode information meaningfully, Ericsson determined, was a process known as deliberate practice. Deliberate practice entails more than simply repeating a task. Rather, it involves setting specific goals, obtaining immediate feedback and concentrating as much on technique as on outcome.
+Ericsson and his colleagues have thus taken to studying expert performers in a wide range of pursuits, including soccer. They gather all the data they can, not just performance statistics and biographical details but also the results of their own laboratory experiments with high achievers. Their work makes a rather startling assertion: the trait we commonly call talent is highly overrated. Or, put another way, expert performers—whether in memory or surgery, ballet or computer programming—are nearly always made, not born.
+21. The birthday phenomenon found among soccer players is mentioned to
+[A] stress the importance of professional training.
+[B] spotlight the soccer superstars at the World Cup.
+[C] introduce the topic of what makes expert performance.
+[D] explain why some soccer teams play better than others.
+22. The word “mania” (Line 4, Paragraph 2) most probably means
+[A] fun.    [B] craze.    [C] hysteria.    [D] excitement.
+23. According to Ericsson, good memory
+[A] depends on meaningful processing of information.
+[B] results from intuitive rather than cognitive exercises.
+[C] is determined by genetic rather than psychological factors.
+[D] requires immediate feedback and a high degree of concentration.
+24. Ericsson and his colleagues believe that
+[A] talent is a dominating factor for professional success.
+[B] biographical data provide the key to excellent performance.
+[C] the role of talent tends to be overlooked.
+[D] high achievers owe their success mostly to nurture.
+25. Which of the following proverbs is closest to the message the text tries to convey?
+[A] “Faith will move mountains.”         	[B] “One reaps what one sows.”
+[C] “Practice makes perfect.”            	[D] “Like father, like son.”
+Text 2
+For the past several years, the Sunday newspaper supplement Parade has featured a column called “Ask Marilyn.” People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228—the highest score ever recorded. IQ tests ask you to complete verbal and visual analogies, to envision paper after it has been folded and cut, and to deduce numerical sequences, among other similar tasks. So it is a bit confusing when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What’s the difference between love and fondness? Or what is the nature of luck and coincidence? It’s not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers.
+Clearly, intelligence encompasses more than a score on a test. Just what does it mean to be smart? How much of intelligence can be specified, and how much can we learn about it from neurology, genetics, computer science and other fields?
+The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be. The test comes primarily in two forms: the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children’s version). Generally costing several hundred dollars, they are usually given only by psychologists, although variations of them populate bookstores and the World Wide Web. Superhigh scores like vos Savant’s are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100. Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests.
+Such standardized tests may not assess all the important elements necessary to succeed in school and in life, argues Robert J. Sternberg. In his article “How Intelligent Is Intelligence Testing?”, Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success. Moreover, IQ tests do not necessarily predict so well once populations or situations change. Research has found that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership—that is, it predicted the opposite. Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it’s knowing when to guess or what questions to skip.
+26. Which of the following may be required in an intelligence test?
+[A] Answering philosophical questions.
+[B] Folding or cutting paper into different shapes.
+[C] Telling the differences between certain concepts.
+[D] Choosing words or graphs similar to the given ones.
 
-[First coined [in 2010] [by user experience expert Harry Brignull]], "dark patterns" is a catch-all term [for practices (that manipulate user interfaces to influence the decision-making ability (of users))]. 
-Brignull identifies 12 types (of common dark patterns), ranging [from misdirection and hidden costs] [to roach motel, (where user experience seems easy and intuitive [at the start], but turns difficult || when the user tries to get out)].
-(hidden 为 hide 的过去分词。)
+27. What can be inferred about intelligence testing from Paragraph3?
+[A] People no longer use IQ scores as an indicator of intelligence.
+[B] More versions of IQ tests are now available on the Internet.
+[C] The test contents and formats for adults and children may be different.
+[D] Scientists have defined the important elements of human intelligence.
+28. People nowadays can no longer achieve IQ scores as high as vos Savant’s because
+[A] the scores are obtained through different computational procedures.
+[B] creativity rather than analytical skills is emphasized now.
+[C] vos Savant’s case is an extreme one that will not repeat.
+[D] the defining characteristic of IQ tests has changed.
+29. We can conclude from the last paragraph that
+[A] test scores may not be reliable indicators of one’s ability.
+[B] IQ scores and SAT results are highly correlated.
+[C] testing involves a lot of guesswork.
+[D] traditional tests are out of date.
+30. What is the author’s attitude towards IQ tests?
+[A] Supportive.   [B] Skeptical.   [C] Impartial.   [D] Biased.
+Text 3
+During the past generation, the American middle-class family that once could count on hard work and fair play to keep itself financially secure has been transformed by economic risk and new realties. Now a pink slip, a bad diagnosis, or a disappearing spouse can reduce a family from solidly middle class to newly poor in a few months.
+In just one generation, millions of mothers have gone to work,transforming basic family economics. Scholars, policymakers, and critics of all stripes have debated the social implications of these changes, but few have looked at the side effect: family risk has risen as well. Today’s families have budgeted to the limits of theirs new two-paycheck status. As a result, they have lost the parachute they once had in times of financial setback—a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. This “added-worker effect” could support the safety net offered by unemployment insurance or disability insurance to help families weather bad times. But today, a disruption to family fortunes can no longer be made up with extra income from an otherwise-stay-at-home partner.
+During the same period, families have been asked to absorb much more risk in their retirement income. Steelworkers, airline employees, and now those in the auto industry are joining millions of families who must worry about interest rates, stock market fluctuation, and the harsh reality that they may outlive their retirement money. For much of the past year, President Bush campaigned to move Social Security to a savings-account model, with retirees trading much or all of their guaranteed payments for payments depending on investment returns. For younger families, the picture is not any better. Both the absolute cost of healthcare and the share of it borne by families have risen—and newly fashionable health-savings plans are spreading from legislative halls to Wal-Mart workers, with much higher deductibles and a large new dose of investment risk for families’ future healthcare. Even demographics are working against the middle class family, as the odds of having a weak elderly parent—and all the attendant need for physical and financial assistance—have jumped eightfold in just one generation.
+From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders. The financial fallout has begun, and the political fallout may not be far behind.
+31. Today’s double-income families are at greater financial risk in that
+[A] the safety net they used to enjoy has disappeared.
+[B] their chances of being laid off have greatly increased.
+[C] they are more vulnerable to changes in family economics.
+[D] they are deprived of unemployment or disability insurance.
+32. As a result of President Bush’s reform, retired people may have
+[A] a higher sense of security.    	[B] less secured payments.
+[C] less chance to invest.        	[D] a guaranteed future.
+33. According to the author, health-savings plans will
+[A] help reduce the cost of healthcare.
+[B] popularize among the middle class.
+[C] compensate for the reduced pensions.
+[D] increase the families’ investment risk.
+34. It can be inferred from the last paragraph that
+[A] financial risks tend to outweigh political risks.
+[B] the middle class may face greater political challenges.
+[C] financial problems may bring about political problems.
+[D] financial responsibility is an indicator of political status.
+35. Which of the following is the best title for this text?
+[A] The Middle Class on the Alert     	[B] The Middle Class on the Cliff
+[C] The Middle Class in Conflict      	[D] The Middle Class in Ruins
+Text 4
+It never rains but it pours. Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them—especially in America—the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity. Left, until now, to odd, low-level IT staff to put right, and seen as a concern only of data-rich industries such as banking, telecoms and air travel, information protection is now high on the boss’s agenda in businesses of every variety.
+Several massive leakages of customer and employee data this year—from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley—have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.
+“Data is becoming an asset which needs to be guarded as much as any other asset,” says Haim Mendelson of Stanford University’s business school. “The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders”. Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York’s Columbia Business School. “Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one,” he says.
+The mystery is that this should come as a surprise to any boss. Surely it should be obvious to the dimmest executive that trust, that most valuable of economic assets, is easily destroyed and hugely expensive to restore—and that few things are more likely to destroy trust than a company letting sensitive personal data get into the wrong hands.
+The current state of affairs may have been encouraged—though not justified—by the lack of legal penalty (in America, but not Europe) for data leakage. Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray. That may change fast: lots of proposed data-security legislation is now doing the rounds in Washington, D.C. Meanwhile, the theft of information about some 40 million credit-card accounts in America, disclosed on June 17th, overshadowed a hugely important decision a day earlier by America’s Federal Trade Commission (FTC) that puts corporate America on notice that regulators will act if firms fail to provide adequate data security.
+36. The statement “It never rains but it pours” is used to introduce
+[A] the fierce business competition.        	[B] the feeble boss-board relations.
+[C] the threat from news reports.          	[D] the severity of data leakage.
+37. According to Paragraph 2, some organizations check their systems to find out
+[A] whether there is any weak point.        	[B] what sort of data has been stolen.
+[C] who is responsible for the leakage.       	[D] how the potential spies can be located.
+38. In bringing up the concept of GASP the author is making the point that
+[A] shareholders’ interests should be properly attended to.
+[B] information protection should be given due attention.
+[C] businesses should enhance their level of accounting security.
+[D] the market value of customer data should be emphasized.
+39. According to Paragraph 4, what puzzles the author is that some bosses fail to
+[A] see the link between trust and data protection.
+[B] perceive the sensitivity of personal data.
+[C] realize the high cost of data restoration.
+[D] appreciate the economic value of trust.
+40. It can be inferred from Paragraph 5 that
+[A] data leakage is more severe in Europe.
+[B] FTC’s decision is essential to data security.
+[C] California takes the lead in security legislation.
+[D] legal penalty is a major solution to data leakage.
 
-[In a 2019 study (of 53,000 product pages) and 11,000 websites], researchers found | that about one (in 10 employs (these design)) practices. 
-Though widely prevalent, || the concept (of dark patterns) is still not [well] understood. 
-Business and nonprofit leaders should be aware of dark patterns and try to avoid the gray areas (they engender).
-(found 为 find 的过去式。understood 为 understand 的过去分词。)
+Part B
+Directions:
+You are going to read a list of headings and a text about what parents are supposed to do to guide their children into adulthood. Choose a heading from the list A-G that best fits the meaning of each numbered part of the text (41-45). The first and last paragraphs of the text are not numbered. There are two extra headings that you do not need to use. Mark your answers on ANSWER SHEET 1. (10 points)
+[A] Set a Good Example for Your Kids
+[B] Build Your Kids’ Work Skills
+[C] Place Time Limits on Leisure Activities
+[D] Talk about the Future on a Regular Basis
+[E] Help Kids Develop Coping Strategies
+[F] Help Your Kids Figure Out Who They Are
+[G] Build Your Kids’ Sense of Responsibility
+How Can a Parent Help?
+Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job’s starting salary seems too small to satisfy an emerging adult’s need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book Ready or Not, Here Life Comes, that parents can take to prevent what I call “work-life unreadiness”:
+You can start this process when they are 11 or 12. Periodically review their emerging strengths and weaknesses with them and work together on any shortcomings, like difficulty in communicating well or collaborating. Also, identify the kinds of interests they keep coming back to, as these offer clues to the careers that will fit them best.
+Kids need a range of authentic role models—as opposed to members of their clique, pop stars and vaunted athletes. Have regular dinner-table discussions about people the family knows and how they got where they are. Discuss the joys and downsides of your own career and encourage your kids to form some ideas about their own future. When asked what they want to do, they should be discouraged from saying “I have no idea.” They can change their minds 200 times, but having only a foggy view of the future is of little good.
+Teachers are responsible for teaching kids how to learn; parents should be responsible for teaching them how to work. Assign responsibilities around the house and make sure homework deadlines are met. Encourage teenagers to take a part-time job. Kids need plenty of practice delaying gratification and deploying effective organizational skills, such as managing time and setting priorities.
+Playing video games encourages immediate content. And hours of watching TV shows with canned laughter only teaches kids to processinformation in a passive way. At the same time, listening through earphones to the same monotonous beats for long stretches encourages kids to stay inside their bubble instead of pursuing other endeavors. All these activities can prevent the growth of important communication and thinking skills and make it difficult for kids to develop the kind of sustained concentration they will need for most jobs.
+They should know how to deal with setbacks, stress and feelings of inadequacy. They should also learn how to solve problems and resolve conflicts, ways to brainstorm and think critically. Discussions at home can help kids practice doing these things and help them apply these skills to everyday life situations.
+What about the son or daughter who is grown but seems to be struggling and wandering aimlessly through early adulthood? Parents still have a major role to play, but now it is more delicate. They have to be careful not to come across as disappointed in their child. They should exhibit strong interest and respect for whatever currently interests their fledging adult (as naive or ill conceived as it may seem) while becoming a partner in exploring options for the future. Most of all, these new adults must feel that they are respected and supported by a family that appreciates them.
 
-Where is the line [between ethical, persuasive design and dark patterns]? 
-Businesses should engage in conversations [with IT, <compliance, risk, and legal teams to review their privacy policy>], and include in the discussion the customer/user experience designers and coders (responsible for the company's user interface, as well as the marketers and advertisers (responsible for signups checkout baskets, pricing, and promotions)).
-Any or all these teams can play a role [in creating or avoiding "digital deception]".
+Part C
+Directions:
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on ANSWER SHEET 2. (10 points)
+The study of law has been recognized for centuries as a basic intellectual discipline in European universities. However, only in recent years has it become a feature of undergraduate programs in Canadian universities. (46)Traditionally, legal learning has been viewed in such institutions as the special preserve of lawyers, rather than a necessary part of the intellectual equipment of an educated person. Happily, the older and more continental view of legal education is establishing itself in a number of Canadian universities and some have even begun to offer undergraduate degrees in law.
+If the study of law is beginning to establish itself as part and parcel of a general education, its aims and methods should appeal directly to journalism educators. Law is a discipline which encourages responsible judgment. On the one hand, it provides opportunities to analyze such ideas as justice, democracy and freedom. (47) On the other, it links theseconcepts to everyday realities in a manner which is parallel to the links journalists forge on a daily basis as they cover and comment on the news.For example, notions of evidence and fact, of basic rights and public interest are at work in the process of journalistic judgment and production just as in courts of law. Sharpening judgment by absorbing and reflecting on law is a desirable component of a journalist’s intellectual preparation for his or her career.
+(48) But the idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.Politics or, more broadly, the functioning of the state, is a major subject for journalists. The better informed they are about the way the state works, the better their reporting will be. (49) In fact, it is difficult to see how journalists who do not have a clear grasp of the basic features of the Canadian Constitution can do a competent job on political stories.
+Furthermore, the legal system and the events which occur within it are primary subjects for journalists. While the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers. (50) While comment and reaction from lawyers may enhance stories, it is preferable for journalists to rely on their own notions of significance and make their own judgments.These
+can only come from a well-grounded understanding of the legal system.
 
-Lawmakers and regulators are [slowly] starting to address the ambiguity [around dark patterns], [most recently] [at the state level]. 
-[In March], the California Attorney General announced the approval (of additional regulations) [under the California Consumer Privacy Act (CCPA) (that ensures | that consumers will not be confused or misled || when seeking to exercise their data privacy rights)].
-(misled 为 mislead 的过去分词。)
-The regulations aim to ban dark pattern -- || this means prohibiting companies from using confusing language || or unnecessary steps (such as forcing them to click [through multiple]) screens or listen to reasons (why they shouldn't opt out).
-(shouldn't = should not)
+Section III Writing
+Part A
+51. Directions
+Write a letter to your university library, making suggestions for improving its service.
+You should write about 100 words on ANSWER SHEET 2.
+Do not sign your own name at the end of the letter. Use “Li Ming” instead.
+Do not write the address. (10 points)
+Part B
+52. Directions:
+Write an essay of 160-200 words based on the following drawing. In your essay, you should
+1) describe the drawing briefly,
+2) explain its intended meaning, and then
+3) support your view with an example/examples.
+You should write neatly on ANSWER SHEET 2. (20 points)
+ 
+2006年全国硕士研究生招生考试英语试题
+Section I Use of English
+Directions:
+Read the following text. Choose the best word(s) for each numbered blank and mark [A], [B], [C] or [D] on ANSWER SHEET 1. (10 points)
+    The homeless make up a growing percentage of America’s population. 1 , homelessness has reached such proportions that local governments can’t possibly 2 . To help homeless people 3 independence, the federal government must support job training programs, 4 the minimum wage, and fund more low-cost housing.
+5 everyone agrees on the number of Americans who are homeless. Estimates 6 anywhere from 600,000 to 3 million. 7 the figure may vary, analysts do agree on another matter: that the number of the homeless is 8 . One of the federal government’s studies 9 that the number of the homeless will reach nearly 19 million by the end of this decade.
+    Finding ways to 10this growing homeless population has become increasingly difficult.11 when homeless individuals manage to find a 12 that will give them three meals a day and a place to sleep at night, a good number still spend the bulk of each day 13 the street. Part of the problem is that many homeless adults are addicted to alcohol or drugs. And a significant number of the homeless have serious mental disorders. Many others, 14 not addicted or mentally ill, simply lack the everyday 15 skills needed to turn their lives 16 . Boston Globe reporter Chris Reidy notes that the situation will improve only when there are 17 programs that address the many needs of the homeless. 18 Edward Zlotkowski, director of community service at Bentley College in Massachusetts, 19 it, “There has to be 20 of programs. What’s needed is a package deal.”
+1.[A] Indeed     	[B] Likewise  	[C] Therefore   	[D] Furthermore
+2.[A] stand      	[B] cope      	[C] approve    	[D] retain
+3.[A] in         	[B] for       	[C] with       	[D] toward
+4.[A] raise      	[B] add       	[C] take        	[D] keep
+5.[A] Generally  	[B] Almost    	[C] Hardly     	[D] Not
+6.[A] cover      	[B] change    	[C] range      	[D] differ
+7.[A] Now that   	[B] Although  	[C] Provided    	[D] Except that
+8.[A] inflating   	[B] expanding  	[C] increasing   	[D] extending
+9.[A] predicts    	[B] displays   	[C] proves      	[D] discovers
+10.[A] assist     	[B] track      	[C] sustain     	[D] dismiss
+11.[A] Hence    	[B] But       	[C] Even       	[D] Only
+12.[A] lodging   	[B] shelter     	[C] dwelling    	[D] house
+13.[A] searching  	[B] strolling   	[C] crowding   	[D] wandering
+14.[A] when     	[B] once      	[C] while      	[D] whereas
+15.[A] life       	[B] existence  	[C] survival    	[D] maintenance
+16.[A] around    	[B] over      	[C] on        	[D] up
+17.[A] complex  	[B] comprehensive	[C]complementary	[D] compensating
+18.[A] So         	[B] Since       	[C] As          	[D] Thus
+19.[A] puts        	[B] interprets    	[C] assumes     	[D] makes
+20.[A] supervision  	[B] manipulation 	[C] regulation    	[D] coordination
+Section II Reading Comprehension
+Part A
+Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C], or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+In spite of “endless talk of difference,” American society is an amazing machine for homogenizing people. There is “the democratizing uniformity of dress and discourse, and the casualness and absence of deference” characteristic of popular culture. People are absorbed into “a culture of consumption” launched by the 19th-century department stores that offered “vast arrays of goods in an elegant atmosphere. Instead of intimate shops catering to a knowledgeable elite” these were stores “anyone could enter, regardless of class or background. This turned shopping into a public and democratic act.” The mass media, advertising and sports are other forces for homogenization.
+Immigrants are quickly fitting into this common culture, which may not be altogether elevating but is hardly poisonous. Writing for the National Immigration Forum, Gregory Rodriguez reports that today’s immigration is neither at unprecedented levels nor resistant to assimilation. In 1998 immigrants were 9.8 percent of the population; in 1900, 13.6 percent. In the 10 years prior to 1990, 3.1 immigrants arrived for every 1,000 residents; in the 10 years prior to 1890, 9.2 for every 1,000. Now, consider three indices of assimilation—language, home ownership and intermarriage.
+The 1990 Census revealed that “a majority of immigrants from each of the fifteen most common countries of origin spoke English ‘well’ or ‘very well’ after ten years of residence.” The children of immigrants tend to be bilingual and proficient in English. “By the third generation, the original language is lost in the majority of immigrant families.” Hence the description of America as a “graveyard” for languages. By 1996 foreign-born immigrants who had arrived before 1970 had a home ownership rate of 75.6 percent, higher than the 69.8 percent rate among native-born Americans.
+Foreign-born Asians and Hispanics “have higher rates of intermarriage than do U.S.-born whites and blacks.” By the third generation, one third of Hispanic women are married to non-Hispanics, and 41 percent of Asian-American women are married to non-Asians.
+Rodriguez notes that children in remote villages around the world are fans of superstars like Arnold Schwarzenegger and Garth Brooks, yet “some Americans fear that immigrants living within the United States remain somehow immune to the nation’s assimilative power.”
+Are there divisive issues and pockets of seething anger in America? Indeed. It is big enough to have a bit of everything. But particularly when viewed against America’s turbulent past, today’s social indices hardly suggest a dark and deteriorating social environment.
+21. The word “homogenizing” (Line 2, Paragraph 1) most probably means ________.
+[A] identifying	[B] associating
+[C] assimilating	[D] monopolizing
+22. According to the author, the department stores of the 19th century ________.
+[A] played a role in the spread of popular culture	[B] became intimate shops for common consumers
+[C] satisfied the needs of a knowledgeable elite	[D] owed its emergence to the culture of consumption
+23. The text suggests that immigrants now in the U.S. ________.
+[A] are resistant to homogenization	[B] exert a great influence on American culture
+[C] are hardly a threat to the common culture	[D] constitute the majority of the population
 
-As more states consider promulgating additional regulations, || there is a need (for greater accountability) [from within the business community]. 
-Dark patterns also be addressed [on a self-regulatory basis], || but [only] if organizations hold themselves accountable, [not just to legal requirements], but also to industry best practices and standard.
-(greater 为 great 的比较级形式)
 
-31. It can be learned from the first two paragraphs | that dark patterns __________. 
-(A) improve user experiences 
-(B) leak user information [for profit] 
-(C) undermine users' decision-making 
-(D) remind users of hidden costs 
-(hidden 为 hide 的过去分词。)
-32. The 2019 study (on dark patterns) is mentioned to show __________. 
-(A) their major flaws 
-(B) their complex designs 
-(C) their severe damage 
-(D) their strong presence
-33. To handle digital deception, businesses should__________. 
-(A) listen to customer feedback 
-(B) talk with relevant teams 
-(C) turn to independent agencies 
-(D) rely on professional training 
-34. The additional regulations (under the CCPA) are intended [to __________]. 
-(A) guide users [through opt-out processes] 
-(B) protect consumers from being tricked 
-(C) grant companies data privacy rights 
-(D) restrict access to problematic content
-35. [According to the last paragraph], a key (to coping with dark patterns) is __________. 
-(A) new legal requirements 
-(B) businesses' self -discipline 
-(C) strict regulatory standards 
-(D) consumers' safety awareness
+24. Why are Arnold Schwarzenegger and Garth Brooks mentioned in Paragraph 5?
+[A] To prove their popularity around the world.	[B] To reveal the public’s fear of immigrants.
+[C] To give examples of successful immigrants.	[D] To show the powerful influence of American culture.
+25. In the author’s opinion, the absorption of immigrants into American society is _______.
+[A] rewarding	[B] successful
+[C] fruitless	[D] harmful
+Text 2
+Stratford-on-Avon, as we all know, has only one industry—William Shakespeare—but there are two distinctly separate and increasingly hostile branches. There is the Royal Shakespeare Company (RSC), which presents superb productions of the plays at the Shakespeare Memorial Theatre on the Avon. And there are the townsfolk who largely live off the tourists who come, not to see the plays, but to look at Anne Hathaway’s Cottage, Shakespeare’s birthplace and the other sights.
+The worthy residents of Stratford doubt that the theatre adds a penny totheir revenue. They frankly dislike the RSC’s actors, them with their long hair and beards and sandals and noisiness. It’s all deliciously ironic when you consider that Shakespeare, who earns their living, was himself an actor (with a beard) and did his share of noise-making.
+The tourist streams are not entirely separate. The sightseers who come by bus—and often take in Warwick Castle and Blenheim Palace on the side—don’t usually see the plays, and some of them are even surprised to find a theatre in Stratford. However, the playgoers do manage a little sight-seeing along with their playgoing. It is the playgoers, the RSC contends, who bring in much of the town’s revenue because they spend the night (some of them four or five nights) pouring cash into the hotels and restaurants. The sightseers can take in everything and get out of town by nightfall.
+The townsfolk don’t see it this way and the local council does not contribute directly to the subsidy of the Royal Shakespeare Company. Stratford cries poor traditionally. Nevertheless every hotel in town seems to be adding a new wing or cocktail lounge. Hilton is building its own hotel there, which you may be sure will be decorated with Hamlet Hamburger Bars, the Lear Lounge, the Banquo Banqueting Room, and so forth, and will be very expensive.
+Anyway, the townsfolk can’t understand why the Royal Shakespeare Company needs a subsidy. (The theatre has broken attendance records for three years in a row. Last year its 1,431 seats were 94 per cent occupied all year long and this year they’ll do better.) The reason, of course, is that costs have rocketed and ticket prices have stayed low.
+It would be a shame to raise prices too much because it would drive away the young people who are Stratford’s most attractive clientele. They come entirely for the plays, not the sights. They all seem to look alike (though they come from all over)—lean, pointed, dedicated faces, wearing jeans and sandals, eating their buns and bedding down for the night on the flagstones outside the theatre to buy the 20 seats and 80 standing-room tickets held for the sleepers and sold to them when the box office opens at 10:30 a.m.
+26. From the first two paragraphs, we learn that ________.
+[A] the townsfolk deny the RSC’s contribution to the town’s revenue
+[B] the actors of the RSC imitate Shakespeare on and off stage
+[C] the two branches of the RSC are not on good terms
+[D] the townsfolk earn little from tourism
+27. It can be inferred from Paragraph 3 that ________.
+[A] the sightseers cannot visit the Castle and the Palace separately
+[B] the playgoers spend more money than the sightseers
+[C] the sightseers do more shopping than the playgoers
+[D] the playgoers go to no other places in town than the theater
 
-Text4
+28. By saying “Stratford cries poor traditionally” (Line 2, Paragraph 4), the author implies that ______.
+[A] Stratford cannot afford the expansion projects	[B] Stratford has long been in financial difficulties
+[C] the town is not really short of money	[D] the townsfolk used to be poorly paid
+29. According to the townsfolk, the RSC deserves no subsidy because ________.
+[A] ticket prices can be raised to cover the spending	[B] the company is financially ill-managed
+[C] the behavior of the actors is not socially acceptable	[D] the theatre attendance is on the rise
+30. From the text we can conclude that the author ________.
+[A] is supportive of both sides	[B] favors the townsfolk’s view
+[C] takes a detached attitude	[D] is sympathetic to the RSC
 
-Although ethics classes are common [around the world], scientists are unsure | if their lessons can actually change behavior, evidence either way is weak, relying on contrived laboratory tests or [sometimes] unreliable self-reports. 
-But a new study published [in Cognition] found | that, <in [at least] one real-world situation>, a single ethics lesson may have had lasting effects.
-(found 为 find 的过去式。)
 
-The researchers investigated one class sessions' impact [on eating meat]. 
-They chose this particular behavior [for three reasons], according to study co-author Eric Schwitzgebel, a philosopher (at the University of California , Riverside): students' attitudes (on the topic) are variable and unstable, || behavior is easily measurable, || and ethics literature largely agrees | that eating less meat is good || because it reduces environmental harm and animal suffering.
-(chose 为 choose 的过去式。)
-Half (of the students (in four large philosophy classes)) read an article (on the ethics (of factory-farmed meat)), optionally watched an 11-minute video [on the topic] and joined a 50-minute discussion. 
-The other half focused on charitable giving [instead].
+Text 3
+When prehistoric man arrived in new parts of the world, something strange happened to the large animals: they suddenly became extinct. Smaller species survived. The large, slow-growing animals were easy game, and were quickly hunted to extinction. Now something similar could be happening in the oceans.
+That the seas are being overfished has been known for years. What researchers such as Ransom Myers and Boris Worm have shown is just how fast things are changing. They have looked at half a century of data from fisheries around the world. Their methods do not attempt to estimate the actual biomass (the amount of living biological matter) of fish species in particular parts of the ocean, but rather changes in that biomass over time. According to their latest paper published in Nature, the biomass of large predators (animals that kill and eat other animals) in a new fishery is reduced on average by 80% within 15 years of the start of exploitation. In some long-fished areas, it has halved again since then.
+Dr. Worm acknowledges that these figures are conservative. One reason for this is that fishing technology has improved. Today’s vessels can find their prey using satellites and sonar, which were not available 50 years ago. That means a higher proportion of what is in the sea is being caught, so the real difference between present and past is likely to be worse than the one recorded by changes in catch sizes. In the early days, too, longlines would have been more saturated with fish. Some individuals would therefore not have been caught, since no baited hooks would have been available to trap them, leading to an underestimate of fish stocks in the past. Furthermore, in the early days of longline fishing, a lot of fish were lost to sharks after they had been hooked. That is no longer a problem, because there are fewer sharks around now.
+Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. They believe the data support an idea current among marine biologists, that of the “shifting baseline”. The notion is that people have failed to detect the massive changes which have happened in the ocean because they have been looking back only a relatively short time into the past. That matters because theory suggests that the maximum sustainable yield that can be cropped from a fishery comes when the biomass of a target species is about 50% of its original levels. Most fisheries are well below that, which is a bad way to do business.
+31. The extinction of large prehistoric animals is noted to suggest that ________.
+[A] large animals were vulnerable to the changing environment
+[B] small species survived as large animals disappeared
+[C] large sea animals may face the same threat today
+[D] slow-growing fish outlive fast-growing ones
+32. We can infer from Dr. Myers and Dr. Worm’s paper that ________.
+[A] the stock of large predators in some old fisheries has reduced by 90%
+[B] there are only half as many fisheries as there were 15 years ago
+[C] the catch sizes in new fisheries are only 20% of the original amount
+[D] the number of large predators dropped faster in new fisheries than in the old
+33. By saying “these figures are conservative” (Line 1, paragraph 3), Dr. Worm means that ________.
+[A] fishing technology has improved rapidly	[B] then catch-sizes are actually smaller than recorded
+[C] the marine biomass has suffered a greater loss	[D] the data collected so far are out of date
+34. Dr. Myers and other researchers hold that ________.
+[A] people should look for a baseline that can work for a longer time
+[B] fisheries should keep their yields below 50% of the biomass
+[C] the ocean biomass should be restored to its original level
+[D] people should adjust the fishing baseline to the changing situation
+35. The author seems to be mainly concerned with most fisheries’ ________.
+[A] management efficiency	[B] biomass level
+[C] catch-size limits	[D] technological application
+Text 4
+Many things make people think artists are weird. But the weirdest may be this: artists’ only job is to explore emotions, and yet they choose to focus on the ones that feel bad.
+This wasn’t always so. The earliest forms of art, like painting and music, are those best suited for expressing joy. But somewhere from the 19th century onward, more artists began seeing happiness as meaningless, phony or, worst of all, boring, as we went from Wordsworth’s daffodils to Baudelaire’s flowers of evil.
+You could argue that art became more skeptical of happiness because modern times have seen so much misery. But it’s not as if earlier times didn’t know perpetual war, disaster and the massacre of innocents. The reason, in fact, may be just the opposite: there is too much damn happiness in the world today.
+After all, what is the one modern form of expression almost completely dedicated to depicting happiness? Advertising. The rise of anti-happy art almost exactly tracks the emergence of mass media, and with it, a commercial culture in which happiness is not just an ideal but an ideology.
+People in earlier eras were surrounded by reminders of misery. They worked until exhausted, lived with few protections and died young. In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms. Given all this, they did not exactly need their art to be a bummer too.
+Today the messages the average Westerner is surrounded with are not religious but commercial, and forever happy. Fast-food eaters, news anchors, text messengers, all smiling, smiling, smiling. Our magazines feature beaming celebrities and happy families in perfect homes. And since these messages have an agenda—to lure us to open our wallets—they make the very idea of happiness seem unreliable. “Celebrate!” commanded the ads for the arthritis drug Celebrex, before we found out it could increase the risk of heart attacks.
+But what we forget—what our economy depends on us forgetting—is that happiness is more than pleasure without pain. The things that bring the greatest joy carry the greatest potential for loss and disappointment. Today, surrounded by promises of easy happiness, we need art to tell us, as religion once did, Memento mori: remember that you will die, that everything ends, and that happiness comes not in denying this but in living with it. It’s a message even more bitter than a clove cigarette, yet, somehow, a breath of fresh air.
+36. By citing the examples of poets Wordsworth and Baudelaire, the author intends to show that ________.
+[A] poetry is not as expressive of joy as painting or music
+[B] art grows out of both positive and negative feelings
+[C] poets today are less skeptical of happiness
+[D] artists have changed their focus of interest
+37. The word “bummer” (Line 5, paragraph 5) most probably means something ________.
+[A] religious   [B] unpleasant  [C] entertaining   [D] commercial
+38. In the author’s opinion, advertising ________.
+[A] emerges in the wake of the anti-happy art
+[B] is a cause of disappointment for the general public
+[C] replace the church as a major source of information
+[D] creates an illusion of happiness rather than happiness itself
+39. We can learn from the last paragraph that the author believes ________.
+[A] happiness more often than not ends in sadness
+[B] the anti-happy art is distasteful but refreshing
+[C] misery should be enjoyed rather than denied
+[D] the anti-happy art flourishes when economy booms
+40. Which of the following is true of the text?
+[A] Religion once functioned as a reminder of misery.
+[B] Art provides a balance between expectation and reality.
+[C] People feel disappointed at the realities of modern society.
+[D] Mass media are inclined to cover disasters and deaths.
 
-Then, unknown (to the students), the researchers studied their anonymized meal-card purchases for that semester -- nearly 14,000 receipts (for almost 500 students). 
-Schwitzgebel predicted | the intervention would have no effect;
-he had [previously] found | that ethics professors do not differ from other professors [on a range (of behaviors)], including voting rates, blood donation and returning library books. 
-But [among student subjects (who discussed meat ethics)], meal purchases containing meat decreased [from 52 to 45 percent-and (this effect held steady)] for the study's duration (of several weeks). 
-Purchases (from the other group) remained [at 52 percent].
-(found 为 find 的过去分词。held 为 hold 的过去式。)
+Part B
+Directions:
+In the following article, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of numbered gaps. There are two extra choices, which you do not need to use. Mark your answers on ANSWER SHEET 1. (10 points)
+On the north bank of the Ohio river sits Evansville, Ind., home of David Williams, 52, and of a riverboat casino (a place where gambling games are played). During several years of gambling in that casino, Williams, a state auditor earning $35,000 a year, lost approximately $175,000. He had never gambled before the casino sent him a coupon for $20 worth of gambling.
+He visited the casino, lost the $20 and left. On his second visit he lost $800. The casino issued to him, as a good customer, a “Fun Card”, which when used in the casino earns points for meals and drinks, and enables the casino to track the user’s gambling activities. For Williams, these activities become what he calls “electronic heroin”.
+(41) ________. In 1997 he lost $21,000 to one slot machine in two days. In March 1997 he lost $72,186. He sometimes played two slot machines at a time, all night, until the boat docked at 5 a.m., then went back aboard when the casino opened at 9 a.m. Now he is suing the casino, charging that it should have refused his patronage because it knew he was addicted. It did know he had a problem.
+In March 1998 a friend of Williams’s got him involuntarily confined to a treatment center for addictions, and wrote to inform the casino of Williams’s gambling problem. The casino included a photo of Williams among those of banned gamblers, and wrote to him a “cease admissions” letter. Noting the “medical/psychological” nature of problem gambling behavior, the letter said that before being readmitted to the casino he would have to present medical/psychological information demonstrating that patronizing the casino would pose no threat to his safety or well-being.
+(42) ________.
+The Wall Street Journal reports that the casino has 24 signs warning: “Enjoy the fun... and always bet with your head, not over it.” Every entrance ticket lists a toll-free number for counseling from the Indiana Department of Mental Health. Nevertheless, Williams’s suit charges that the casino, knowing he was “helplessly addicted to gambling,” intentionally worked to “lure” him to “engage in conduct against his will.” Well.
+(43) ________.
+The fourth edition of the Diagnostic and Statistical Manual of Mental Disorders says “pathological gambling” involves persistent, recurring and uncontrollable pursuit less of money than of the thrill of taking risks in quest of a windfall.
+(44) ________. Pushed by science, or what claims to be science,society is reclassifying what once were considered character flaws or moral failings as personality disorders akin to physical disabilities.
+(45) ________.
+Forty-four states have lotteries, 29 have casinos, and most of these states are to varying degrees dependent on—you might say addicted to—revenues from wagering. And since the first Internet gambling site was created in 1995, competition for gamblers’ dollars has become intense. The Oct. 28 issue of Newsweek reported that 2 million gamblers patronize 1,800 virtual casinos every week. With $3.5 billion being lost on Internet wagers this year, gambling has passed pornography as the Web’s most profitable business.
 
-That's [actually] a pretty large effect [for a pretty small intervention], || Schwitzgebel says. 
-Psychologist Nina Strohminger (at the University of Pennsylvania), (who was not involved in the study), says | she wants the effect to be real but cannot rule out some unknown confounding variable. 
-And if real she notes, it might be reversible [by another nudge]: "Easy come, easy go."
-(That's = That is, cannot = can not)
 
-Schwitzgebel suspects | the greatest impact came from social influence -- || classmates or teaching assistants leading the discussions may have shared their own vegetarianism, showing it [as achievable or more common]. 
-[Second], the video may have had an emotional impact. 
-Least rousing, <he thinks>, was rational argument, || although his co-authors say | reason might play a bigger role.
-(came 为 come 的过去式。greatest 为 great 的最高级形式, bigger 为 big 的比较级形式)
-[Now] [there] searchers are probing the specific effects (of teaching style), teaching assistant's eating habits and students' video exposure [Meanwhile] | Schwitzgebel (who had predicted no effect-will) be eating his words.
+[A] Although no such evidence was presented, the casino’s marketing department continued to pepper him with mailings. And he entered the casino and used his Fun Card without being detected.
+[B] It is unclear what luring was required, given his compulsive behavior. And in what sense was his will operative?
+[C] By the time he had lost $5,000 he said to himself that if he could get back to even, he would quit. One night he won $5,500, but he did not quit.
+[D] Gambling has been a common feature of American life forever, but for a long time it was broadly considered a sin, or a social disease. Now it is a social policy: the most important and aggressive promoter of gambling in America is the government.
+[E] David Williams’s suit should trouble this gambling nation. But don’t bet on it.
+[F] It is worrisome that society is medicalizing more and more behavioral problems, often defining as addictions what earlier, sterner generations explained as weakness of will.
+[G] The anonymous, lonely, undistracted nature of online gambling is especially conducive to compulsive behavior. But even if the government knew how to move against Internet gambling, what would be its grounds for doing so?
 
-36. Scientists generally believe | that the effects (of ethics classes) are __________. 
-(A) hard to determine 
-(B) narrowly interpreted 
-(C) difficult to ignore 
-(D) poorly summarized
-37. Which of the following is a reason (for the researchers) [to study (meat-eating)]? 
-(A) It is common [among students]. 
-(B) It is a behavior (easy to measure). 
-(C) It is important to students' health. 
-(D) It is a hot topic [in ethics classes]
-38. Eric Schwitzgebel's previous findings suggest that ethics professors __________. 
-(A) are [seldom] critical of their students 
-(B) are less sociable [than other professors] 
-(C) are not sensitive to political issues 
-(D) are not [necessarily] [ethically] better
-(better 为 good 的比较级形式)
-39. Nina Strohminger thinks | that effect (of the intervention) is __________. 
-(A) permanent 
-(B) predictable 
-(C) uncertain 
-(D) unrepeatable 
-40. Eric Schwitzgebel suspects | that the students' change (in behavior __________). 
-(A) can bring psychological benefits 
-(B) can be analyzed [statistically] 
-(C) is a result (of multiple) factors 
-(D) is a sign (of self-development)
+Part C
+Directions:
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)
+Is it true that the American intellectual is rejected and considered of no account in his society? I am going to suggest that it is not true. Father Bruckberger told part of the story when he observed that it is the intellectuals who have rejected America. But they have done more than that. They have grown dissatisfied with the role of the intellectual. It is they, not America, who have become anti-intellectual.
+First, the object of our study pleads for definition. What is an intellectual? (46) I shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking in a Socratic (苏格拉底) way about moral problems. He explores such problems consciously, articulately, and frankly, first by asking factual questions, then by asking moral questions, finally by suggesting action which seems appropriate in the light of the factual and moral information which he has obtained. (47) His function is analogous to that of a judge, who must accept the obligation of revealing in as obvious a matter as possible the course of reasoning which led him to his decision.
+This definition excludes many individuals usually referred to as intellectuals—the average scientist, for one. (48) I have excluded him because, while his accomplishments may contribute to the solution of moral problems, he has not been charged with the task of approaching any but the factual aspects of those problems.Like other human beings, he encounters moral issues even in the everyday performance of his routine duties—he is not supposed to cook his experiments, manufacture evidence, or doctor his reports. (49) But his primary task is not to think about the moral code which governs his activity, any more than a businessman is expected to dedicate his energies to an exploration of rules of conduct in business. During most of his waking life he will take his code for granted, as the businessman takes his ethics.
+The definition also excludes the majority of teachers, despite the fact that teaching has traditionally been the method whereby many intellectuals earn their living. (50) They may teach very well, and more than earn their salaries, but most of them make little or no independent reflections on human problems which involve moral judgment. This description even fits the majority of eminent scholars. Being learned in some branch of human knowledge is one thing; living in “public and illustrious thoughts,” as Emerson would say, is something else.
+Section III Writing
+Part A
+51. Directions
+You want to contribute to Project Hope by offering financial aid to a child in a remote area. Write a letter to the department concerned, asking them to help find a candidate. You should specify what kind of child you want to help and how you will carry out your plan.
+Write your letter with no less than 100 words. Write it neatly on ANSWER SHEET 2.
+Do not sign your name at the end of the letter; use “Li Ming” instead.
+Do not write the address. (10 points)
+Part B
+52. Directions:
+Study the following photos carefully and write an essay in which you should
+1. describe the photos briefly,
+2. interpret the social phenomenon reflected by them, and
+3. give your point of view.
+You should write 160-200 words neatly on ANSWER SHEET 2. (20 points)
+
+2005年全国硕士研究生入学统一考试英语试题
+Section I Use of English
+Directions:
+Read the following text. Choose the best word(s) for each numbered blank and mark [A], [B], [C] or [D] on ANSWER SHEET 1 (10 points)
+The human nose is an underrated tool. Humans are often thought to be insensitive smellers compared with animals, 1 this is largely because, 2animals, we stand upright. This means that our noses are 3 to perceiving those smells which float through the air, 4 the majority of smells which stick to surfaces. In fact, 5 , we are extremely sensitive to smells, 6 we do not generally realize it. Our noses are capable of 7 human smells even when these are 8 to far below one part in one million.
+Strangely, some people find that they can smell one type of flower but not another, 9 others are sensitive to the smells of both flowers. This may be because some people do not have the genes necessary to generate 10 smell receptors in the nose. These receptors are the cells which sense smells and send 11to the brain. However, it has been found that even people insensitive to a certain smell12 can suddenly become sensitive to it when 13to it often enough.
+The explanation for insensitivity to smell seems to be that brain finds it 14 to keep all smell receptors working all the time but can 15 new receptors if necessary. This may 16 explain why we are not usually sensitive to our own smells—we simply do not need to be. We are not 17 of the usual smell of our own house, but we 18 new smells when we visit someone else’s. The brain finds it best to keep smell receptors 19 for unfamiliar and emergency signals 20 the smell of smoke, which might indicate the danger of fire.
+1.[A] although     	[B] as          	[C] but         	[D] while
+2.[A] above       	[B] unlike       	[C] excluding    	[D] besides
+3.[A] limited      	[B] committed   	[C] dedicated    	[D] confined
+4.[A] catching     	[B] ignoring     	[C] missing      	[D] tracking
+5.[A] anyway      	[B] though      	[C] instead      	[D] therefore
+6.[A] even if       	[B] if only      	[C] only if      	[D] as if
+7.[A]distinguishing 	[B] discovering  	[C] determining  	[D] detecting
+8.[A] diluted      	[B] dissolved    	[C] dispersed    	[D] diffused  
+9.[A] when       	[B] since        	[C] for         	[D] whereas
+10.[A] unusual    	[B] particular    	[C] unique      	[D] typical
+11.[A] signs      	[B] stimuli      	[C] messages    	[D] impulses
+12.[A] at first     	[B] at all        	[C] at large      	[D] at times
+13.[A] subjected   	[B] left         	[C] drawn       	[D] exposed
+14.[A] ineffective  	[B] incompetent  	[C] inefficient    	[D] insufficient
+15.[A] introduce   	[B] summon     	[C] trigger      	[D] create
+16.[A] still        	[B] also        	[C] otherwise    	[D] nevertheless
+17.[A] sure       	[B] sick         	[C] aware       	[D] tired
+18.[A] tolerate    	[B] repel     	[C] neglect    	[D] notice
+19.[A] available   	[B] reliable  	[C] identifiable  	[D] suitable
+20.[A] similar to   	[B] such as   	[C] along with  	[D] aside from
+
+
+
+Section II Reading Comprehension
+Part A
+Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C] or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+   Everybody loves a fat pay rise. Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one. Indeed, if he has a reputation for slacking, you might even be outraged. Such behaviour is regarded as “all too human”, with the underlying assumption that other animals would not be capable of this finely developed sense of grievance. But a study by Sarah Brosnan and Frans de Waal of Emory University in Atlanta, Georgia, which has just been published in Nature, suggests that it is all too monkey, as well.
+   The researchers studied the behaviour of female brown capuchin monkeys. They look cute. They are good-natured, co-operative creatures, andthey share their food readily. Above all, like their female human counterparts, they tend to pay much closer attention to the value of “goods and services” than males.
+Such characteristics make them perfect candidates for Dr. Brosnan’s and Dr. de Waal’s study. The researchers spent two years teaching their monkeys to exchange tokens for food. Normally, the monkeys were happy enough to exchange pieces of rock for slices of cucumber. However, when two monkeys were placed in separate but adjoining chambers, so that each could observe what the other was getting in return for its rock, their behaviour became markedly different.
+   In the world of capuchins grapes are luxury goods (and much preferable to cucumbers). So when one monkey was handed a grape in exchange for her token, the second was reluctant to hand hers over for a mere piece of cucumber. And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber, or refused to accept the slice of cucumber. Indeed, the mere presence of a grape in the other chamber (without an actual monkey to eat it) was enough to induce resentment in a female capuchin.
+   The researchers suggest that capuchin monkeys, like humans, are guided by social emotions. In the wild, they are a co-operative, group-living species. Such co-operation is likely to be stable only when each animal feels it is not being cheated. Feelings of righteous indignation, it seems, are not the preserve of people alone. Refusing a lesser reward completely makes these feelings abundantly clear to other members of the group. However, whether such a sense of fairness evolved independently in capuchins and humans, or whether it stems from the common ancestor that the species had 35 million years ago, is, as yet, an unanswered question.
+21. In the opening paragraph, the author introduces his topic by ________.
+[A] posing a contrast	[B] justifying an assumption
+[C] making a comparison	[D] explaining a phenomenon
+22. The statement “it is all too monkey” (Last line, Paragraph l) implies that ________.
+[A] monkeys are also outraged by slack rivals	[B] resenting unfairness is also monkeys’ nature
+[C] monkeys, like humans, tend to be jealous of each other[D] no animals other than monkeys can develop such emotions
+23. Female capuchin monkeys were chosen for the research most probably because they are ________.
+[A] more inclined to weigh what they get	[B] attentive to researchers’ instructions
+[C] nice in both appearance and temperament	[D] more generous than their male companions
+24. Dr. Brosnan and Dr. de Waal have eventually found in their study that the monkeys ________.
+[A] prefer grapes to cucumbers	[B] can be taught to exchange things
+[C] will not be co-operative if feeling cheated	[D] are unhappy when separated from others
+
+25. What can we infer from the last paragraph?
+[A] Monkeys can be trained to develop social emotions.	
+[B] Human indignation evolved from an uncertain source.
+[C] Animals usually show their feelings openly as humans do.
+[D] Cooperation among monkeys remains stable only in the wild.
+
+Text 2
+   Do you remember all those years when scientists argued that smoking would kill us but the doubters insisted that we didn’t know for sure? That the evidence was inconclusive, the science uncertain? That the antismoking lobby was out to destroy our way of life and the government should stay out of the way? Lots of Americans bought that nonsense, and over three decades, some 10 million smokers went to early graves.
+   There are upsetting parallels today, as scientists in one wave after another try to awaken us to the growing threat of global warming. The latest was a panel from the National Academy of Sciences, enlisted by the White House, to tell us that the Earth’s atmosphere is definitely warming and that the problem is largely man-made. The clear message is that we should get moving to protect ourselves. The president of the National Academy, Bruce Alberts, added this key point in the preface to the panel’s report: “Science never has all the answers. But science does provide us with the best available guide to the future, and it is critical that our nation and the world base important policies on the best judgments that science can provide concerning the future consequences of present actions.”
+   Just as on smoking, voices now come from many quarters insisting that the science about global warming is incomplete, that it’s OK to keep pouring fumes into the air until we know for sure. This is a dangerous game: by the time 100 percent of the evidence is in, it may be too late. With the risks obvious and growing, a prudent people would take out an insurance policy now.
+   Fortunately, the White House is starting to pay attention. But it’s obvious that a majority of the president’s advisers still don’t take global warming seriously. Instead of a plan of action, they continue to press for more research—a classic case of “paralysis by analysis”.
+   To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research. But research alone is inadequate. If the Administration won’t take the legislative initiative, Congress should help to begin fashioning conservation measures. A bill by Democratic Senator Robert Byrd of West Virginia, which would offer financial incentives for private industry, is a promising start. Many see that the country is getting ready to build lots of new power plants to meet our energy needs. If we are ever going to protect the atmosphere, it is crucial that those new plants be environmentally sound.
+26. An argument made by supporters of smoking was that ________.
+[A] there was no scientific evidence of the correlation between smoking and death
+[B] the number of early deaths of smokers in the past decades was insignificant
+[C] people had the freedom to choose their own way of life
+[D] antismoking people were usually talking nonsense
+27. According to Bruce Alberts, science can serve as ________.
+[A] a protector     [B] a judge     [C] a critic     [D] a guide
+28. What does the author mean by “paralysis by analysis” (Last line, Paragraph 4)?
+[A] Endless studies kill action. 	[B] Careful investigation reveals truth.
+[C] Prudent planning hinders progress. 	[D] Extensive research helps decision-making.
+
+
+29. According to the author, what should the Administration do about global warming?
+[A] Offer aid to build cleaner power plants.	[B] Raise public awareness of conservation.
+[C] Press for further scientific research.	[D] Take some legislative measures.
+30. The author associates the issue of global warming with that of smoking because ______.
+[A] they both suffered from the government’s negligence	[B] a lesson from the latter is applicable to the former
+[C] the outcome of the latter aggravates the former	[D] both of them have turned from bad to worse
+
+
+Text 3
+   Of all the components of a good night’s sleep, dreams seem to be least within our control. In dreams, a window opens into a world where logic is suspended and dead people speak. A century ago, Freud formulated his revolutionary theory that dreams were the disguised shadows of our unconscious desires and fears; by the late 1970s, neurologists had switched to thinking of them as just “mental noise”—the random byproducts of the neural-repair work that goes on during sleep. Now researchers suspect that dreams are part of the mind’s emotional thermostat, regulating moods while the brain is “off-line.” And one leading authority says that these intensely powerful mental events can be not only harnessed but actually brought under conscious control, to help us sleep and feel better. “It’s your dream,” says Rosalind Cartwright, chair of psychology at Chicago’s Medical Center. “If you don’t like it, change it.”
+   Evidence from brain imaging supports this view. The brain is as active during REM (rapid eye movement) sleep—when most vivid dreams occur—as it is when fully awake, says Dr. Eric Nofzinger at the University of Pittsburgh. But not all parts of the brain are equally involved; the limbic system (the “emotional brain”) is especially active, while the prefrontal cortex (the center of intellect and reasoning) is relatively quiet. “We wake up from dreams happy or depressed, and those feelings can stay with us all day.” says Stanford sleep researcher Dr. William Dement.
+   The link between dreams and emotions shows up among the patients in Cartwright’s clinic. Most people seem to have more bad dreams early in the night, progressing toward happier ones before awakening, suggesting that they are working through negative feelings generated during the day. Because our conscious mind is occupied with daily life we don’t always think about the emotional significance of the day’s events—until, it appears, we begin to dream.
+   And this process need not be left to the unconscious. Cartwright believes one can exercise conscious control over recurring bad dreams. As soon as you awaken, identify what is upsetting about the dream. Visualize how you would like it to end instead; the next time it occurs, try to wake up just enough to control its course. With much practice people can learn to, literally, do it in their sleep.
+   At the end of the day, there’s probably little reason to pay attention to our dreams at all unless they keep us from sleeping or “we wake up in a panic,” Cartwright says. Terrorism, economic uncertainties and general feelings of insecurity have increased people’s anxiety. Those suffering from persistent nightmares should seek help from a therapist. For the rest of us, the brain has its ways of working through bad feelings. Sleep—or rather dream—on it and you’ll feel better in the morning.
+31. Researchers have come to believe that dreams ________.
+[A] can be modified in their courses	[B] are susceptible to emotional changes
+[C] reflect our innermost desires and fears	[D] are a random outcome of neural repairs
+32. By referring to the limbic system, the author intends to show ________.
+[A] its function in our dreams	[B] the mechanism of REM sleep
+[C] the relation of dreams to emotions	[D] its difference from the prefrontal cortex
+33. The negative feelings generated during the day tend to ________.
+[A] aggravate in our unconscious mind	[B] develop into happy dreams
+[C] persist till the time we fall asleep	[D] show up in dreams early at night
+
+34. Cartwright seems to suggest that ________.
+[A] waking up in time is essential to the ridding of bad dreams
+[B] visualizing bad dreams helps bring them under control
+[C] dreams should be left to their natural progression
+[D] dreaming may not entirely belong to the unconscious
+35. What advice might Cartwright give to those who sometimes have bad dreams?
+[A] Lead your life as usual.	[B] Seek professional help.
+[C] Exercise conscious control.	[D] Avoid anxiety in the daytime.
+Text 4
+   Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift. Nor do they aspire to such command themselves. In his latest book, Doing Our Own Thing: The Degradation of language and Music and Why We Should  Like, Care, John McWhorter, a linguist and controversialist of mixed liberal and conservative views, sees the triumph of 1960s counter-culture as responsible for the decline of formal English.
+   Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is language history and change, and he sees the gradual disappearance of “whom”, for example, to be natural and no more regrettable than the loss of the case-endings of Old English.
+   But the cult of the authentic and the personal, “doing our own thing”, has spelt the death of formal speech, writing, poetry and music. While even the modestly educated sought an elevated tone when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture spoken English on the page. Equally, in poetry, the highly personal, performative genre is the only form that could claim real liveliness. In both oral and written English, talking is triumphing over speaking, spontaneity over craft.
+   Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable. But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive—there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper.
+Russians have a deep love for their own language and carry large chunks of memorized poetry in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. Mr. McWhorter acknowledges that formal language is not strictly necessary, and proposes no radical education reforms—he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.
+36. According to McWhorter, the decline of formal English ________.
+[A] is inevitable in radical education reforms
+[B] is but all too natural in language development
+[C] has caused the controversy over the counter-culture
+[D] brought about changes in public attitudes in the 1960s
+37. The word “talking” (Line 6, Paragraph 3) denotes ________.
+[A] modesty	[B] personality
+[C] liveliness	[D] informality
+
+
+38. To which of the following statements would McWhorter most likely agree?
+[A] Logical thinking is not necessarily related to the way we talk.
+[B] Black English can be more expressive than standard English.
+[C] Non-standard varieties of human language are just as entertaining.
+[D] Of all the varieties, standard English can best convey complex ideas.
+39. The description of Russians’ love of memorizing poetry shows the author’s ________.
+[A] interest in their language	[B] appreciation of their efforts
+[C] admiration for their memory	[D] contempt for their old-fashionedness
+40. According to the last paragraph, “paper plates” is to “china” as ________.
+[A] “temporary” is to “permanent”	[B] “radical” is to “conservative”
+[C] “functional” is to “artistic”	[D] “humble” is to “noble”
+
+Part B
+Directions:
+In the following text, some sentences have been removed. For Questions 41-45, choose the most suitable one from the list A-G to fit into each of the numbered blanks. There are two extra choices, which do not fit in any of the gaps. Mark your answers on ANSWER SHEET 1. (10 points)
+Canada’s premiers (the leaders of provincial governments), if they have any breath left after complaining about Ottawa at their late July annual meeting, might spare a moment to do something, together, to reduce health-care costs.
+They’re all groaning about soaring health budgets, the fastest-growing component of which are pharmaceutical costs.
+(41) ____________
+What to do? Both the Romanow commission and the Kirby committee on health care—to say nothing of reports from other experts—recommended the creation of a national drug agency. Instead of each province having its own list of approved drugs, bureaucracy, procedures and limited bargaining power, all would pool resources, work with Ottawa, and create a national institution.
+(42) _____________
+But “national” doesn’t have to mean that. “National” could mean interprovincial—provinces combining efforts to create one body.
+Either way, one benefit of a “national” organization would be to negotiate better prices, if possible, with drug manufacturers. Instead of having one province—or a series of hospitals within a province—negotiate a price for a given drug on the provincial list, the national agency would negotiate on behalf of all provinces.
+Rather than, say, Quebec, negotiating on behalf of seven million people, the national agency would negotiate on behalf of 31 million people. Basic economics suggests the greater the potential consumers, the higher the likelihood of a better price.
+(43) _____________
+A small step has been taken in the direction of a national agency with the creation of the Canadian Co-ordinating Office for Health Technology Assessment, funded by Ottawa and the provinces. Under it, a Common Drug Review recommends to provincial lists which new drugs should be included. Predictably, and regrettably, Quebec refused to join.
+A few premiers are suspicious of any federal-provincial deal-making. They (particularly Quebec and Alberta) just want Ottawa to fork over additional billions with few, if any, strings attached. That’s one reason why the idea of a national list hasn’t gone anywhere, while drug costskeep rising fast.
+(44) _____________
+Premiers love to quote Mr. Romanow’s report selectively, especially the parts about more federal money. Perhaps they should read what he had to say about drugs: “A national drug agency would provide governments more influence on pharmaceutical companies in order to constrain the ever-increasing cost of drugs.”
+(45) _____________
+So when the premiers gather in Niagara Falls to assemble their usual complaint list, they should also get cracking about something in their jurisdiction that would help their budgets and patients.
+[A] Quebec’s resistance to a national agency is provincialist ideology. One of the first advocates for a national list was a researcher at Laval University. Quebec’s Drug Insurance Fund has seen its costs skyrocket with annual increases from 14.3 per cent to 26.8 per cent!
+[B] Or they could read Mr. Kirby’s report: “the substantial buying power of such an agency would strengthen the public prescription-drug insurance plans to negotiate the lowest possible purchase prices from drug companies.”
+[C] What does “national” mean? Roy Romanow and Senator Michael Kirby recommended a federal-provincial body much like the recently created National Health Council.
+[D] The problem is simple and stark: health-care costs have been, are, and will continue to increase faster than government revenues.
+[E] According to the Canadian Institute for Health Information, prescription drug costs have risen since 1997 at twice the rate of overall health-care spending. Part of the increase comes from drugs being used to replace other kinds of treatments. Part of it arises from new drugs costing more than older kinds. Part of it is higher prices.
+[F] So, if the provinces want to run the health-care show, they should prove they can run it, starting with an interprovincial health list that would end duplication, save administrative costs, prevent one province from being played off against another, and bargain for better drug prices.
+[G] Of course, the pharmaceutical companies will scream. They like divided buyers; they can lobby better that way. They can use the threat of removing jobs from one province to another. They can hope that, if one province includes a drug on its list, the pressure will cause others toinclude it on theirs. They wouldn’t like a national agency, but self-interest would lead them to deal with it.
+
+Part C
+Directions:
+   Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)
+It is not easy to talk about the role of the mass media in this overwhelmingly significant phase in European history. History and news become confused, and one’s impressions tend to be a mixture of skepticism and optimism. (46)Television is one of the means by which these feelings are created and conveyed—and perhaps never before has it served so much to connect different peoples and nations as in the recent events in Europe. The Europe that is now forming cannot be anything other than its peoples, their cultures and national identities. With this in mind we can begin to analyze the European television scene. (47) In Europe, as elsewhere, multi-media groups have been increasingly successful; groups which bring together television, radio, newspapers, magazines and publishing houses that work in relation to one another.One Italian example would be the Berlusconi group, while abroad Maxwell and Murdoch come to mind.
+Clearly, only the biggest and most flexible television companies are going to be able to compete in such a rich and hotly-contested market. (48) This alone demonstrates that the television business is not an easy world to survive in, a fact underlined by statistics that show that out of eighty European television networks, no less than 50% took a loss in 1989.
+    Moreover, the integration of the European community will oblige television companies to cooperate more closely in terms of both production and distribution.
+    (49) Creating a “European identity” that respects the different cultures and traditions which go to make up the connecting fabric of the Old Continent is no easy task and demands a strategic choice—that of producing programs in Europe for Europe. This entails reducing our dependence on the North American market, whose programs relate to experiences and cultural traditions which are different from our own.
+In order to achieve these objectives, we must concentrate more on co-productions, the exchange of news, documentary services and training. This also involves the agreements between European countries for thecreation of a European bank for Television Production which, on the model of the European Investments Bank, will handle the finances necessary for production costs. (50)In dealing with a challenge on such a scale, it is no exaggeration to say, “United we stand, divided we fall”—and if I had to choose a slogan it would be “Unity in our diversity.” A unity of objectives that nonetheless respect the varied peculiarities of each country.
+
+Section III Writing
+Part A
+51. Directions:
+Two months ago you got a job as an editor for the magazine Designs & Fashions. But now you find that the work is not what you expected. You decide to quit. Write a letter to your boss, Mr. Wang, telling him your decision, stating your reason(s), and making an apology.
+Write your letter with no less than 100 words. Write it neatly on ANSWER SHEET 2. Do not sign your own name at the end of the letter; use “Li Ming” instead. You do not need to write the address. (10 points)
+Part B
+52. Directions:
+Write an essay of 160-200 words based on the following drawing. In your essay, you should first describe the drawing, then interpret its meaning, and give your comment on it.
+You should write neatly on ANSWER SHEET 2. (20 points)
+
+
+2004年全国攻读硕士学位研究生入学考试英语试题
+Section I   Use of English
+
+Directions：
+Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C or D on ANSWER SHEET 1. (10 points)
+
+Many theories concerning the causes of juvenile delinquency (crimes committed by young people) focus either on the individual or on society as the major contributing influence. Theories   1  on the individual suggest that children engage in criminal behavior   2   they were not sufficiently penalized for previous misdeeds or that they have learned criminal behavior through     3   with others. Theories focusing on the role of society suggest that children commit crimes in   4   to their failure to rise above their socioeconomic status,    5   as a rejection of middle-class values. 
+Most theories of juvenile delinquency have focused on children from disadvantaged families, _ 6   the fact that children from wealthy homes also commit crimes. The latter may commit crimes   7     lack of adequate parental control. All theories, however, are tentative and are   8   to criticism. 
+Changes in the social structure may indirectly    9    juvenile crime rates. For example, changes in the economy that   10   to fewer job opportunities for youth and rising unemployment   11   make gainful employment increasingly difficult to obtain. The resulting discontent may in   12    lead more youths into criminal behavior.
+Families have also   13   changes these years. More families consist of one-parent households or two working parents;    14 ，children are likely to have less supervision at home    15    was common in the traditional family   16   . This lack of parental supervision is thought to be an influence on juvenile crime rates. Other __17_   causes of offensive acts include frustration or failure in school, the increased __ 18 _ of drugs and alcohol, and the growing   19   of child abuse and child neglect. All these conditions tend to increase the probability of a child committing a criminal act,    20   a direct causal relationship has not yet been established.
+ 
+1. [A] acting         	[B] relying         	[C] centering         	[D] commenting
+2. [A] before         	[B] unless          	[C] until             	[D] because
+3. [A] interaction    	[B] assimilation    	[C] cooperation       	[D] consultation
+4. [A] return         	[B] reply           	[C] reference         	[D] response
+5. [A] or             	[B] but rather      	[C] but              	[D] or else
+6. [A] considering    	[B] ignoring        	[C] highlighting      	[D] discarding
+7. [A] on            	[B] in              	[C] for              	[D] with
+8. [A] immune       	[B] resistant       	[C] sensitive         	[D] subject
+9. [A] affect         	[B] reduce          	[C] chock            	[D] reflect
+10. [A] point         	[B] lead            	[C] come            	[D] amount
+11. [A] in general     	[B] on average      	[C] by contrast       	[D] at length
+12. [A] case         	[B] short           	[C] turn             	[D] essence
+13. [A] survived      	[B] noticed         	[C] undertaken       	[D] experienced
+14.[A] contrarily    	[B] consequently    	[C] similarly         	[D] simultaneously
+15. [A] than         	[B] that            	[C] which           	[D] as 
+16. [A] system       	[B] structure       	[C] concept          	[D] heritage
+17. [A] assessable     	[B] identifiable    	[C] negligible        	[D] incredible
+18. [A] expense       	[B] restriction     	[C] allocation        	[D] availability
+19. [A] incidence      	[B] awareness       	[C] exposure         	[D] popularity
+20. [A] provided     	[B] since           	[C] although         	[D] supposing
+
+
+                            Section II   Reading Comprehension
+Part A 
+Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C] or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+
+Hunting for a job late last year, lawyer Gant Redmon stumbled across CareerBuilder, a job database on the Internet. He searched it with no success but was attracted by the site’s “personal search agent”. It’s an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. Redmon chose the keywords legal, intellectual property and Washington, D.C. Three weeks later, he got his first notification of an opening. “I struck gold,” says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company. 
+With thousands of career-related sites on the Internet, finding promising openings can he time-consuming and inefficient. Search agents reduce the need for repeated visits to the databases. But although a search agent worked for Redmon, career experts see drawbacks. Narrowing your criteria, for example, may work against you: “Every time you answer a question you eliminate a possibility,” says one expert. 
+For any job search, you should start with a narrow concept—what you think you want to do—then broaden it. “None of these programs do that,” says another expert. “There’s no career counseling implicit in all of this.” Instead, the best strategy is to use the agent as a kind of tip service to keep abreast of jobs in a particular database; when you get E-mail, consider it a reminder to check the database again. “I would not rely on agents for finding everything that is added to a database that might interest me,” says the author of a job-searching guide. 
+Some sites design their agents to tempt job hunters to return. When CareerSite’s agent sends out messages to those who have signed up for its service, for example, it includes only three potential jobs—those it considers the best matches. There may be more matches in the database; job hunters will have to visit the site again to find them—and they do. “On the day after we send our messages, we see a sharp increase in our traffic,” says Seth Peets, vice president of marketing for CareerSite.  
+Even those who aren’t hunting for jobs may find search agents worthwhile. Some use them to keep a close watch on the demand for their line of work or gather information on compensation to arm themselves when negotiating for a raise. Although happily employed, Redmon maintains his agent at CareerBuilder. “You always keep your eyes open,” he says. Working with a personal search agent means having another set of eyes looking out for you. 
+21. How did Redmon find his job?
+[A] By searching openings in a job database.	[B] By posting a matching position in a database.
+[C] By using a special service of a database.	[D] By E-mailing his resume to a database.
+22. Which of the following can be a disadvantage of search agents?
+[A] Lack of counseling.             	[B] Limited number of visits.
+[C] Lower efficiency.               	[D] Fewer successful matches.
+23. The expression “tip service” (Line 4, Paragraph 3) most probably means    .
+[A] advisory.                      	[B] compensation.   
+[C] interaction.                   	[D] reminder.
+24. Why does CareerSite’s agent offer each job hunter only three job options?
+[A] To focus on better job matches.	[B] To attract more returning visits.
+[C] To reserve space for more messages.	[D] To increase the rate of success.
+25. Which of the following is true according to the text? 
+[A] Personal search agents are indispensable to job-hunters.
+[B] Some sites keep E-mailing job seekers to trace their demands.
+[C] Personal search agents are also helpful to those already employed. 
+[D] Some agents stop sending information to people once they are employed. 
+
+Text 2
+
+Over the past century, all kinds of unfairness and discrimination have been condemned or made illegal. But one insidious form continues to thrive: alphabetism. This, for those as yet unaware of such a disadvantage, refers to discrimination against those whose surnames begin with a letter in the lower half of the alphabet. 
+It has long been known that a taxi firm called AAAA cars has a big advantage over Zodiac cars when customers thumb through their phone directories. Less well known is the advantage that Adam Abbott has in life over Zoë Zysman. English names are fairly evenly spread between the halves of the alphabet. Yet a suspiciously large number of top people have surnames beginning with letters between A and K.  
+Thus the American president and vice-president have surnames starting with B and C respectively; and 26 of George Bush’s predecessors (including his father) had surnames in the first half of the alphabet against just 16 in the second half. Even more striking, six of the seven heads of government of the G7 rich countries are alphabetically advantaged (Berlusconi, Blair, Bush, Chirac, Chrétien and Koizumi). The world’s three top central bankers (Greenspan, Duisenberg and Hayami) are all close to the top of the alphabet, even if one of them really uses Japanese characters. As are the world's five richest men (Gates, Buffett, Allen, Ellison and Albrecht).
+Can this merely be coincidence? One theory, dreamt up in all the spare time enjoyed by the alphabetically disadvantaged, is that the rot sets in early. At the start of the first year in infant school, teachers seat pupils alphabetically from the front, to make it easier to remember their names. So short-sighted Zysman junior gets stuck in the back row, and is rarely asked the improving questions posed by those insensitive teachers. At the time the alphabetically disadvantaged may think they have had a lucky escape. Yet the result may be worse qualifications, because they get less individual attention, as well as less confidence in speaking publicly. 
+The humiliation continues. At university graduation ceremonies, the ABCs proudly get their awards first; by the time they reach the Zysmans most people are literally having a ZZZ. Shortlists for job interviews, election ballot papers, lists of conference speakers and attendees: all tend to be drawn up alphabetically, and their recipients lose interest as they plough through them.
+
+26. What does the author intend to illustrate with AAAA cars and Zodiac cars? 
+[A] A kind of overlooked inequality. 	[B] A type of conspicuous bias.
+[C] A type of personal prejudice.	[D] A kind of brand discrimination.
+27. What can we infer from the first three paragraphs? 
+[A] In both East and West, names are essential to success. 
+[B] The alphabet is to blame for the failure of Zoë Zysman.
+[C] Customers often pay a lot of attention to companies’ names.
+[D] Some form of discrimination is too subtle to recognize. 
+28. The 4th paragraph suggests that      .
+[A] questions are often put to the more intelligent students
+[B] alphabetically disadvantaged students often escape from class
+[C] teachers should pay attention to all of their students
+[D] students should be seated according to their eyesight
+29. What does the author mean by “most people are literally having a ZZZ” (Lines 2-3, Paragraph 5)? 
+[A] They are getting impatient. 	[B] They are noisily dozing off.
+[C] They are feeling humiliated.	[D] They are busy with word puzzles.
+30.  Which of the following is true according to the text? 
+[A] People with surnames beginning with N to Z are often ill-treated. 
+[B] VIPs in the Western world gain a great deal from alphabetism. 
+[C] The campaign to eliminate alphabetism still has a long way to go. 
+[D] Putting things alphabetically may lead to unintentional bias.
+Text 3
+
+When it comes to the slowing economy, Ellen Spero isn't biting her nails just yet. But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either. Most of her clients spend $12 to $50 weekly, but last month two longtime customers suddenly stopped showing up. Spero blames the softening economy. “I'm a good economic indicator,” she says. “I provide a service that people can do without when they're concerned about saving some dollars.” So Spero is downscaling, shopping at middle-brow Dillard's department store near her suburban Cleveland home, instead of Neiman Marcus. “I don't know if other clients are going to abandon me, too,” she says.  
+Even before Alan Greenspan's admission that America's red-hot economy is cooling, lots of working folks had already seen signs of the slowdown themselves. From car dealerships to Gap outlets, sales have been lagging for months as shoppers temper their spending. For retailers, who last year took in 24 percent of their revenue between Thanksgiving and Christmas, the cautious approach is coming at a crucial time. Already, experts say, holiday sales are off 7 percent from last year's pace. But don't sound any alarms just yet. Consumers seem only mildly concerned, not panicked, and many say they remain optimistic about the economy's long-term prospects even as they do some modest belt-tightening.  
+Consumers say they're not in despair because, despite the dreadful headlines, their own fortunes still feel pretty good. Home prices are holding steady in most regions. In Manhattan, “there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses,” says broker Barbara Corcoran. In San Francisco, prices are still rising even as frenzied overbidding quiets. “Instead of 20 to 30 offers, now maybe you only get two or three," says John Tealdi, a Bay Area real-estate broker. And most folks still feel pretty comfortable about their ability to find and keep a job. 
+Many folks see silver linings to this slowdown. Potential home buyers would cheer for lower interest rates. Employers wouldn't mind a little fewer bubbles in the job market. Many consumers seem to have been influenced by stock-market swings, which investors now view as a necessary ingredient to a sustained boom. Diners might see an upside, too. Getting a table at Manhattan's hot new Alain Ducasse restaurant used to be impossible. Not anymore. For that, Greenspan & Co. may still be worth toasting. 
+31. By “Ellen Spero isn’t biting her nails just yet” (Line 1, Paragraph 1), the author means_____.
+[A] Spero can hardly maintain her business.	[B] Spero is too much engaged in her work.
+[C] Spero has grown out of her bad habit.  	[D] Spero is not in a desperate situation.
+32. How do the public feel about the current economic situation?
+[A] Optimistic.   [B] Confused.  [C] Carefree.  [D] Panicked.
+33. When mentioning “the $4 million to $10 million range”(Lines 3, Paragraph 3), the author is talking about _______
+[A] gold market. [B] real estate.   [C] stock exchange.  [D] venture investment.
+34. Why can many people see “silver linings” to the economic slowdown?
+[A] They would benefit in certain ways. 	[B] The stock market shows signs of recovery. 
+[C] Such a slowdown usually precedes a boom. 	[D] The purchasing power would be enhanced.
+35. To which of the following is the author likely to agree? 
+[A] A new boom, on the horizon.	[B] Tighten the belt, the single remedy.
+[C] Caution all right, panic not.	[D] The more ventures, the more chances.
+
+Text 4
+
+Americans today don't place a very high value on intellect. Our heroes are athletes, entertainers, and entrepreneurs, not scholars. Even our schools are where we send our children to get a practical education—not to pursue knowledge for the sake of knowledge. Symptoms of pervasive anti-intellectualism in our schools aren't difficult to find. 
+“Schools have always been in a society where practical is more important than intellectual,” says education writer Diane Ravitch. “Schools could be a counterbalance.” Ravitch's latest book. Left Back: A Century of Failed School Reforms, traces the roots of anti-intellectualism in our schools, concluding they are anything but a counterbalance to the American distaste for intellectual pursuits.  
+But they could and should be. Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control. Without the ability to think critically, to defend their ideas and understand the ideas of others, they cannot fully participate in our democracy. Continuing along this path, says writer Earl Shorris, “We will become a second-rate country. We will have a less civil society.” 
+“Intellect is resented as a form of power or privilege,” writes historian and professor Richard Hofstadter in Anti-intellectualism in American Life, a Pulitzer-Prize winning book on the roots of anti-intellectualism in US politics, religion, and education. From the beginning of our history, says Hofstadter, our democratic and populist urges have driven us to reject anything that smells of elitism. Practicality, common sense, and native intelligence have been considered more noble qualities than anything you could learn from a book. 
+Ralph Waldo Emerson and other Transcendentalist philosophers thought schooling and rigorous book learning put unnatural restraints on children: “We are shut up in schools and college recitation rooms for 10 or 15 years and come out at last with a bellyful of words and do not know a thing.”Mark Twain's Huckleberry Finn exemplified American anti-intellectualism. Its hero avoids being civilized—going to school and learning to read—so he can preserve his innate goodness. 
+Intellect, according to Hofstadter, is different from native intelligence, a quality we reluctantly admire. Intellect is the critical, creative, and contemplative side of the mind. Intelligence seeks to grasp, manipulate, re-order, and adjust, while intellect examines, ponders, wonders, theorizes, criticizes, and imagines.  
+School remains a place where intellect is mistrusted. Hofstadter says our country's educational system is in the grips of people who “joyfully and militantly proclaim their hostility to intellect and their eagerness to identify with children who show the least intellectual promise.”
+
+36. What do American parents expect their children to acquire in school?
+[A] The habit of thinking independently. 	[B] Profound knowledge of the world. 
+[C] Practical abilities for future career. 	[D] The confidence in intellectual pursuits.
+37. We can learn from the text that Americans have a history of________.
+[A] undervaluing intellect.	[B] favoring intellectualism. 
+[C] supporting school reform. 	[D] suppressing native intelligence.
+38. The views of Raviteh and Emerson on schooling are ______.
+[A] identical.    [B] similar.    [C] complementary.    [D] opposite.
+39. Emerson, according to the text, is probably _________.
+[A] a pioneer of education reform. 	[B] an opponent of intellectualism.
+[C] a scholar in favor of intellect.	[D] an advocate of regular schooling.
+40. What does the author think of intellect? 
+[A] It is second to intelligence. 	[B] It evolves from common sense. 
+[C] It is to be pursued.  	[D] It underlies power
+
+
+Part B
+Directions:
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points) 
+
+The relation of language and mind has interested philosophers for many centuries. (41) The Greeks assumed that the structure of language had some connection with the process of thought, which took root in Europe long before people realized how diverse languages could be. 
+Only recently did linguists begin the serious study of languages that were very different from their own. Two anthropologist-linguists, Franz Boas and Edward Sapir, were pioneers in describing many native languages of North and South America during the first half of the twentieth century. (42) We are obliged to them because some of these languages have since vanished, as the peoples who spoke them died out or became assimilated and lost their native languages. Other linguists in the earlier part of this century, however, who were less eager to deal with bizarre data from “exotic” language, were not always so grateful. (43) The newly described languages were often so strikingly different from the well studied languages of Europe and Southeast Asia that some scholars even accused Boas and Sapir of fabricating their data. Native American languages are indeed different, so much so in fact that Navajo could be used by the US military as a code during World War II to send secret messages. 
+Sapir’s pupil, Benjamin Lee Whorf, continued the study of American Indian languages. (44) Being interested in the relationship of language and thought, Whorf developed the idea that the structure of language determines the structure of habitual thought in a society. He reasoned that because it is easier to formulate certain concepts and not others in a given language, the speakers of that language think along one track and not along another. (45) Whorf came to believe in a sort of linguistic determinism which, in its strongest form, states that language imprisons the mind, and that the grammatical patterns in a language can produce far-reaching consequences for the culture of a society. Later, this idea became to be known as the Sapir-Whorf hypothesis, but this term is somewhat inappropriate. Although both Sapir and Whorf emphasized the diversity of languages, Sapir himself never explicitly supported the notion of linguistic determinism.
+
+
+Section III    Writing
+
+46. Directions：
+Study the following drawing carefully and write an essay in which you should
+1. describe the drawing，
+2. interpret its meaning, and
+3. support your view with examples.
+You should write about 200 words neatly on ANSWER SHEET 2 (20 points)
+
+ 2003年全国攻读硕士学位研究生入学考试英语试题
+Section I   Use of English
+Directions：
+Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C OR D on ANSWER SHEET 1. (10 points)
+
+Teachers need to be aware of the emotional, intellectual, and physical changes that young adults experience. And they also need to give serious   1   to how they can best   2   such changes. Growing bodies need movement and  3   , but not just in ways that emphasize competition.   4   they are adjusting to their new bodies and a whole host of new intellectual and emotional challenges, teenagers are especially self-conscious and need the   5   that comes from achieving success and knowing that their accomplishments are   6   by others. However, the typical teenage lifestyle is already filled with so much competition that it would be   7   to plan activities in which there are more winners than losers,  8  ，publishing newsletters with many student-written book reviews,  9  student artwork, and sponsoring book discussion clubs. A variety of small clubs can provide   10   opportunities for leadership, as well as for practice in successful  11  dynamics. Making friends is extremely important to teenagers, and many shy students need the   12  of some kind of organization with a supportive adult  13  visible in the background. 
+In these activities, it is important to remember that the young teens have   14  attention spans. A variety of activities should be organized   15   participants can remain active as long as they want and then go on to   16   else without feeling guilty and without letting the other participants   17  . This does not mean that adults must accept irresponsibility.   18   they can help students acquire a sense of commitment by   19   for roles that are within their  20  and their attention spans and by having clearly stated rules. 
+
+1. [A] thought        	[B] idea        	[C] opinion       	[D] advice 
+2. [A] strengthen  	[B] accommodate 	[C] stimulate      	[D] enhance 
+3. [A] care         	[B] nutrition    	[C] exercise       	[D] leisure
+4. [A] If         	[B] Although   	[C] Whereas       	[D] Because 
+5. [A] assistance  	[B] guidance   	[C] confidence     	[D] tolerance 
+6. [A] claimed      	[B] admired      	[C] ignored      	[D] surpassed 
+7. [A] improper  	[B] risky        	[C] fair           	[D] wise 
+8. [A] in effect        	[B] as a result    	[C] for example    	[D] in a sense 
+9. [A] displaying  	[B] describing     	[C] creating       	[D] exchanging 
+10. [A] durable     	[B] excessive     	[C] surplus        	[D] multiple
+11. [A] group       	[B] individual     	[C] personnel      	[D] corporation 
+12. [A] consent    	[B] insurance   	[C] admission    	[D] security 
+13. [A] particularly     	[B] barely        	[C] definitely      	[D] rarely 
+14. [A] similar     	[B] long          	[C] different      	[D] short 
+15. [A] if only       	[B] now that     	[C] so that        	[D] even if 
+16. [A] everything   	[B] anything    	[C] nothing    	[D] something 
+17. [A] off         	[B] down      	[C] out         	[D] alone 
+18. [A] On the contrary	[B] On the average 	[C] On the whole 	[D] On the other hand 
+19. [A] making    	[B] standing      	[C] planning   	[D] taking 
+20. [A] capability    	[B] responsibility  	[C] proficiency  	[D] efficiency
+
+
+Section II   Reading Comprehension
+Part A  Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C] or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+Wild Bill Donovan would have loved the Inter net. The American spymaster who built the Office of Strategic Services in the World War Ⅱ and later laid the roots for the CIA was  fascinated with information. Donovan believed in using whatever tools came to hand in the “great game” of espionage—spying as a “profession.” These days the Net, which has already re-made such everyday pastimes as buying books and sending mail, is reshaping Donovan’s vocation as well. 
+The latest revolution isn’t simply a matter of gentlemen reading other gentlemen’s e-mail. That kind of electronic spying has been going on for decades. In the past three or four years, the World Wide Web has given birth to a whole industry of point-and-click spying. The spooks call it “open source intelligence,” and as the Net grows, it is becoming increasingly influential. In 1995 the CIA held a contest to see who could compile the most data about Burundi. The winner, by a large margin, was a tiny Virginia company called Open-Source Solutions，whose clear advantage was its mastery of the electronic world.
+Among the firms making the biggest splash in the new world is Straitford, Inc., a private intelligence-analysis firm based in Austin, Texas. Straitford makes money by selling the results of spying (covering nations from Chile to Russia) to corporations like energy-services firm McDermott International. Many of its predictions are available online at .
+Straiford president George Friedman says he sees the online world as a kind of mutually reinforcing tool for both information collection and distribution, a spymaster’s dream. Last week his firm was busy vacuuming up data bits from the far corners of the world and predicting a crisis in Ukraine. “As soon as that report runs, we’ll suddenly get 500 new internet sign-ups from Ukraine,” says Friedman, a former political science professor. “And we’ll hear back from some of them.” Open-source spying does have its risks, of course, since it can be difficult to tell good information from bad. That’s where Straitford earns its keep.
+Friedman relies on a lean staff of 20 in Austin. Several of his staff members have military-intelligence backgrounds. He sees the firm’s outsider status as the key to its success. Straitford’s briefs don’t sound like the usual Washington back-and-forthing, whereby agencies avoid dramatic declarations on the chance they might be wrong. Straitford, says Friedman, takes pride in its independent voice.
+21. The emergence of the Net has       . 
+[A] received support from fans like Donovan 	[B] remolded the intelligence services 
+[C] restored many common pastimes 	[D] revived spying as a profession
+22. Donovan’s story is mentioned in the text to    .
+[A] introduce the topic of online spying	[B] show how he fought for the US
+[C] give an episode of the information war	[D] honor his unique services to the CIA
+23. The phrase “making the biggest splash” (line 1,paragraph 3) most probably means    .
+[A] causing the biggest trouble	[B] exerting the greatest effort
+[C] achieving the greatest success	[D] enjoying the widest popularity
+24. It can be learned from paragraph 4 that   .
+[A] straitford’s prediction about Ukraine has proved true
+[B] straitford guarantees the truthfulness of its information
+[C] straitford’s business is characterized by unpredictability 
+[D] straitford is able to provide fairly reliable information
+
+25. Straitford is most proud of its       .
+[A] official status	[B] nonconformist image
+[C] efficient staff	[D] military background
+Text 2 
+To paraphrase 18th-century statesman Edmund Burke, “all that is needed for the triumph of a misguided cause is that good people do nothing.” One such cause now seeks to end biomedical research because of the theory that animals have rights ruling out their use in research. Scientists need to respond forcefully to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care. Leaders of the animal rights movement target biomedical research because it depends on public funding, and few people understand the process of health care research. Hearing allegations of cruelty to animals in research settings, many are perplexed that anyone would deliberately harm an animal.
+For example, a grandmotherly woman staffing an animal rights booth at a recent street fair was distributing a brochure that encouraged readers not to use anything that comes from or is tested in animals—no meat, no fur, no medicines. Asked if she opposed immunizations, she wanted to know if vaccines come from animal research. When assured that they do, she replied, “Then I would have to say yes.” Asked what will happen when epidemics return, she said, “Don’t worry, scientists will find some way of using computers.” Such well-meaning people just don’t understand.
+Scientists must communicate their message to the public in a compassionate, understandable way—in human terms, not in the language of molecular biology. We need to make clear the connection between animal research and a grandmother’s hip replacement, a father’s bypass operation, a baby’s vaccinations, and even a pet’s shots. To those who are unaware that animal research was needed to produce these treatments, as well as new treatments and vaccines, animal research seems wasteful at best and cruel at worst.
+Much can be done. Scientists could “adopt” middle school classes and present their own research. They should be quick to respond to letters to the editor, lest animal rights misinformation go unchallenged and acquire a deceptive appearance of truth. Research institutions could be opened to tours, to show that laboratory animals receive humane care. Finally, because the ultimate stakeholders are patients, the health research community should actively recruit to its cause not only well-known personalities such as Stephen Cooper, who has made courageous statements about the value of animal research, but all who receive medical treatment. If good people do nothing, there is a real possibility that an uninformed citizenry will extinguish the precious embers of medical progress.
+26. The author begins his article with Edmund Burke’s words to      .
+[A] call on scientists to take some actions	[B] criticize the misguided cause of animal rights
+[C] warn of the doom of biomedical research	[D] show the triumph of the animal rights movement
+27. Misled people tend to think that using an animal in research is      .
+[A] cruel but natural	[B] inhuman and unacceptable
+[C] inevitable but vicious 	[D] pointless and wasteful
+28. The example of the grandmotherly woman is used to show the public’s      .
+[A] discontent with animal research	[B] ignorance about medical science
+[C] indifference to epidemics	[D] anxiety about animal rights
+29. The author believes that, in face of the challenge from animal rights advocates, scientists should      .
+[A] communicate more with the public 	[B] employ hi-tech means in research
+[C] feel no shame for their cause	[D] strive to develop new cures
+30. From the text we learn that Stephen Cooper is       .
+[A] a well-known humanist	[B] a medical practitioner
+[C] an enthusiast in animal rights	[D] a supporter of animal research
+Text 3
+In recent years, railroads have been combining with each other, merging into supersystems, causing heightened concerns about monopoly. As recently as 1995, the top four railroads accounted for under 70 percent of the total ton-miles moved by rails. Next year, after a series of mergers is completed, just four railroads will control well over 90 percent of all the freight moved by major rail carriers.
+Supporters of the new supersystems argue that these mergers will allow for substantial cost reductions and better coordinated service. Any threat of monopoly, they argue, is removed by fierce competition from trucks. But many shippers complain that for heavy bulk commodities traveling long distances, such as coal, chemicals, and grain, trucking is too costly and the railroads therefore have them by the throat.
+The vast consolidation within the rail industry means that most shippers are served by only one rail company. Railroads typically charge such“captive”shippers 20 to 30 percent more than they do when another railroad is competing for the business. Shippers who feel they are being overcharged have the right to appeal to the federal government's Surface Transportation Board for rate relief, but the process is expensive, time consuming, and will work only in truly extreme cases.
+Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone's cost. If railroads charged all customers the same average rate, they argue, shippers who have the option of switching to trucks or other forms of transportation would do so, leaving remaining customers to shoulder the cost of keeping up the line. It's theory to which many economists subscribe, but in practice it often leaves railroads in the position of determining which companies will flourish and which will fail.“Do we really want railroads to be the arbiters of who wins and who loses in the marketplace?”asks Martin Bercovici, a Washington lawyer who frequently represents shipper.
+Many captive shippers also worry they will soon be hit with a round of huge rate increases. The railroad industry as a whole, despite its brightening fortuning fortunes, still does not earn enough to cover the cost of the capital it must invest to keep up with its surging traffic. Yet railroads continue to borrow billions to acquire one another, with Wall Street cheering them on. Consider the $10.2 billion bid by Norfolk Southern and CSX to acquire Conrail this year. Conrail's net railway operating income in 1996 was just $427 million, less than half of the carrying costs of the transaction. Who's going to pay for the rest of the bill? Many captive shippers fear that they will, as Norfolk Southern and CSX increase their grip on the market.
+31. According to those who support mergers, railway monopoly is unlikely because     .
+[A] cost reduction is based on competition.	[B] services call for cross-trade coordination.
+[C] outside competitors will continue to exist.	[D] shippers will have the railway by the throat. 
+32. What is many captive shippers' attitude towards the consolidation in the rail industry?
+[A] Indifferent.    [B] Supportive.    [C] Indignant.   [D] Apprehensive.
+33. It can be inferred from paragraph 3 that     .
+[A] shippers will be charged less without a rival railroad.
+[B] there will soon be only one railroad company nationwide.
+[C] overcharged shippers are unlikely to appeal for rate relief.
+[D] a government board ensures fair play in railway business.
+34. The word “arbiters”(line 7,paragraph 4)most probably refers to those     .
+[A] who work as coordinators.	[B] who function as judges.
+[C] who supervise transactions.	[D] who determine the price.
+35. According to the text, the cost increase in the rail industry is mainly caused by     .
+[A] the continuing acquisition. 	[B] the growing traffic.
+[C] the cheering Wall Street.	[D] the shrinking market.
+
+Text 4
+It is said that in England death is pressing, in Canada inevitable and in California optional. Small wonder. Americans’ life expectancy has nearly doubled over the past century. Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure. Such advances offer the aging population a quality of life that was unimaginable when I entered medicine 50 years ago. But not even a great health-care system can cure death—and our failure to confront that reality now threatens this greatness of ours.
+Death is normal; we are genetically programmed to disintegrate and perish, even under ideal conditions. We all understand that at some level, yet as medical consumers we treat death as a problem to be solved. Shielded by third-party payers from the cost of our care, we demand everything that can possibly be done for us, even if it’s useless. The most obvious example is late-stage cancer care. Physicians—frustrated by their inability to cure the disease and fearing loss of hope in the patient—too often offer aggressive treatment far beyond what is scientifically justified.
+In 1950, the US spent $12.7 billion on health care. In 2002, the cost will be $1,540 billion. Anyone can see this trend is unsustainable. Yet few seem willing to try to reverse it. Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age—say 83 or so. Former Colorado governor Richard Lamm has been quoted as saying that the old and infirm “have a duty to die and get out of the way”, so that younger, healthier people can realize their potential.
+I would not go that far. Energetic people now routinely work through their 60s and beyond, and remain dazzlingly productive. At 78, Viacom chairman Sumner Redstone jokingly claims to be 53. Supreme Court Justice Sandra Day O’Connor is in her 70s, and former surgeon general C. Everett Koop chairs an Internet start-up in his 80s.These leaders are living proof that prevention works and that we can manage the health problems that come naturally with age. As a mere 68-year-old, I wish to age as productively as they have.
+Yet there are limits to what a society can spend in this pursuit. As a physician, I know the most costly and dramatic measures may be ineffective and painful. I also know that people in Japan and Sweden, countries that spend far less on medical care, have achieved longer, healthier lives than we have. As a nation, we may be overfunding the quest for unlikely cures while underfunding research on humbler therapies that could improve people’s lives.
+36. What is implied in the first sentence?
+[A] Americans are better prepared for death than other people.
+[B] Americans enjoy a higher life quality than ever before.
+[C] Americans are over-confident of their medical technology.
+[D] Americans take a vain pride in their long life expectancy.
+37. The author uses the example of caner patients to show that        .
+[A] medical resources are often wasted
+[B] doctors are helpless against fatal diseases
+[C] some treatments are too aggressive
+[D] medical costs are becoming unaffordable
+38. The author’s attitude toward Richard Lamm’s remark is one of.
+[A] strong disapproval           	[B] reserved consent
+[C]  slight contempt             	[D] enthusiastic support
+39. In contras to the US, Japan and Sweden are funding their medical care. 
+[A] more flexibly               	[B] more extravagantly
+[C] more cautiously             	[D] more reasonably
+40. The text intends to express the idea that. 
+[A]medicine will further prolong people’s lives
+[B]life beyond a certain limit is not worth living
+[C] death should be accepted as a fact of life
+[D] excessive demands increase the cost of health care
+
+Part B
+Directions:
+  Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)
+
+Human beings in all times and places think about their world and wonder at their place in it. Humans are thoughtful and creative, possessed of insatiable curiosity.（41）Furthermore, humans have the ability to modify the environment in which they live, thus subjecting all other life forms to their own peculiar ideas and fancies. Therefore, it is important to study humans in all their richness and diversity in a calm and systematic manner, with the hope that the knowledge resulting from such studies can lead humans to a more harmonious way of living with themselves and with all other life forms on this planet Earth. 
+“Anthropology” derives from the Greek words anthropos “human” and logos “the study of.” By its very name, anthropology encompasses the study of all humankind. 
+Anthropology is one of the social sciences.（42）Social science is that branch of intellectual enquiry which seeks to study humans and their endeavors in the same reasoned, orderly, systematic, and dispassioned manner that natural scientists use for the study of natural phenomena. 
+Social science disciplines include geography, economics, political, science, psychology, and sociology. Each of these social sciences has a subfield or specialization which lies particularly close to anthropology. 
+All the social sciences focus upon the study of humanity. Anthropology is a field-study oriented discipline which makes extensive use of the comparative method in analysis.（43）The emphasis on data gathered first-hand, combined with a cross-cultural perspective brought to the analysis of cultures past and present, makes this study a unique and distinctly important social science. 
+Anthropological analyses rest heavily upon the concept of culture. Sir Edward Tylor’s formulation of the concept of culture was one of the great intellectual achievements of 19th century science.（44）Tylor defined culture as “…that complex whole which includes belief, art, morals, law, custom, and any other capabilities and habits acquired by man as a member of society.” This insight, so profound in its simplicity, opened up an entirely new way of perceiving and understanding human life. Implicit within Tylor’s definition is the concept that culture is learned. shared, and patterned behavior. 
+（45）Thus, the anthropological concept of “culture,” like the concept of “set” in mathematics, is an abstract concept which makes possible immense amounts of concrete research and understanding. 
+Section III    Writing
+46.  Directions:
+Study the following set of drawings carefully and write an essay entitled in which you should 
+1）describe the set of drawings, interpret its meaning, and
+2）point out its implications in our life.
+You should write about 200 words neatly on ANSWER SHEET 2. (20 points)
+ 
+2002年全国攻读硕士学位研究生入学考试英语试题
+Section I   Use of English
+
+Directions：
+Read the following text. Choose the best word(s) for each numbered blank and mark A, B, C OR D on ANSWER SHEET 1. (10 points)
+
+Comparisons were drawn between the development of television in the 20th century and the diffusion of printing in the 15th and 16th centuries. Yet much had happened   1   . As was discussed before, it was not   2   the 19th century that the newspaper became the dominant pre-electronic_ 3 _  ，following in the wake of the pamphlet and the book and in the   4   of the periodical. It was during the same time that the communications revolution  5    up, beginning with transport, the railway, and leading   6   through the telegraph, the telephone, radio, and motion pictures  7  the 20th century world of the motor car and the air plane. Not everyone sees that Process in    8   . It is important to do so. 
+It is generally recognized,  9   , that the introduction of the computer in the early 20th century,   10   by the invention of the integrated circuit during the 1960s, radically changed the process,   11   its impact on the media was not immediately   12   . As time went by, computers became smaller and more powerful, and they became “personal” too, as well as   13   , with display becoming sharper and storage   14    increasing. They were thought of, like people,   15   generations, with the distance between generations much   16   . 
+It was within the computer age that the term “information society” began to be widely used to describe the   17   within which we now live. The communications revolution has   18   both work and leisure and how we think and feel both about place and time, but there have been  19   view about its economic, political, social and cultural implications. “Benefits” have been weighed    20   “harmful” outcomes. And generalizations have proved difficult.
+
+1. ［A］between  	［B］before  	［C］since   	［D］later
+2. ［A］after     	［B］by       	［C］during   	［D］until
+3. ［A］means  	［B］method   	［C］medium 	［D］measure
+4. ［A］process 	［B］company   	［C］light     	［D］form
+5. ［A］gathered  	［B］speeded   	［C］worked  	［D］picked
+6. ［A］on     	［B］out       	［C］over     	［D］off
+7. ［A］of    	［B］for       	［C］beyond  	［D］into
+8. ［A］concept 	［B］dimension  	［C］effect    	［D］perspective
+9. ［A］indeed     	［B］hence    	［C］however  	［D］therefore
+10. ［A］brought    	［B］followed   	［C］stimulated  	［D］characterized
+11. ［A］unless    	［B］since     	［C］lest      	［D］although
+12. ［A］apparent  	［B］desirable  	［C］negative 	［D］plausible
+13. ［A］institutional 	［B］universal 	［C］fundamental	［D］instrumental
+14. ［A］ability      	［B］capability  	［C］capacity  	［D］faculty
+15. ［A］by means of 	［B］in terms of  	［C］with regard to 	［D］in line with
+16. ［A］deeper    	［B］fewer   	［C］nearer    	［D］smaller
+17. ［A］context  	［B］range    	［C］scope       	［D］territory
+18. ［A］regarded   	［B］impressed 	［C］influenced   	［D］effected
+19. ［A］competitive 	［B］controversial	［C］distracting   	［D］irrational
+20. ［A］above   	［B］upon    	［C］against      	［D］with
+
+
+
+
+Section II    Reading Comprehension
+Part A
+Directions:
+Read the following four texts. Answer the questions below each text by choosing [A], [B], [C] or [D]. Mark your answers on ANSWER SHEET 1. (40 points)
+Text 1
+
+If you intend using humor in your talk to make people smile, you must know how to identify shared experiences and problems. Your humor must be relevant to the audience and should help to show them that you are one of them or that you understand their situation and are in sympathy with their point of view.  Depending on whom you are addressing, the problems will be different. If you are talking to a group of managers, you may refer to the disorganized methods of their secretaries; alternatively if you are addressing secretaries, you may want to comment on their disorganized bosses.
+Here is an example, which I heard at a nurses’ convention, of a story which works well because the audience all shared the same view of doctors. A man arrives in heaven and is being shown around by St. Peter. He sees wonderful accommodations, beautiful gardens, sunny weather, and so on. Everyone is very peaceful, polite and friendly until, waiting in a line for lunch, the new arrival is suddenly pushed aside by a man in a white coat, who rushes to the head of the line, grabs his food and stomps over to a table by himself. “Who is that?” the new arrival asked St. Peter.  “Oh, that’s God,” came the reply, “but sometimes he thinks he’s a doctor.” 
+If you are part of the group which you are addressing, you will be in a position to know the experiences and problems which are common to all of you and it’ll be appropriate for you to make a passing remark about the inedible canteen food or the chairman’s notorious bad taste in ties. With other audiences you mustn’t attempt to cut in with humor as they will resent an outsider making disparaging remarks about their canteen or their chairman.  You will be on safer ground if you stick to scapegoats like the Post Office or the telephone system. 
+If you feel awkward being humorous, you must practice so that it becomes more natural. Include a few casual and apparently off-the-cuff remarks which you can deliver in a relaxed and unforced manner. Often it’s the delivery which causes the audience to smile, so speak slowly and remember that a raised eyebrow or an unbelieving look may help to show that you are making a light-hearted remark. 
+Look for the humor. It often comes from the unexpected. A twist on a familiar quote “If at first you don’t succeed, give up” or a play on words or on a situation. Search for exaggeration and understatement. Look at your talk and pick out a few words or sentences which you can turn about and inject with humor.
+21. To make your humor work, you should      .
+[A] take advantage of different kinds of audience	[B] make fun of the disorganized people
+[C] address different problems to different people	[D] show sympathy for your listeners
+22. The joke about doctors implies that, in the eyes of nurses, they are     .
+[A] impolite to new arrivals	[B] very conscious of their godlike role
+[C] entitled to some privileges	[D] very busy even during lunch hours
+23. It can be inferred from the text that public services     .
+[A] have benefited many people	[B] are the focus of public attention
+[C] are an inappropriate subject for humor	[D] have often been the laughing stock
+24. To achieve the desired result, humorous stories should be delivered     .
+[A] in well-worded language	[B] as awkwardly as possible
+[C] in exaggerated statements	[D] as casually as possible
+25. The best title for the text may be     .
+[A] Use Humor Effectively	[B] Various Kinds of Humor
+[C] Add Humor to Speech	[D] Different Humor Strategies
+
+
+Text 2
+Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, burdensome, or just plain nasty. That compulsion has resulted in robotics—the science of conferring various human capabilities on machines. And if scientists have yet to create the mechanical version of science fiction, they have begun to come close.
+As a result, the modern world is increasingly populated by intelligent gizmos whose presence we barely notice but whose universal existence has removed much human labor. Our factories hum to the rhythm of robot assembly arms. Our banking is done at automated teller terminals that thank us with mechanical politeness for the transaction. Our subway trains are controlled by tireless robot-drivers. And thanks to the continual miniaturization of electronics and micro-mechanics, there are already robot systems that can perform some kinds of brain and bone surgery with submillimeter accuracy—far greater precision than highly skilled physicians can achieve with their hands alone.
+But if robots are to reach the next stage of laborsaving utility, they will have to operate with less human supervision and be able to make at least a few decisions for themselves—goals that pose a real challenge. “While we know how to tell a robot to handle a specific error," says Dave Lavery, manager of a robotics program at NASA, “we can't yet give a robot enough ‘common sense’ to reliably interact with a dynamic world.” 
+Indeed the quest for true artificial intelligence has produced very mixed results. Despite a spell of initial optimism in the 1960s and 1970s when it appeared that transistor circuits and microprocessors might be able to copy the action of the human brain by the year 2010, researchers lately have begun to extend that forecast by decades if not centuries. 
+What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined. They have built robots that can recognize the error of a machine panel by a fraction of a millimeter in a controlled factory environment. But the human mind can glimpse a rapidly changing scene and immediately disregard the 98 percent that is irrelevant, instantaneously focusing on the monkey at the side of a winding forest road or the single suspicious face in a big crowd. The most advanced computer systems on Earth can't approach that kind of ability, and neuroscientists still don’t know quite how we do it. 
+26. Human ingenuity was initially demonstrated in    .
+[A] the use of machines to produce science fiction.
+[B] the wide use of machines in manufacturing industry.
+[C] the invention of tools for difficult and dangerous work.
+[D] the elite’s cunning tackling of dangerous and boring work.
+27. The word “gizmos” (line 1, paragraph 2) most probably means   .   
+[A] programs［B］ experts     ［C］ devices    ［D］ creatures
+28. According to the text, what is beyond man's ability now is to design a robot that can  . 
+[A] fulfill delicate tasks like performing brain surgery.
+[B] interact with human beings verbally.   
+[C] have a little common sense.  
+[D] respond independently to a changing world.
+29. Besides reducing human labor, robots can also   .   
+[A] make a few decisions for themselves.
+[B] deal with some errors with human intervention.   
+[C] improve factory environments.
+[D] cultivate human creativity.
+30. The author uses the example of a monkey to argue that robots are   .
+[A] expected to copy human brain in internal structure.
+[B] able to perceive abnormalities immediately.   
+[C] far less able than human brain in focusing on relevant information.
+[D] best used in a controlled environment.
+
+
+Text 3
+Could the bad old days of economic decline be about to return? Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December. This near-tripling of oil prices calls up scary memories of the 1973 oil shock, when prices quadrupled, and 1979-1980, when they also almost tripled. Both previous shocks resulted in double-digit inflation and global economic decline. So where are the headlines warning of gloom and doom this time?
+The oil price was given another push up this week when Iraq suspended oil exports. Strengthening economic growth, at the same time as winter grips the northern hemisphere, could push the price higher still in the short term.
+Yet there are good reasons to expect the economic consequences now to be less severe than in the 1970s. In most countries the cost of crude oil now accounts for a smaller share of the price of petrol than it did in the 1970s. In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.
+Rich economies are also less dependent on oil than they were, and so less sensitive to swings in the oil price. Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption. Software, consultancy and mobile telephones use far less oil than steel or car production. For each dollar of GDP (in constant prices) rich economies now use nearly 50% less oil than in 1973. The OECD estimates in its latest Economic Outlook that, if oil prices averaged $22 a barrel for a full year, compared with $13 in 1998, this would increase the oil import bill in rich economies by only 0.25-0.5% of GDP. That is less than one-quarter of the income loss in 1974 or 1980. On the other hand, oil-importing emerging economies—to which heavy industry has shifted—have become more energy-intensive, and so could be more seriously squeezed. 
+One more reason not to lose sleep over the rise in oil prices is that, unlike the rises in the 1970s, it has not occurred against the background of general commodity-price inflation and global excess demand. A sizable portion of the world is only just emerging from economic decline. The Economist’s commodity price index is broadly unchanging from a year ago. In 1973 commodity prices jumped by 70%, and in 1979 by almost 30%. 
+
+31. The main reason for the latest rise of oil price is_______
+[A] global inflation.             	[B] reduction in supply. 
+[C]fast growth in economy.        	[D] Iraq’s suspension of exports.  
+32. It can be inferred from the text that the retail price of petrol will go up dramatically if______.   
+[A] price of crude rises.            	[B] commodity prices rise.
+[C] consumption rises.               	[D] oil taxes rise.
+33. The estimates in Economic Outlook show that in rich countries_______.   
+［A］heavy industry becomes more energy-intensive.   
+［B］income loss mainly results from fluctuating crude oil prices.   
+［C］manufacturing industry has been seriously squeezed.   
+［D］oil price changes have no significant impact on GDP.
+34. We can draw a conclusion from the text that_______.
+［A］oil-price shocks are less shocking now.   
+［B］inflation seems irrelevant to oil-price shocks.   
+［C］energy conservation can keep down the oil prices.   
+［D］the price rise of crude leads to the shrinking of heavy industry.
+35. From the text we can see that the writer seems__________.
+［A］optimistic.   ［B］sensitive.   ［C］gloomy.  ［D］scared.
+
+Text 4
+The Supreme Court’s decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering. 
+Although it ruled that there is no constitutional right to physician-assisted suicide, the Court in effect supported the medical principle of “double effect”, a centuries-old moral principle holding that an action having two effects—a good one that is intended and a harmful one that is foreseen—is permissible if the actor intends only the good effect. 
+Doctors have used that principle in recent years to justify using high doses of morphine to control terminally ill patients’pain, even though increasing dosages will eventually kill the patient. 
+Nancy Dubler, director of Montefiore Medical Center, contends that the principle will shield doctors who “until now have very, very strongly insisted that they could not give patients sufficient medication to control their pain if that might hasten death”. 
+George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal even if the patient uses the drug to hasten death. “It’s like surgery,” he says. “We don’t call those deaths homicides because the doctors didn’t intend to kill their patients, although they risked their death. If you’re a physician, you can risk your patient’s suicide as long as you don’t intend their suicide.”
+On another level, many in the medical community acknowledge that the assisted-suicide debate has been fueled in part by the despair of patients for whom modern medicine has prolonged the physical agony of dying. 
+Just three weeks before the Court’s ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report, Approaching Death: Improving Care at the End of Life. It identifies the undertreatment of pain and the aggressive use of “ineffectual and forced medical procedures that may prolong and even dishonor the period of dying” as the twin problems of end-of-life care.
+The profession is taking steps to require young doctors to train in hospices, to test knowledge of aggressive pain management therapies, to develop a Medicare billing code for hospital-based care, and to develop new standards for assessing and treating pain at the end of life. 
+Annas says lawyers can play a key role in insisting that these well-meaning medical initiatives translate into better care. “Large numbers of physicians seem unconcerned with the pain their patients are needlessly and predictably suffering”, to the extent that it constitutes “systematic patient abuse”. He says medical licensing boards “must make it clear...that painful deaths are presumptively ones that are incompetently managed and should result in license suspension”. 
+
+36. From the first three paragraphs, we learn that       .
+[A] doctors used to increase drug dosages to control their patients’pain
+[B] it is still illegal for doctors to help the dying end their lives
+[C] the Supreme Court strongly opposes physician-assisted suicide
+[D] patients have no constitutional right to commit suicide
+37. Which of the following statements is true according to the text?
+[A] Doctors will be held guilty if they risk their patients’death.
+[B] Modern medicine has assisted terminally ill patients in painless recovery.
+[C] The Court ruled that high-dosage pain-relieving medication can be prescribed.
+[D] A doctor’s medication is no longer justified by his intentions.
+38. According to the NAS’s report, one of the problems in end-of-life care is     .
+[A] prolonged medical procedures          	[B] inadequate treatment of pain
+[C] systematic drug abuse                	[D] insufficient hospital care
+39. Which of the following best defines the word “aggressive” (line 4, paragraph 7)?
+[A] Bold.     [B] Harmful.      [C] Careless.    [D] Desperate
+40. George Annas would probably agree that doctors should be punished if they      .
+[A] manage their patients incompetently
+[B] give patients more medicine than needed
+[C] reduce drug dosages for their patients
+[D] prolong the needless suffering of the patients
 
 Part B
 Directions: 
-Read the following text and answer the questions [by choosing the most suitable subtitle from the list A-G [for each numbered paragraph]] (41-45). There are two extra subtitles (which you do not need to use). Mark your answers on ANSWER SHEET1. (10 points)
+Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearly on ANSWER SHEET 2. (10 points)
+Almost all our major problems involve human behavior, and they cannot be solved by physical and biological technology alone. What is needed is a technology of behavior, but we have been slow to develop the science from which such a technology might be drawn.（41）One difficulty is that almost all of what is called behavioral science continues to trace behavior to states of mind, feelings, traits of character, human nature, and so on. Physics and biology once followed similar practices and advanced only when they discarded them. （42）The behavioral sciences have been slow to change partly because the explanatory items often seem to be directly observed and partly because other kinds of explanations have been hard to find. The environment is obviously important, but its role has remained obscure. It does not push or pull, it selects, and this function is difficult to discover and analyze.（43）The role of natural selection in evolution was formulated only a little more than a hundred years ago, and the selective role of the environment in shaping and maintaining the behavior of the individual is only beginning to be recognized and studied. As the interaction between organism and environment has come to be understood, however, effects once assigned to states of mind, feelings, and traits are beginning to be traced to accessible conditions, and a technology of behavior may therefore become available. It will not solve our problems, however, until it replaces traditional prescientific views, and these are strongly entrenched. Freedom and dignity illustrate the difficulty. （44）They are the possessions of the autonomous（self-governing）man of traditional theory, and they are essential to practices in which a person is held responsible for his conduct and given credit for his achievements. A scientific analysis shifts both the responsibility and the achievement to the environment. It also raises questions concerning “values”. Who will use a technology and to what ends? （45）Until these issues are resolved, a technology of behavior will continue to be rejected, and with it possibly the only way to solve our problems.
+Section III   Writing
+46. Directions:
+Study the following picture carefully and write an essay entitled “Cultures National and International”. 
+In the essay you should
+1. describe the picture and interpret its meaning, and
+2. give your comment on the phenomenon.
+You should write about 200 words neatly on ANSWER SHEET 2. (20 points)
+ 
+An American girl in traditional Chinese costume（服装）
 
-(A) Make it a habit 
-(B) Don't go it [alone] 
-(C) [Start low], go [slow] 
-(D) Talk with your doctor 
-(E) Listen to your body 
-(F) Go through the motions 
-(G) Round out your routine 
 
-How to Get Active [Again]
 
-[Getting back into exercise] after a break can be a challenge [in the best (of times)], but with gyms and in-person exercise classes (off-limits) [to many people] [these days], || it can be tricky to know | where to start. 
-And it is important to get the right dose (of activity).
-["Too much too soon] either results in injury or burnout," says Mary Yoke, PhD, a faculty member (in the kinesiology department (at Indiana University (in Bloomington))). 
-The following simple strategies will help you return to exercise [safely] [after a break].
-41. ____
-Don't try to go back to {what you were doing} [before your break].
-(don't = do not)
-If you were walking 3 miles [a day], playing 18 holes (of golf) [three times] [a week], or lifting 10-pound dumbbells [for three sets (of 10 reps)], || reduce activity to half a mile [every other day, or nine holes (of golf)] [once] [a week] [with short walks] [on other days], or use 5-pound dumbbells for one set (of 10 reps).
-Increase time, distance, and intensity [gradually]. 
-"This isn't something (you can do [overnight])," says Keri L. Denay, MD. 
-lead author (of a recent American College (of Sports Medicine advisory (that encourages Americans to not overlook the benefits (of activity) [during the pandemic]))).
-(isn't = is not)
-But you'll reap benefits (such as less anxiety) and improved sleep [right away].
-(you'll = you will)
-42. ____
-If you're breathing [too hard] to talk [in complete sentences], || back off. 
-If you feel good, || go [a little longer] or faster. 
-Feeling wiped out [after a session]? 
-Go [easier] [next time]. 
-And stay alert to serious symptoms, <such as chest pain or pressure, severe shortness (of breath or dizziness), or faintness>, and seek medical attention [immediately].
-(you're = you are, longer 为 long 的比较级形式, faster 为 fast 的比较级形式, easier 为 easy 的比较级形式)
-43. ____
-Consistency is the key (to getting stronger and building endurance and stamina). 
-Ten minutes (of activity (per day)) is | a good start says Marcus Jackovitz, DPT, a physical therapist (at the University of Miami Hospital). 
-All the experts (we spoke with) highly recommend walking || because it's the easiest, most accessible form (of exercise).
-(spoke 为 speak 的过去式。stronger 为 strong 的比较级形式, it's = it is, easiest 为 easy 的最高级形式)
-Although it can be a workout [on its own], || if your goal is to get back to Zumba classes, tennis, cycling or any other activity || walking is [also] a great first step.
-44. ____
-Even if you can't yet do a favorite activity, || you can practice the moves. 
-[With or without a club or racket] swing (like you)'re hitting the ball. 
-Paddle (like you)'re in a kayak or canoe. 
-Mimic your favorite swimming strokes. 
-The action will remind you of the joy (the activity brought you) and prime your muscles [for {when you can get out [there] [again]}].
-(brought 为 bring 的过去式。can't = can not, you're = you are)
-45. ____
-Exercising [with others] "can keep you accountable and make it more fun, || so you're more likely to do it [again]," Jackovitz says. 
-You can do activities (such as golf and tennis) or take a walk [with others] and still be [socially] distant. 
-But when you can't connect [in person], || consider using technology.
-(you're = you are, can't = can not)
-Chat [on the phone] [with a friend] || while you walk [around your neighborhood]. 
-FaceTime (with a relative) as you strength train or stretch [at home]. 
-You can also join a livestream or on-demand exercise class.
 
-Section Ⅲ Translation
-46. Directions: Translate the following text into Chinese. Write your translation [on the ANSWER | SHEET]. (15 points)
 
-Although we try out [best], || [sometimes] our paintings rarely turn out || as originally planned. 
-Changes [in the light], the limitations (of your painting materials), and the lack (of experience and technique) mean | that what you start out trying to achieve | may not come to life [the way (that you expected)].
-(best 为 well 的最高级形式)
 
-Although this can be frustrating and disappointing, || it turns out | that this can actually be good for you. 
-Unexpected results have two benefits: you pretty quickly learn to deal with disappointment and realize | that when one door closes, || another opens.
-You also quickly learn to adapt and come up with creative solutions (to the problems (the painting presents and thinking [outside the box] will become your second nature)).
 
-[In fact], creative problem-solving skills are incredibly useful [in daily life, (with which you are more likely to be able to find a solution || when a problem arises)].
 
-Section Ⅳ Writing
-Part A 47. 
-Directions: 
-Suppose you are planning a campus food festival, || write an email to international students [in your university to] 
-1) introduce the food festival 
-2) invite them to participate 
-You should write about 100 words [on ANSWER | SHEET]. 
-(10 points) 
-Do not use your own name. Use "Li Ming" [instead].
 
-Part B 48. 
-Directions: 
-Write an essay (based on the chart (below)).[In your writing], you should 
-1) interpret the chart and 
-2) give your comments 
-You should write about 150 words [in the ANSWER | SHEET]. (15 points)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
