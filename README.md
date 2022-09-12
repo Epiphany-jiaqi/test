@@ -65520,4 +65520,3 @@ emblazoned
 
 
 
-![image](https://user-images.githubusercontent.com/108558572/189774021-cc2c578c-1d0e-464a-9ad4-c79a47e8959f.png)
