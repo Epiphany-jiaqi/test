@@ -2273,4 +2273,4 @@ old-style
 naysayer
 technologist
 oscillate
-![image](https://user-images.githubusercontent.com/108558572/189775315-9002a86a-0d02-4f17-8388-3a3ac81fdf9d.png)
+
