@@ -1,3 +1,4 @@
+S01E01.zh
 <i>爸 妈 格雷格的夹克衫里藏了香烟</i>
 
 -格雷格 你抽烟了？
@@ -932,3 +933,32 @@
 太荒谬了
 
 好吧 伤残索赔
+S01E02.zh
+S01E03.zh
+S01E04.zh
+S01E05.zh
+S01E06.zh
+S01E07.zh
+S01E08.zh
+S01E09.zh
+S01E10.zh
+S01E11.zh
+S01E12.zh
+S01E13.zh
+S01E14.zh
+S01E15.zh
+S01E16.zh
+S01E17.zh
+S01E18.zh
+S01E19.zh
+S01E20.zh
+S01E21.zh
+S01E22.zh
+S01E23.zh
+S01E24.zh
+S01E25.zh
+S01E26.zh
+S01E27.zh
+S01E28.zh
+S01E29.zh
+S01E30.zh
